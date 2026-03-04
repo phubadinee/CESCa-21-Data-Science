@@ -1,0 +1,16 @@
+Species,Body_Mass_kg,Food_Intake_kg,Type
+Lion,190,7.5,Predator
+Tiger,220,8.2,Predator
+Leopard,70,3.5,Predator
+Cheetah,50,3.2,Predator
+Wolf,45,2.1,Predator
+Zebra,300,10.0,Prey
+Antelope,60,2.5,Prey
+Gazelle,40,1.8,Prey
+Wildebeest,250,8.5,Prey
+Pig,80,3.0,Prey
+Sheep,55,2.0,Prey
+Goat,45,1.7,Prey
+Panda,110,12.0,Prey
+Big_Rat,0.5,0.05,Prey
+Mystery_Sloth,40,0.2,Prey
