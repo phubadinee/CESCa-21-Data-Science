@@ -1,9 +1,9 @@
 Name,Species,Job,Age,CaseSolved,Height_cm
 Judy Hopps,Rabbit,Police,24,150,40
 Nick Wilde,Fox,Police,32,120,110
-Clawhauser,Cheetah,null,NaN,80,140
+Clawhauser,Cheetah,Police,NaN,80,140
 Chief Bogo,Buffalo,Police,45,200,180
-Flash,null,DMV Officer,NaN,5,NaN
+Flash,Sloth,DMV Officer,NaN,5,NaN
 Yax,Yak,Yoga Instructor,38,NaN,210
 Bellwether,Sheep,Mayor Assistant,29,60,95
 Lionheart,Lion,Mayor,50,NaN,190
@@ -13,4 +13,4 @@ Duke Weaselton,Weasel,Criminal,40,NaN,60
 Mr Big,Shrew,Mafia Boss,55,NaN,12
 Benjamin Clawhauser,Cheetah,Police,NaN,75,142
 Otterton,Otter,Baker,41,NaN,70
-Manchas,Jaguar,Driver,39,NaN,null
+Manchas,Jaguar,Driver,39,NaN,175
