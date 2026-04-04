@@ -1,0 +1,21 @@
+order_id,name,species,size,ice_cream_flavor,price_z,temp_celsius,melt_rate,rating,sales_hour,district
+1,Judy Hopps,Rabbit,Small,Carrot Swirl,12.5,30,5,5,10,Bunnyburrow
+2,Nick Wilde,Fox,Medium,Pawpsicle,15.0,32,10,5,14,Sahara Square
+3,Chief Bogo,Buffalo,Large,Donut Crunch,25.0,35,15,4,9,Savanna Central
+4,Clawhauser,Cheetah,Large,Glazed Delight,20.0,34,20,5,11,Savanna Central
+5,Flash,Sloth,Medium,Slow-Choc,10.0,38,85,1,16,Downtown
+6,Priscilla,Sloth,Medium,Slow-Choc,10.0,38,90,1,17,Downtown
+7,Mr. Big,Shrew,Small,Tiny Nut,5.0,28,2,5,19,Little Rodentia
+8,Gazelle,Gazelle,Medium,Pop-Star Mint,30.0,31,8,5,20,Sahara Square
+9,Finnick,Fennec Fox,Small,Pawpsicle,15.0,33,12,4,14,Sahara Square
+10,Koslov,Polar Bear,Large,Arctic Ice,40.0,15,0,5,12,Tundratown
+11,Yax,Yak,Large,Grass Cream,18.0,30,30,3,13,Mystic Springs
+12,Mayor Lionheart,Lion,Large,Golden Mango,35.0,32,10,4,15,Savanna Central
+13,Bellwether,Sheep,Small,Woolly Vanilla,12.0,29,5,4,10,Meadowlands
+14,Duke Weaselton,Weasel,Small,Stolen Berry,8.0,30,15,2,11,Savanna Central
+15,Jerry Jumbeaux,Elephant,Large,Jumbo Scoop,50.0,34,25,3,12,Savanna Central
+16,Peter Moosebridge,Moose,Large,Maple Syrup,22.0,25,5,5,18,Savanna Central
+17,Bonnie Hopps,Rabbit,Small,Farm Fresh,12.0,28,3,5,9,Bunnyburrow
+18,Stu Hopps,Rabbit,Small,Farm Fresh,12.0,28,4,5,9,Bunnyburrow
+19,Manchas,Black Panther,Medium,Night Howler,25.0,30,12,4,21,Rainforest District
+20,Bucky,Oryx,Medium,Angry Orange,15.0,35,18,3,13,Apartments
