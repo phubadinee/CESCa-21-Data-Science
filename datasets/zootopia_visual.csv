@@ -1,21 +1,21 @@
-animal_id,name,species,size_category,daily_steps,donuts_eaten,fitness_score,month
-1,Judy Hopps,Rabbit,Small,15000,2,95,Jan
-2,Nick Wilde,Fox,Medium,8000,5,70,Jan
-3,Chief Bogo,Buffalo,Large,5000,1,85,Jan
-4,Clawhauser,Cheetah,Large,1200,12,30,Jan
-5,Flash,Sloth,Medium,100,1,10,Jan
-6,Judy Hopps,Rabbit,Small,16000,1,98,Feb
-7,Nick Wilde,Fox,Medium,8500,4,72,Feb
-8,Chief Bogo,Buffalo,Large,5500,1,88,Feb
-9,Clawhauser,Cheetah,Large,1100,15,25,Feb
-10,Flash,Sloth,Medium,120,1,12,Feb
-11,Judy Hopps,Rabbit,Small,14000,3,92,Mar
-12,Nick Wilde,Fox,Medium,9000,3,75,Mar
-13,Chief Bogo,Buffalo,Large,6000,1,90,Mar
-14,Clawhauser,Cheetah,Large,1000,18,20,Mar
-15,Flash,Sloth,Medium,90,1,8,Mar
-16,Leodore Lionheart,Lion,Large,7000,2,80,Mar
-17,Bellwether,Sheep,Small,4000,4,60,Mar
-18,Gazelle,Gazelle,Medium,12000,1,95,Mar
-19,Mr. Big,Shrew,Small,500,1,40,Mar
-20,Duke Weaselton,Weasel,Small,7000,6,55,Mar
+animal_id,name,species,size_category,daily_steps,donuts_eaten,fitness_score,month,district,savage_cases
+1,Judy Hopps,Rabbit,Small,15000,2,95,Jan,Sahara Square,5
+2,Nick Wilde,Fox,Medium,8000,5,70,Jan,Sahara Square,5
+3,Chief Bogo,Buffalo,Large,5000,1,85,Jan,Sahara Square,5
+4,Clawhauser,Cheetah,Large,1200,12,30,Jan,Sahara Square,5
+5,Flash,Sloth,Medium,100,1,10,Jan,Sahara Square,5
+6,Judy Hopps,Rabbit,Small,16000,1,98,Feb,Tundratown,4
+7,Nick Wilde,Fox,Medium,8500,4,72,Feb,Tundratown,4
+8,Chief Bogo,Buffalo,Large,5500,1,88,Feb,Tundratown,4
+9,Clawhauser,Cheetah,Large,1100,15,25,Feb,Tundratown,4
+10,Flash,Sloth,Medium,120,1,12,Feb,Tundratown,4
+11,Judy Hopps,Rabbit,Small,14000,3,92,Mar,Rainforest,25
+12,Nick Wilde,Fox,Medium,9000,3,75,Mar,Rainforest,25
+13,Chief Bogo,Buffalo,Large,6000,1,90,Mar,Rainforest,25
+14,Clawhauser,Cheetah,Large,1000,18,20,Mar,Rainforest,25
+15,Flash,Sloth,Medium,90,1,8,Mar,Rainforest,25
+16,Leodore Lionheart,Lion,Large,7000,2,80,Apr,Tundratown,8
+17,Bellwether,Sheep,Small,4000,4,60,Apr,Tundratown,8
+18,Gazelle,Gazelle,Medium,12000,1,95,Apr,Sahara Square,10
+19,Mr. Big,Shrew,Small,500,1,40,Apr,Rainforest,18
+20,Duke Weaselton,Weasel,Small,7000,6,55,Apr,Sahara Square,10
