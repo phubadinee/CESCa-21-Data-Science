@@ -1,0 +1,9 @@
+Weight,Sharp_Teeth,Type
+1.5,0,Prey
+3.0,0,Prey
+50.0,1,Predator
+70.0,0,Prey
+150.0,1,Predator
+200.0,1,Predator
+45.0,0,Prey
+60.0,1,Predator
