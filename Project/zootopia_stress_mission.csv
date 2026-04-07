@@ -1,0 +1,1951 @@
+Student_ID,Z_Name,Animal_Type,Animal_Category,Zootopia_District,Study_Hours_Per_Day,Extracurricular_Hours_Per_Day,Sleep_Hours_Per_Day,Social_Hours_Per_Day,Physical_Activity_Hours_Per_Day,Fur_Color,Paw_Size,Tail_Length_cm,Stress_Level
+1,Yax Fox,Hyena,Predator,Rainforest District,,3.8,8.7,2.8,1.8,Grey,Large,125,Moderate
+2,Flash Sloth,Hyena,Predator,Rainforest District,5.3,,8.0,4.2,3.0,Black,Small,98,Low
+3,Kevin Ocelot,Sloth,Prey,Meadowlands,5.1,3.9,9.2,1.2,4.6,Grey,Extra Large,26,Low
+4,Priscilla Cheetah,Pig,Prey,Savanna Central,6.5,2.1,7.2,1.7,6.5,Brown,Large,23,Moderate
+5,Sharla Elephant,Rat,Prey,,8.1,0.6,6.5,2.2,6.6,Spotted,Small,103,High
+6,Duke Rat,Sheep,Prey,,6.0,2.1,8.0,0.3,7.6,Orange,Small,24,Moderate
+7,Finnick Moose,Tiger,Predator,Savanna Central,8.0,0.7,5.3,5.7,4.3,Orange,Medium,103,High
+8,Claws Dingo,Rat,Prey,Sahara Square,8.4,1.8,,3.0,5.2,Black,Extra Large,7,High
+9,Lionheart Fox,Sloth,Prey,Sahara Square,5.2,3.6,6.3,4.0,4.9,Golden,Small,104,Low
+10,Hooves Pig,Leopard,Predator,Downtown,7.7,0.7,9.8,4.5,1.3,White,Medium,121,Moderate
+11,Officer Cougar,Sloth,Prey,Tundratown,9.7,3.6,8.0,2.5,0.2,,Medium,64,High
+12,Flash Hyena,Lion,Predator,Savanna Central,6.9,1.1,9.1,2.1,4.8,Striped,Small,61,Moderate
+13,Flash Shrew,Gazelle,Prey,,6.4,2.2,5.7,4.8,4.9,Golden,Extra Large,125,High
+14,Lionheart Dingo,Hedgehog,Prey,Rainforest District,,3.3,8.5,4.4,2.8,Black,Medium,142,Low
+15,Bonnie Opossum,Leopard,Predator,Sahara Square,8.9,0.3,6.8,0.7,7.3,Striped,Large,77,High
+16,Gareth Sloth,Pig,Prey,Meadowlands,6.7,0.3,6.6,2.0,8.4,Grey,Medium,62,Moderate
+17,Fuzzy Moose,Sheep,Prey,Downtown,8.6,2.6,9.4,1.6,1.8,Golden,Medium,127,High
+18,Sparky Rhino,Weasel,Predator,,8.8,2.2,8.9,2.0,2.1,White,Large,135,High
+19,Flash Otter,Moose,Prey,Rainforest District,7.6,,5.1,0.6,9.0,Orange,Small,137,High
+20,Whiskers Baboon,Zebra,Prey,Rainforest District,6.6,2.0,9.5,1.5,4.4,Striped,Small,64,Moderate
+21,Stu Elephant,Lion,Predator,Sahara Square,7.1,3.0,6.1,0.5,7.3,White,Small,95,Moderate
+22,Claws Coyote,Wolf,Predator,Downtown,9.6,3.2,8.2,2.6,0.4,Black,Large,101,High
+23,Officer Pig,Mouse,Prey,Savanna Central,9.0,0.7,9.5,2.6,2.2,Black,Extra Large,133,High
+24,Sharla Sloth,Moose,Prey,,6.1,1.7,9.1,5.2,1.9,White,Extra Large,138,Moderate
+25,Mayor Chipmunk,Rabbit,Prey,Savanna Central,5.0,2.0,7.1,1.3,8.6,Brown,Large,104,Low
+26,Hooves Tiger,Leopard,Predator,Tundratown,9.7,1.3,,3.8,1.6,Brown,Medium,141,High
+27,Kevin Chipmunk,Rhino,Prey,Downtown,6.8,3.9,9.8,0.9,2.6,White,Medium,66,Moderate
+28,Judy Ocelot,Zebra,Prey,Rainforest District,6.4,0.1,8.0,3.0,6.5,White,Extra Large,147,Moderate
+29,Doug Cheetah,Gazelle,Prey,Savanna Central,5.3,,9.5,1.4,6.7,Black,Small,78,Low
+31,Pronk Skunk,Tiger,Predator,Downtown,6.2,2.9,6.8,3.8,4.3,Golden,Extra Large,103,Moderate
+32,Kevin Squirrel,Fox,Predator,Sahara Square,5.5,3.3,6.6,1.1,7.5,Brown,Medium,4,Low
+33,FruFru Rabbit,Panther,Predator,Tundratown,5.2,2.4,8.4,0.1,7.9,Brown,Large,62,Low
+34,Bonnie Jackal,Hedgehog,Prey,,8.2,0.7,8.5,2.3,4.3,Striped,Large,49,High
+35,Pronk Cougar,Pig,Prey,Sahara Square,,0.6,6.7,0.7,6.3,Grey,Small,62,High
+36,Finnick Pig,Mouse,Prey,Savanna Central,9.1,2.2,7.6,1.2,3.9,White,Large,61,High
+37,Lionheart Puma,Zebra,Prey,Downtown,5.5,3.6,9.5,3.4,2.0,Spotted,Medium,65,Low
+38,Manchas Fox,Sloth,Prey,Downtown,8.6,3.6,9.4,1.9,0.5,Orange,Medium,95,High
+39,Lionheart Armadillo,Lion,Predator,Rainforest District,8.2,,5.8,5.4,4.3,Black,Small,117,High
+40,Koslov Mouse,Panther,Predator,Sahara Square,5.0,0.6,7.7,4.2,6.5,Brown,Small,69,Low
+41,Nangi Otter,Wolf,Predator,Sahara Square,8.3,0.9,8.6,1.4,4.8,Striped,Small,139,High
+42,Jerry Dingo,Otter,Predator,Sahara Square,8.2,3.4,8.3,2.3,1.8,White,Small,54,High
+43,Bogo Lynx,Giraffe,Prey,Rainforest District,5.5,1.5,6.3,1.5,9.2,Black,Medium,32,Low
+44,Chief Jackal,Moose,Prey,Savanna Central,9.5,2.5,9.0,1.5,1.5,Orange,Small,129,High
+45,Paws Armadillo,Leopard,Predator,Tundratown,7.9,2.0,6.0,4.3,3.8,Spotted,Small,22,Moderate
+46,Gideon Weasel,Leopard,Predator,Savanna Central,9.7,3.8,9.6,0.3,0.6,Golden,Large,54,High
+47,Manchas Hopps,Rabbit,Prey,,5.1,3.7,7.1,5.8,2.3,Black,Medium,106,Low
+48,Gazelle Shrew,Hamster,Prey,Savanna Central,9.3,1.3,5.8,3.3,4.3,Golden,Small,35,High
+49,Whiskers Weasel,Lion,Predator,Downtown,9.7,2.8,7.9,0.3,3.3,Black,Small,72,High
+50,Peter Hopps,Pig,Prey,Tundratown,9.4,3.0,8.5,2.2,0.9,Spotted,Large,68,High
+51,Koslov Jackal,Panther,Predator,Savanna Central,6.8,1.2,9.0,4.9,2.1,Spotted,Extra Large,46,Moderate
+52,Tail Elephant,Mouse,Prey,Downtown,9.0,2.6,8.5,3.1,0.8,Grey,Extra Large,14,High
+53,Larry Hare,Sloth,Prey,Downtown,9.5,1.4,6.9,0.6,5.6,White,Medium,69,High
+54,Bellwether Dog,Leopard,Predator,Rainforest District,7.3,2.2,6.4,3.5,4.6,Grey,Medium,6,Moderate
+55,Bogo Hare,Leopard,Predator,Rainforest District,5.2,0.1,9.1,2.2,7.4,Golden,Extra Large,128,Low
+56,Sharla Dingo,Sloth,Prey,Rainforest District,8.8,0.9,8.1,0.5,5.7,Orange,Large,106,High
+58,Gazelle Ocelot,Wolf,Predator,Savanna Central,9.0,1.1,7.2,0.5,6.2,Spotted,Extra Large,82,High
+59,Gareth Cheetah,Hamster,Prey,Savanna Central,5.1,3.9,9.2,4.0,1.8,White,Small,87,Low
+60,Finnick Tiger,Panther,Predator,Downtown,5.8,1.0,7.7,4.3,5.2,Spotted,Extra Large,118,Low
+61,Sparky Panther,Rhino,Prey,Rainforest District,8.3,1.1,9.8,3.5,1.3,Golden,Medium,102,High
+62,,Leopard,Predator,Tundratown,7.1,,,4.5,4.6,Golden,Large,89,Moderate
+63,Chief Bunny,Rabbit,Prey,Tundratown,5.1,0.5,5.2,0.2,13.0,Black,Small,100,High
+64,Koslov Raccoon,Jaguar,Predator,Tundratown,7.4,0.4,7.5,2.8,5.9,Spotted,Extra Large,110,Moderate
+65,Doug Hippo,Moose,Prey,Downtown,5.9,1.7,7.0,3.7,5.7,Striped,Extra Large,142,Low
+67,Koslov Lion,Otter,Predator,,8.3,0.7,5.4,3.9,5.7,Grey,Large,52,High
+68,Bonnie Otter,Cheetah,Predator,Rainforest District,9.7,2.3,6.9,3.3,1.8,,Small,139,High
+69,Jerry Skunk,Fox,Predator,Tundratown,7.3,,,1.9,2.9,,Small,26,Moderate
+70,Bellwether Hedgehog,Gazelle,Prey,Savanna Central,5.4,,,0.1,8.0,Golden,Medium,35,Low
+72,Paws Hare,Elephant,Prey,Rainforest District,,3.2,6.4,1.0,4.7,Grey,Medium,33,High
+73,Priscilla Sloth,Rhino,Prey,Meadowlands,8.8,3.2,10.0,0.8,1.2,White,Medium,147,High
+74,Doug Moose,Rabbit,Prey,Sahara Square,6.7,3.7,9.3,1.8,2.5,,Extra Large,57,Moderate
+75,Chief Skunk,Hippo,Prey,Savanna Central,8.8,3.0,5.5,5.4,1.3,,Medium,22,High
+76,Manchas Sheep,Cheetah,Predator,Meadowlands,6.6,3.6,6.9,0.1,6.8,Golden,Extra Large,87,Moderate
+77,Kevin Lion,Weasel,Predator,Tundratown,9.5,0.4,6.6,5.7,1.8,Brown,Extra Large,23,High
+78,Whiskers Jackal,Giraffe,Prey,,8.2,1.8,6.5,2.0,5.5,Brown,Extra Large,18,High
+79,Bonnie Gorilla,Weasel,Predator,,8.4,3.0,9.0,2.8,0.8,Golden,Small,96,High
+80,Bucky Cougar,Rat,Prey,Sahara Square,5.3,2.2,7.2,5.3,4.0,White,Extra Large,81,Low
+81,Clawhauser Puma,Sloth,Prey,Meadowlands,6.8,0.5,5.7,4.6,6.4,Orange,Large,74,High
+82,Sharla Squirrel,Polar Bear,Predator,Meadowlands,5.4,2.8,5.4,4.9,5.5,Striped,Large,61,High
+83,Flash Jackal,Pig,Prey,Tundratown,8.5,0.3,5.4,5.9,3.9,Black,Medium,71,High
+84,Fabienne Hedgehog,Hyena,Predator,,9.1,3.8,9.9,0.9,0.3,Grey,Medium,114,High
+85,Madge Skunk,Rat,Prey,Sahara Square,6.9,0.3,8.9,,4.5,Grey,Large,26,Moderate
+86,Jerry Armadillo,Elephant,Prey,Rainforest District,5.6,2.0,5.1,2.8,8.5,Spotted,Large,143,High
+87,Bellwether Rat,Polar Bear,Predator,Rainforest District,5.3,0.5,5.6,3.9,8.7,Golden,Large,116,High
+88,Bonnie Elephant,Cheetah,Predator,,9.8,1.5,6.4,5.2,1.1,Brown,Large,85,High
+89,Snout Yak,Panther,Predator,Savanna Central,6.1,3.9,5.1,5.8,3.1,Orange,Large,49,High
+90,Fabienne Squirrel,Hedgehog,Prey,Savanna Central,5.4,2.2,9.8,3.1,3.5,Striped,Medium,22,Low
+91,Bonnie Mouse,Wolf,Predator,Savanna Central,8.1,2.8,7.3,3.6,2.2,Orange,Medium,41,High
+92,Fluffy Raccoon,Sloth,Prey,Tundratown,5.2,1.1,9.8,5.3,2.6,Golden,Extra Large,79,Low
+93,Madge Mouse,Tiger,Predator,Rainforest District,7.3,2.5,6.4,1.1,6.7,Grey,Small,36,Moderate
+94,Chief Puma,Rat,Prey,Downtown,7.9,0.3,9.9,5.8,0.1,Orange,Medium,18,Moderate
+95,Duke Cat,Sloth,Prey,Savanna Central,8.5,,6.5,4.9,2.0,Black,Small,107,High
+96,Jerry Dog,Wolf,Predator,Savanna Central,9.6,3.3,9.7,1.0,0.4,Grey,Medium,92,High
+97,Sparky Raccoon,Zebra,Prey,Savanna Central,8.1,1.7,9.7,3.9,0.6,Spotted,Extra Large,133,High
+98,Priscilla Wolf,Mouse,Prey,Downtown,9.9,0.6,8.0,2.1,3.4,Orange,Small,146,High
+99,Whiskers Gorilla,Hedgehog,Prey,Downtown,9.8,,,0.7,0.9,Black,Small,77,High
+101,Jerry Ocelot,Mouse,Prey,,10.0,2.2,8.8,2.8,0.2,Grey,Large,20,High
+102,Tail Raccoon,Leopard,Predator,,7.3,0.5,9.8,3.6,2.8,Brown,Extra Large,127,Moderate
+103,Agent Sheep,Rat,Prey,Sahara Square,6.1,2.7,8.1,2.1,5.0,Spotted,Large,133,Moderate
+104,Tail Beaver,Wolf,Predator,Sahara Square,7.6,,7.6,4.9,0.8,Striped,Large,81,Moderate
+105,Madge Cat,Hippo,Prey,Rainforest District,7.8,2.2,9.4,1.9,2.7,Golden,Medium,118,Moderate
+106,Koslov Coyote,Hippo,Prey,Sahara Square,8.5,,5.7,0.1,8.8,Black,Medium,3,High
+107,Bonnie Baboon,Hyena,Predator,Savanna Central,6.8,2.4,7.0,2.6,5.2,Grey,Large,60,Moderate
+108,Duke Hippo,Hyena,Predator,Savanna Central,,,7.0,3.7,2.6,White,Extra Large,109,Moderate
+109,Fuzzy Hare,Hedgehog,Prey,Rainforest District,9.3,3.8,5.7,4.8,0.4,,Medium,51,High
+110,Fluffy Rat,Tiger,Predator,Savanna Central,7.3,3.9,7.5,1.7,3.6,,Small,124,Moderate
+111,Lionheart Shrew,Rat,Prey,Tundratown,8.2,1.0,5.4,0.8,8.6,Spotted,Small,28,High
+112,Bogo Hedgehog,Rat,Prey,Sahara Square,5.9,1.4,9.5,2.8,4.4,Grey,Medium,119,Low
+113,Finnick Gorilla,Rat,Prey,Sahara Square,8.3,0.7,6.0,0.2,8.8,Golden,Large,32,High
+114,FruFru Ocelot,Moose,Prey,Tundratown,5.9,0.4,,2.8,9.3,Striped,Medium,47,High
+115,Doug Lion,Tiger,Predator,Downtown,6.0,1.5,7.5,4.1,4.9,Grey,Medium,136,Moderate
+116,Officer Puma,Zebra,Prey,,9.4,3.7,5.3,1.6,4.0,Black,Large,83,High
+117,Bellwether Wolf,Leopard,Predator,Rainforest District,9.0,3.0,5.9,1.3,4.8,Brown,Large,129,High
+118,Manchas Ocelot,Rhino,Prey,,,1.5,7.3,4.5,2.6,Grey,Large,83,High
+119,Manchas Tiger,Otter,Predator,Downtown,5.2,1.0,8.6,5.4,3.8,Spotted,Large,56,Low
+120,Ranger Badger,Cheetah,Predator,Tundratown,5.5,1.8,7.7,1.5,7.5,Striped,Large,128,Low
+121,Paws Badger,Polar Bear,Predator,Downtown,6.3,1.5,5.1,1.9,9.2,Orange,Small,47,High
+122,Priscilla Puma,Zebra,Prey,Tundratown,5.6,3.6,8.0,4.1,2.7,Striped,Large,30,Low
+123,Whiskers Hippo,Panther,Predator,Tundratown,8.9,2.0,5.4,3.2,4.5,White,Small,11,High
+124,Judy Macaque,Otter,Predator,Sahara Square,7.2,0.5,,,7.7,Brown,Large,84,Moderate
+126,Paws Gorilla,Elephant,Prey,,5.5,0.6,6.2,1.0,10.7,White,Large,106,Low
+127,Jerry Hedgehog,Fox,Predator,Rainforest District,5.9,1.1,5.9,5.4,5.7,White,Medium,26,High
+128,Sparky Moose,Leopard,Predator,Downtown,7.1,3.9,5.6,2.4,5.0,Spotted,Medium,92,High
+130,Peter Sloth,Hamster,Prey,Savanna Central,,,7.9,1.2,3.1,Orange,Medium,46,High
+131,Agent Hyena,Leopard,Predator,Tundratown,8.8,0.7,6.6,2.6,5.3,Grey,Large,76,High
+132,FruFru Macaque,Sloth,Prey,Sahara Square,5.6,,6.4,3.5,6.1,White,Extra Large,64,Low
+133,Chief Otter,Zebra,Prey,Meadowlands,5.8,1.9,7.7,0.3,8.3,Orange,Large,77,Low
+134,Judy Tiger,Hippo,Prey,Meadowlands,5.3,4.0,6.6,4.9,3.2,Striped,Large,43,Low
+135,Jerry Cougar,Panther,Predator,Tundratown,6.3,2.7,8.8,3.6,2.6,Spotted,Small,150,Moderate
+136,Fuzzy Hopps,Pig,Prey,,6.7,3.7,9.2,4.2,0.2,Golden,Extra Large,71,Moderate
+137,Gary Jackal,Wolf,Predator,Tundratown,5.6,2.9,9.7,1.1,4.7,White,Medium,110,Low
+138,Fuzzy Puma,Wolf,Predator,Sahara Square,7.9,3.4,5.7,4.8,2.2,Brown,Medium,113,High
+139,Finnick Cat,Hyena,Predator,Savanna Central,6.0,0.7,5.8,4.9,6.6,White,Extra Large,24,High
+140,,Rabbit,Prey,Downtown,6.8,3.5,7.0,4.9,1.8,Spotted,Medium,72,Moderate
+141,Tail Panther,Rat,Prey,Downtown,7.2,1.5,7.3,1.8,6.2,Brown,Small,125,Moderate
+142,Sparky Puma,Gazelle,Prey,Downtown,6.2,3.6,6.9,3.3,4.0,Black,Small,23,Moderate
+143,Tail Rabbit,Elephant,Prey,Sahara Square,9.5,2.5,5.6,5.6,0.8,Orange,Extra Large,52,High
+144,Emmitt Jackal,Rhino,Prey,Savanna Central,5.7,3.2,8.1,3.2,3.8,Brown,Extra Large,117,Low
+145,Doug Weasel,Sheep,Prey,Rainforest District,9.5,3.2,5.8,1.7,3.8,Golden,Large,74,High
+146,Claws Bear,Giraffe,Prey,Sahara Square,5.2,2.3,8.8,5.3,2.4,,Large,50,Low
+147,Paws Shrew,Sheep,Prey,Rainforest District,6.7,3.3,5.6,5.1,3.3,Grey,Extra Large,111,High
+148,Judy Sloth,Yak,Prey,,9.0,0.6,6.1,4.3,4.0,Orange,Small,52,High
+149,Bucky Lynx,Hamster,Prey,Savanna Central,8.6,2.6,8.5,2.3,2.0,Black,Large,53,High
+150,Fluffy Wilde,Wolf,Predator,Meadowlands,5.9,,7.9,,4.2,Striped,Small,142,Low
+151,Nick Puma,Panther,Predator,Downtown,7.3,3.8,5.8,3.5,3.6,White,Small,109,High
+152,Yax Otter,Jaguar,Predator,Downtown,5.1,3.5,9.7,3.2,2.5,Golden,Large,136,Low
+153,Koslov Rabbit,Moose,Prey,Rainforest District,8.5,3.7,8.5,0.5,2.8,,Small,4,High
+154,Fabienne Bear,Wolf,Predator,Sahara Square,7.1,2.9,9.7,4.0,0.3,White,Medium,118,Moderate
+155,Gareth Hyena,Sloth,Prey,Meadowlands,7.3,0.5,9.9,5.0,1.3,Spotted,Extra Large,9,Moderate
+156,Clawhauser Hare,Sloth,Prey,Sahara Square,8.0,1.6,5.3,2.0,7.1,White,Medium,106,High
+157,Gareth Rabbit,Mouse,Prey,,9.0,0.0,6.7,2.4,5.9,Grey,Small,19,High
+158,Hooves Weasel,Rhino,Prey,Meadowlands,6.7,1.4,8.7,2.7,4.5,Orange,Medium,29,Moderate
+159,Sparky Sloth,Leopard,Predator,Tundratown,6.1,1.8,5.7,1.1,9.3,Golden,Extra Large,114,High
+160,Lionheart Hopps,Panther,Predator,Meadowlands,9.6,1.4,7.9,3.2,1.9,Orange,Medium,107,High
+161,Swift Beaver,Yak,Prey,Tundratown,5.1,2.7,5.9,5.8,4.5,Black,Medium,126,High
+162,Bellwether Dingo,Giraffe,Prey,Meadowlands,5.4,4.0,7.5,3.6,3.5,Brown,Large,45,Low
+163,Paws Jackal,Hippo,Prey,Savanna Central,5.3,3.0,6.0,5.4,4.3,Brown,Medium,50,Low
+164,Gideon Rhino,Moose,Prey,Downtown,5.2,1.9,,0.4,8.7,Black,Small,39,Low
+165,Gideon Jaguar,Hamster,Prey,,8.9,1.8,7.6,2.5,3.2,Golden,Small,92,High
+166,Ranger Armadillo,Tiger,Predator,Tundratown,5.8,0.7,9.3,5.7,2.5,White,Extra Large,90,Low
+167,Whiskers Wilde,Giraffe,Prey,Rainforest District,6.9,1.1,8.2,2.5,5.3,Orange,Small,119,Moderate
+168,Doug Ocelot,Panther,Predator,Meadowlands,5.1,0.9,6.2,4.0,7.8,Grey,Medium,125,Low
+169,Jerry Cat,Sheep,Prey,Savanna Central,5.1,0.4,9.0,1.1,8.4,Golden,Small,57,Low
+170,Paws Weasel,Rhino,Prey,,5.5,1.0,8.6,5.1,3.8,Brown,Extra Large,46,Low
+171,Officer Dingo,Hedgehog,Prey,Downtown,9.2,1.6,8.3,1.0,3.9,Spotted,Small,114,High
+172,Bonnie Badger,Lion,Predator,Downtown,5.1,,6.0,0.2,12.4,Grey,Large,27,Low
+173,Claws Otter,Yak,Prey,Downtown,5.9,2.3,7.1,5.4,3.3,Grey,Large,22,Low
+174,Stu Yak,Cheetah,Predator,Downtown,6.3,1.5,,1.6,6.6,Spotted,Large,66,Moderate
+175,Fabienne Ocelot,Rhino,Prey,Tundratown,8.1,,7.8,2.6,3.9,White,Large,68,High
+176,Madge Dog,Panther,Predator,Tundratown,8.8,0.6,9.3,2.6,2.7,Spotted,Large,35,High
+177,Emmitt Puma,Hyena,Predator,Rainforest District,9.5,3.2,7.1,0.1,4.1,Brown,Small,58,High
+178,Agent Raccoon,Tiger,Predator,Rainforest District,8.2,1.0,5.7,5.0,4.1,Spotted,Extra Large,51,High
+179,Dash Moose,Tiger,Predator,,9.9,2.1,5.9,1.6,4.5,Grey,Large,30,High
+180,Mayor Gorilla,Jaguar,Predator,Meadowlands,6.4,2.2,8.3,5.0,2.1,,Small,6,Moderate
+181,Yax Opossum,Rat,Prey,Sahara Square,6.0,0.0,5.7,5.4,6.9,Black,Large,68,High
+182,Priscilla Rhino,Otter,Predator,Tundratown,8.0,2.7,5.9,5.5,1.9,Golden,Small,140,High
+183,Sharla Mouse,Leopard,Predator,Sahara Square,7.1,1.5,7.6,0.3,7.5,Brown,Large,134,Moderate
+184,Bellwether Panther,Rhino,Prey,Rainforest District,5.4,,6.2,2.3,7.7,Orange,Medium,28,Low
+185,Pronk Dog,Hyena,Predator,Rainforest District,6.4,1.4,8.6,1.8,5.8,Orange,Extra Large,24,Moderate
+186,Nick Rabbit,Hedgehog,Prey,,8.3,3.7,8.7,0.7,2.6,Spotted,Extra Large,54,High
+187,Whiskers Pig,Wolf,Predator,Sahara Square,5.2,1.0,8.0,0.3,9.5,Striped,Large,150,Low
+188,Sharla Hedgehog,Weasel,Predator,Sahara Square,6.7,3.1,5.5,0.5,8.2,White,Small,64,High
+189,Sparky Ocelot,Polar Bear,Predator,Meadowlands,8.6,,8.4,2.2,2.8,White,Small,147,High
+190,Judy Puma,Moose,Prey,Sahara Square,9.0,2.8,6.4,3.4,2.4,Black,Small,69,High
+191,Bellwether Beaver,Hippo,Prey,Rainforest District,6.8,0.4,9.6,0.8,6.4,Orange,Small,121,Moderate
+192,Clawhauser Porcupine,Weasel,Predator,Meadowlands,5.9,2.2,9.4,4.4,2.1,Orange,Medium,11,Low
+193,Sharla Hare,Panther,Predator,Savanna Central,9.0,2.6,,3.3,0.6,Spotted,Large,9,High
+194,Bellwether Ocelot,Moose,Prey,Savanna Central,6.1,4.0,9.7,0.2,4.0,Orange,Extra Large,0,Moderate
+195,Flash Cougar,Hyena,Predator,Downtown,8.5,3.7,5.9,3.4,2.5,Golden,Medium,90,High
+196,Pronk Cheetah,Pig,Prey,Savanna Central,9.6,3.9,9.7,0.4,0.4,White,Medium,95,High
+197,Snout Bear,Hippo,Prey,Meadowlands,9.3,,6.6,3.9,0.8,Spotted,Extra Large,19,High
+198,,Wolf,Predator,Rainforest District,6.2,0.5,5.4,4.2,7.7,Striped,Extra Large,76,High
+199,Gareth Leopard,Rhino,Prey,Savanna Central,6.7,2.9,5.3,1.9,7.2,Orange,Small,120,High
+200,Kevin Beaver,Moose,Prey,Downtown,6.6,2.5,,3.4,2.1,Black,Medium,88,Moderate
+201,Swift Squirrel,Tiger,Predator,Rainforest District,6.2,0.1,9.4,0.1,8.2,Spotted,Small,123,Moderate
+202,Bonnie Lynx,Hamster,Prey,Tundratown,9.7,3.2,10.0,0.4,0.7,Golden,Extra Large,115,High
+203,Snout Lynx,Hamster,Prey,Meadowlands,8.8,1.6,7.4,3.8,2.4,Spotted,Medium,62,High
+204,Gideon Porcupine,Panther,Predator,Savanna Central,7.1,3.0,,0.7,7.0,Spotted,Small,24,Moderate
+205,,Tiger,Predator,Downtown,6.8,1.1,6.5,1.4,8.2,Orange,Medium,38,Moderate
+206,Gareth Opossum,Mouse,Prey,Savanna Central,6.9,,6.1,5.7,2.6,Spotted,Large,62,Moderate
+207,Ranger Hare,Pig,Prey,Rainforest District,8.9,0.4,7.1,5.3,2.3,White,Extra Large,18,High
+208,Frantic Badger,Gazelle,Prey,,8.1,0.7,10.0,1.2,4.0,Spotted,Medium,114,High
+209,Larry Puma,Pig,Prey,,9.7,2.6,8.0,1.9,1.8,,Medium,82,High
+210,Lionheart Rabbit,Jaguar,Predator,Rainforest District,6.1,,8.9,2.1,6.2,White,Extra Large,60,Moderate
+211,Lionheart Macaque,Yak,Prey,Savanna Central,,3.9,9.4,5.0,0.4,Grey,Small,24,Low
+212,Agent Rhino,Hamster,Prey,Meadowlands,8.5,0.6,9.1,1.3,4.5,Orange,Small,14,High
+213,Koslov Wilde,Lion,Predator,Sahara Square,6.1,2.1,8.0,3.5,4.3,Spotted,Extra Large,93,Moderate
+214,Officer Dog,Yak,Prey,Savanna Central,9.4,3.8,9.3,1.2,0.3,Orange,Medium,46,High
+215,Frantic Dingo,Hedgehog,Prey,Sahara Square,8.3,2.2,5.4,2.5,5.6,Black,Extra Large,127,High
+216,Ranger Panther,Fox,Predator,Savanna Central,8.6,2.0,5.4,1.3,6.7,Golden,Medium,90,High
+217,Clawhauser Rat,Wolf,Predator,Savanna Central,8.4,0.3,9.3,3.0,3.0,Orange,Extra Large,90,High
+218,Finnick Cheetah,Lion,Predator,Savanna Central,9.1,1.4,8.4,2.9,2.2,Orange,Large,67,High
+219,Clawhauser Baboon,Moose,Prey,Savanna Central,,3.5,9.0,3.4,1.8,Orange,Extra Large,1,Moderate
+220,Madge Gorilla,Giraffe,Prey,Meadowlands,8.5,2.7,8.1,3.5,1.2,Golden,Small,9,High
+221,Pronk Chipmunk,Hamster,Prey,Tundratown,5.8,3.5,9.4,0.2,5.1,Spotted,Extra Large,62,Low
+222,Finnick Macaque,Weasel,Predator,Downtown,6.7,3.0,5.8,4.9,3.6,,Large,90,High
+223,Priscilla Pig,Moose,Prey,Downtown,9.2,2.0,5.0,1.7,6.1,Golden,Medium,65,High
+224,Larry Dog,Polar Bear,Predator,Savanna Central,8.2,1.0,8.2,3.2,3.4,Orange,Large,13,High
+225,Whiskers Porcupine,Giraffe,Prey,Downtown,8.9,0.4,8.8,3.2,2.7,Spotted,Large,85,High
+226,Sparky Lion,Hamster,Prey,Sahara Square,8.2,3.7,5.5,5.6,1.0,White,Large,57,High
+227,Mayor Hare,Sheep,Prey,Meadowlands,8.4,0.3,6.5,4.2,4.6,Golden,Large,69,High
+228,Duke Leopard,Pig,Prey,Downtown,6.7,2.5,5.2,5.2,4.4,White,Large,12,High
+229,Sparky Chipmunk,Moose,Prey,Rainforest District,9.9,3.9,8.7,,1.3,White,Medium,10,High
+230,Larry Wilde,Fox,Predator,Sahara Square,8.4,1.8,6.4,6.0,1.4,Spotted,Small,82,High
+231,Snout Hopps,Elephant,Prey,Savanna Central,7.1,1.8,5.8,4.8,4.5,Spotted,Large,27,High
+232,Chief Raccoon,Moose,Prey,Downtown,5.4,2.7,8.3,1.6,6.0,Spotted,Medium,26,Low
+233,Priscilla Yak,Hippo,Prey,,9.8,0.6,7.2,5.7,0.7,Brown,Medium,43,High
+234,Gazelle Otter,Hyena,Predator,Downtown,7.0,1.1,9.9,2.5,3.5,Spotted,Medium,140,Moderate
+235,Mayor Rhino,Moose,Prey,Savanna Central,9.5,0.9,6.1,0.2,7.3,White,Large,140,High
+236,Whiskers Sheep,Hyena,Predator,Tundratown,9.3,1.9,9.8,0.6,2.4,Orange,Large,72,High
+237,Finnick Wilde,Elephant,Prey,,9.3,,8.9,2.3,0.4,Black,Small,143,High
+238,Clawhauser Bunny,Otter,Predator,,5.7,0.1,9.6,3.7,4.9,White,Medium,149,Low
+239,Claws Elephant,Zebra,Prey,Rainforest District,9.0,1.9,5.6,0.8,6.7,Orange,Medium,69,High
+240,Nick Wolf,Zebra,Prey,Sahara Square,6.0,2.0,5.3,3.5,7.2,Brown,Small,6,High
+241,Lionheart Coyote,Mouse,Prey,Tundratown,6.3,3.2,6.6,2.7,5.2,Orange,Medium,98,Moderate
+242,Gareth Pig,Rabbit,Prey,Sahara Square,8.0,1.2,8.5,5.2,1.1,Brown,Large,125,Moderate
+243,Doug Jackal,Hyena,Predator,Downtown,8.9,0.2,7.4,0.6,6.9,Black,Medium,136,High
+244,Frantic Elephant,Sloth,Prey,Tundratown,8.1,2.8,7.8,0.1,5.2,Spotted,Small,34,High
+245,Swift Chipmunk,Wolf,Predator,Savanna Central,6.6,2.1,5.4,,7.8,Grey,Extra Large,127,High
+246,Swift Rat,Rat,Prey,Sahara Square,7.8,2.8,9.0,0.9,3.5,Brown,Extra Large,144,Moderate
+247,Bonnie Jaguar,Lion,Predator,Sahara Square,5.8,0.4,8.2,4.2,5.4,White,Small,87,Low
+248,Madge Hedgehog,Tiger,Predator,Savanna Central,8.5,,8.6,2.7,0.7,White,Medium,20,High
+249,Clawhauser Beaver,Sloth,Prey,Meadowlands,6.7,3.3,5.4,5.4,3.2,Golden,Large,126,High
+250,Doug Leopard,Sheep,Prey,Meadowlands,7.3,2.6,,4.4,2.1,Black,Large,117,Moderate
+251,Manchas Sloth,Elephant,Prey,Meadowlands,5.4,0.2,6.2,1.0,11.2,Spotted,Extra Large,109,Low
+253,Manchas Gorilla,Polar Bear,Predator,Tundratown,8.3,2.0,7.8,4.2,1.7,Spotted,Medium,143,High
+254,Jerry Rabbit,Jaguar,Predator,Savanna Central,6.0,2.7,5.4,0.2,9.7,Golden,Extra Large,25,High
+256,Raymond Pig,Panther,Predator,,6.7,1.5,9.9,0.2,5.7,Black,Small,66,Moderate
+257,Officer Coyote,Jaguar,Predator,Sahara Square,9.3,2.3,7.2,3.8,1.4,Black,Large,115,High
+258,Swift Skunk,Hedgehog,Prey,Sahara Square,9.5,1.7,6.4,3.6,2.8,Golden,Large,117,High
+259,FruFru Dog,Rat,Prey,Rainforest District,9.6,0.8,8.1,3.5,2.0,Brown,Medium,131,High
+260,Larry Lynx,Jaguar,Predator,Sahara Square,8.6,3.6,5.9,1.4,4.5,,Medium,27,High
+261,Peter Rhino,Gazelle,Prey,Tundratown,9.9,0.7,9.3,2.0,2.1,Golden,Small,50,High
+262,Bonnie Porcupine,Hedgehog,Prey,Rainforest District,7.2,2.1,6.8,3.6,4.3,Brown,Large,93,Moderate
+263,Clawhauser Chipmunk,Leopard,Predator,Tundratown,5.8,1.6,9.8,1.5,5.3,Grey,Large,84,Low
+264,Claws Mouse,Rabbit,Prey,Rainforest District,8.9,0.5,9.8,2.2,2.6,Brown,Medium,109,High
+265,Clawhauser Gorilla,Panther,Predator,,6.2,0.3,5.8,3.1,8.6,Golden,Large,94,High
+266,Fabienne Dog,Giraffe,Prey,Tundratown,7.2,1.0,8.1,4.2,3.5,Black,Large,35,Moderate
+267,Clawhauser Dog,Leopard,Predator,Downtown,5.8,0.7,5.2,4.4,7.9,,Extra Large,23,High
+268,Clawhauser Lion,Rhino,Prey,Tundratown,9.2,3.2,7.9,3.2,0.5,Black,Large,62,High
+269,Swift Sloth,Hippo,Prey,Tundratown,,0.4,6.3,0.3,11.0,Golden,Small,126,Moderate
+270,Fuzzy Bear,Cheetah,Predator,Savanna Central,5.2,0.5,7.3,5.6,5.4,White,Extra Large,21,Low
+271,Paws Jaguar,Jaguar,Predator,Savanna Central,6.6,,5.2,0.9,9.3,Golden,Medium,41,High
+272,FruFru Raccoon,Otter,Predator,Rainforest District,7.3,2.1,7.4,4.0,3.2,,Large,122,Moderate
+273,Clawhauser Coyote,Sloth,Prey,Meadowlands,5.7,0.1,6.5,4.2,7.5,Striped,Medium,46,Low
+274,Fuzzy Hyena,Cheetah,Predator,Downtown,9.8,0.4,8.4,2.4,3.0,Golden,Large,51,High
+275,Gazelle Cougar,Weasel,Predator,,9.3,0.7,8.5,4.6,0.9,Orange,Small,27,High
+277,Bellwether Hyena,Otter,Predator,Meadowlands,5.2,3.7,8.4,4.1,2.6,Spotted,Extra Large,40,Low
+278,Bellwether Cougar,Panther,Predator,Savanna Central,7.0,2.6,5.5,3.9,5.0,Grey,Small,108,High
+279,Gareth Tiger,Cheetah,Predator,Meadowlands,10.0,0.2,9.9,1.6,2.3,White,Medium,150,High
+280,Frantic Cheetah,Lion,Predator,,7.8,3.0,9.4,1.5,2.3,White,Large,101,Moderate
+281,Yax Porcupine,Hyena,Predator,Rainforest District,6.6,2.7,9.0,4.3,1.4,Spotted,Extra Large,145,Moderate
+282,Priscilla Otter,Rabbit,Prey,Rainforest District,9.1,0.5,7.7,0.0,6.7,Orange,Extra Large,141,High
+283,Bogo Panther,Hedgehog,Prey,Rainforest District,6.6,1.5,7.0,4.2,4.7,Brown,Small,42,Moderate
+284,Gazelle Cat,Pig,Prey,Rainforest District,6.2,1.5,6.1,0.4,9.8,Spotted,Extra Large,108,Moderate
+285,Officer Badger,Sheep,Prey,Rainforest District,8.0,2.7,8.1,2.4,2.8,Brown,Small,35,Moderate
+286,,Otter,Predator,Rainforest District,7.6,1.9,5.1,2.0,7.4,Grey,Medium,22,High
+287,Fabienne Opossum,Hedgehog,Prey,Sahara Square,6.9,1.6,7.9,3.2,4.4,Grey,Medium,8,Moderate
+288,Jerry Pig,Tiger,Predator,,9.1,2.9,9.8,0.0,2.2,White,Extra Large,113,High
+289,Stu Rabbit,Yak,Prey,Tundratown,6.0,0.0,,5.4,4.4,Orange,Small,31,Moderate
+290,Fabienne Rabbit,Jaguar,Predator,Tundratown,5.3,3.7,6.8,0.6,7.6,White,Small,143,Low
+291,Gareth Lynx,Hamster,Prey,Sahara Square,7.4,1.0,6.4,1.8,7.4,Spotted,Medium,3,Moderate
+292,Jerry Hare,Gazelle,Prey,Rainforest District,6.6,2.4,8.6,1.6,4.8,Spotted,Small,12,Moderate
+293,Madge Rat,Jaguar,Predator,Meadowlands,7.1,0.5,5.9,4.1,6.4,Black,Extra Large,31,High
+294,Gideon Rabbit,Polar Bear,Predator,Downtown,8.5,0.4,7.8,1.5,5.8,Striped,Medium,35,High
+295,Peter Cougar,Giraffe,Prey,Rainforest District,9.8,1.9,9.0,1.8,1.5,,Large,91,High
+296,Chief Shrew,Tiger,Predator,Sahara Square,9.8,2.4,9.1,2.4,0.3,,Small,50,High
+297,Claws Tiger,Elephant,Prey,Sahara Square,6.1,0.8,8.1,2.5,6.5,Black,Small,107,Moderate
+298,Bellwether Macaque,Rhino,Prey,Sahara Square,8.9,1.1,9.1,2.1,2.8,Striped,Small,140,High
+299,Judy Squirrel,Sloth,Prey,Rainforest District,8.3,0.4,8.1,2.7,4.5,Brown,Small,148,High
+300,Chief Lynx,Elephant,Prey,Rainforest District,8.7,3.5,6.1,0.5,5.2,Brown,Small,26,High
+301,Finnick Bear,Hyena,Predator,Meadowlands,5.1,2.6,8.0,3.3,5.0,Orange,Extra Large,93,Low
+302,Gazelle Hopps,Elephant,Prey,Downtown,8.0,2.0,9.9,0.6,3.5,Striped,Large,64,Moderate
+303,Bonnie Yak,Fox,Predator,Downtown,8.5,,7.1,4.3,2.5,Black,Large,43,High
+304,Fuzzy Shrew,Wolf,Predator,Downtown,6.4,0.3,5.4,5.4,6.5,Grey,Medium,10,High
+305,Claws Armadillo,Rabbit,Prey,Savanna Central,6.0,1.3,6.1,2.1,8.5,Grey,Extra Large,64,Moderate
+306,Gideon Hedgehog,Rhino,Prey,Sahara Square,5.3,3.2,6.2,3.2,6.1,Grey,Extra Large,44,Low
+307,Nangi Puma,Sloth,Prey,Tundratown,9.4,2.6,7.7,1.4,2.9,Spotted,Extra Large,133,High
+308,Bellwether Jackal,Otter,Predator,Sahara Square,10.0,2.6,7.8,2.6,1.0,Orange,Medium,148,High
+309,Priscilla Hopps,Polar Bear,Predator,Savanna Central,7.3,0.2,7.8,5.7,3.0,Spotted,Medium,143,Moderate
+310,Emmitt Tiger,Hamster,Prey,Rainforest District,,2.1,5.5,2.7,7.7,Spotted,Small,89,High
+311,Raymond Badger,Leopard,Predator,Meadowlands,8.8,1.4,8.3,4.4,1.1,Grey,Extra Large,80,High
+312,FruFru Armadillo,Lion,Predator,Savanna Central,10.0,3.7,7.7,2.2,0.4,Grey,Extra Large,47,High
+313,Snout Shrew,Lion,Predator,Rainforest District,7.6,2.5,5.4,4.5,4.0,,Extra Large,139,High
+314,Peter Chipmunk,Hyena,Predator,Sahara Square,8.9,,5.2,1.8,5.3,Striped,Medium,32,High
+315,Paws Hippo,Elephant,Prey,Savanna Central,,1.4,5.4,,5.3,Orange,Small,62,High
+316,Judy Coyote,Pig,Prey,,7.0,1.8,8.0,3.1,4.1,Grey,Extra Large,87,Moderate
+317,Peter Ocelot,Yak,Prey,Savanna Central,9.6,2.0,10.0,2.0,0.4,Grey,Extra Large,60,High
+318,Finnick Leopard,Moose,Prey,Savanna Central,6.9,3.5,9.3,3.5,0.8,White,Small,143,Moderate
+319,Duke Hopps,Mouse,Prey,Downtown,9.0,1.2,5.4,2.4,6.0,Orange,Extra Large,94,High
+320,Sparky Otter,Elephant,Prey,Downtown,6.7,3.9,8.2,4.3,0.9,Spotted,Large,72,Moderate
+321,Yax Shrew,Hyena,Predator,Tundratown,5.7,3.4,9.6,2.6,2.7,Brown,Medium,71,Low
+322,Finnick Squirrel,Hippo,Prey,Savanna Central,5.9,2.0,7.0,0.9,8.2,Striped,Extra Large,63,Low
+323,Sparky Badger,Fox,Predator,Tundratown,6.8,0.3,5.1,0.8,11.0,Orange,Large,37,High
+324,Kevin Rhino,Hedgehog,Prey,Savanna Central,9.8,1.7,6.6,3.0,2.9,Spotted,Extra Large,26,High
+325,Raymond Sheep,Cheetah,Predator,Meadowlands,7.2,0.4,8.2,,6.9,Orange,Extra Large,123,Moderate
+326,Bonnie Panther,Sheep,Prey,Meadowlands,5.8,0.2,8.9,2.8,6.3,,Extra Large,130,Low
+327,Nangi Sheep,Panther,Predator,Meadowlands,5.3,4.0,5.3,4.2,5.2,Spotted,Extra Large,62,High
+328,Stu Dingo,Weasel,Predator,Meadowlands,8.5,0.2,7.5,6.0,1.8,Golden,Small,85,High
+329,Jerry Jackal,Gazelle,Prey,Downtown,9.1,2.5,6.5,3.7,2.2,Grey,Small,108,High
+330,Fuzzy Mouse,Leopard,Predator,Tundratown,5.7,3.5,7.2,1.2,6.4,Brown,Extra Large,142,Low
+331,Tail Hopps,Giraffe,Prey,Downtown,6.8,1.7,9.1,4.4,2.0,Grey,Small,89,Moderate
+332,,Rabbit,Prey,Downtown,5.1,1.0,8.8,0.8,8.3,Brown,Extra Large,104,Low
+333,Clawhauser Otter,Leopard,Predator,Tundratown,7.7,0.9,5.1,,8.9,Golden,Large,111,High
+334,Lionheart Cougar,Lion,Predator,Sahara Square,5.5,2.2,7.3,5.1,3.9,Brown,Extra Large,3,Low
+335,Whiskers Rabbit,Rabbit,Prey,Meadowlands,5.5,2.0,5.8,1.9,8.8,Striped,Extra Large,113,High
+336,Kevin Dingo,Lion,Predator,Tundratown,6.9,1.6,7.3,4.7,3.5,Grey,Small,72,Moderate
+337,Bogo Hyena,Hamster,Prey,,9.5,3.8,8.9,0.6,1.2,Black,Medium,131,High
+338,Judy Elephant,Hippo,Prey,Sahara Square,6.3,3.4,5.2,5.4,3.7,Orange,Small,12,High
+339,Pronk Hippo,Polar Bear,Predator,,7.3,2.5,8.3,5.3,0.6,Orange,Large,2,Moderate
+340,,Leopard,Predator,Rainforest District,5.3,2.1,,4.4,6.4,,Medium,50,High
+341,Jerry Shrew,Hippo,Prey,Rainforest District,7.6,2.7,5.2,0.5,8.0,Orange,Small,68,High
+342,Tail Lion,Hyena,Predator,Savanna Central,5.4,0.0,9.8,4.4,4.4,Golden,Medium,39,Low
+343,Mayor Bear,Wolf,Predator,Savanna Central,6.8,1.2,6.7,4.6,4.7,Black,Large,85,Moderate
+344,Agent Wilde,Rabbit,Prey,Rainforest District,5.9,0.4,8.3,4.6,4.8,White,Small,110,Low
+345,Judy Chipmunk,Rhino,Prey,Sahara Square,6.3,,5.4,5.8,6.4,Spotted,Medium,65,High
+346,Snout Baboon,Sloth,Prey,Sahara Square,8.1,1.5,6.0,0.7,7.7,Striped,Small,16,High
+347,,Giraffe,Prey,Sahara Square,8.1,3.1,8.2,2.4,2.2,White,Large,29,High
+348,FruFru Wolf,Hippo,Prey,Sahara Square,9.9,2.4,7.9,2.8,1.0,Grey,Medium,3,High
+349,Flash Macaque,Weasel,Predator,Tundratown,9.1,2.6,5.6,2.0,4.7,Spotted,Extra Large,26,High
+350,Emmitt Panther,Yak,Prey,Rainforest District,7.2,2.5,9.7,1.1,3.5,Grey,Large,80,Moderate
+351,FruFru Fox,Pig,Prey,Sahara Square,5.6,0.8,,3.9,4.3,White,Large,25,Low
+352,Agent Wolf,Mouse,Prey,Rainforest District,9.3,3.4,9.6,0.4,1.3,Black,Large,98,High
+353,Gideon Shrew,Pig,Prey,Rainforest District,8.8,,9.2,3.1,1.1,Black,Large,63,High
+355,Fabienne Panther,Panther,Predator,Sahara Square,5.2,0.7,5.7,4.4,8.0,White,Small,124,High
+356,Koslov Skunk,Cheetah,Predator,Downtown,7.5,3.4,8.7,2.4,2.0,Brown,Medium,141,Moderate
+357,Bogo Tiger,Rabbit,Prey,,8.0,2.0,6.5,3.4,4.1,,Medium,61,Moderate
+358,Koslov Rhino,Leopard,Predator,Sahara Square,8.2,3.0,5.8,2.8,4.2,,Small,142,High
+359,Bonnie Wolf,Zebra,Prey,Savanna Central,5.0,1.0,8.6,6.0,3.4,Brown,Large,95,Low
+360,Priscilla Shrew,Jaguar,Predator,Meadowlands,9.0,,7.8,4.4,2.0,Golden,Small,91,High
+361,,Hippo,Prey,Savanna Central,8.1,0.8,6.8,4.7,3.6,Spotted,Extra Large,6,High
+362,Nangi Baboon,Leopard,Predator,Tundratown,8.8,0.1,8.7,1.2,5.2,,Small,145,High
+363,Whiskers Fox,Giraffe,Prey,,9.8,1.5,6.6,0.9,5.2,Spotted,Small,101,High
+364,FruFru Dingo,Panther,Predator,Sahara Square,10.0,1.5,7.2,3.8,1.5,Spotted,Medium,148,High
+365,Gareth Moose,Polar Bear,Predator,Downtown,9.4,2.4,7.0,2.1,3.1,Black,Extra Large,64,High
+366,Doug Rhino,Pig,Prey,Savanna Central,9.0,0.4,7.9,2.9,3.8,White,Extra Large,36,High
+367,,Rhino,Prey,Sahara Square,8.2,0.3,7.9,3.4,4.2,Golden,Extra Large,38,High
+368,Frantic Squirrel,Rabbit,Prey,Sahara Square,8.4,3.2,6.3,5.0,1.1,Orange,Extra Large,123,High
+369,Flash Wilde,Rhino,Prey,Sahara Square,7.5,0.3,5.3,2.0,8.9,Grey,Small,32,High
+370,Gary Dog,Lion,Predator,Tundratown,8.9,2.1,7.2,0.9,4.9,Black,Extra Large,91,High
+371,Pronk Wolf,Lion,Predator,Savanna Central,6.6,1.7,5.4,1.3,9.0,Grey,Extra Large,143,High
+372,Frantic Rabbit,Lion,Predator,Sahara Square,10.0,3.7,8.2,0.9,1.2,Golden,Extra Large,120,High
+373,Priscilla Hippo,Panther,Predator,Rainforest District,8.2,3.1,5.6,2.5,4.6,,Large,23,High
+374,Tail Yak,Rat,Prey,Savanna Central,7.9,2.4,5.9,2.2,5.6,Golden,Small,141,High
+376,Finnick Hedgehog,Zebra,Prey,Downtown,6.5,3.8,6.3,2.6,4.8,White,Small,80,Moderate
+377,Manchas Hippo,Elephant,Prey,Downtown,9.4,3.4,5.9,4.3,1.0,Golden,Small,80,High
+378,Bogo Otter,Rhino,Prey,Rainforest District,5.7,0.3,8.6,3.0,6.4,,Small,53,Low
+379,Ranger Lynx,Sloth,Prey,,7.2,2.9,8.8,0.8,4.3,Golden,Large,145,Moderate
+380,Sharla Weasel,Panther,Predator,Downtown,8.8,2.6,9.8,0.2,2.6,Black,Medium,69,High
+381,Stu Badger,Pig,Prey,Downtown,5.3,1.1,6.3,1.5,9.8,Black,Extra Large,55,Low
+382,Chief Cat,Rhino,Prey,Tundratown,6.4,3.0,7.2,4.7,2.7,Striped,Medium,8,Moderate
+383,Nangi Coyote,Panther,Predator,Sahara Square,5.3,2.0,5.2,0.4,11.1,Striped,Large,66,High
+384,Fabienne Hopps,Jaguar,Predator,Downtown,6.7,3.6,5.1,4.0,4.6,,Small,74,High
+385,Sharla Coyote,Pig,Prey,Rainforest District,9.8,,9.7,0.1,2.2,White,Medium,143,High
+386,Sharla Tiger,Jaguar,Predator,Meadowlands,8.7,3.9,6.3,3.3,1.8,Black,Large,11,High
+387,Nick Armadillo,Tiger,Predator,Downtown,6.0,2.3,7.3,5.8,2.6,Orange,Medium,145,Moderate
+388,Larry Porcupine,Rabbit,Prey,Rainforest District,5.6,0.6,6.1,1.5,10.2,Orange,Small,63,Low
+389,Madge Coyote,Pig,Prey,Tundratown,9.3,2.2,7.6,0.6,4.3,Striped,Large,87,High
+390,Bucky Raccoon,Gazelle,Prey,Meadowlands,5.3,2.8,7.7,0.5,7.7,Black,Small,59,Low
+391,Kevin Porcupine,Yak,Prey,Tundratown,7.3,1.9,5.8,5.7,3.3,Grey,Extra Large,56,High
+392,Hooves Armadillo,Hyena,Predator,Sahara Square,7.3,1.6,8.3,3.3,3.5,Striped,Medium,80,Moderate
+393,Kevin Skunk,Hamster,Prey,Tundratown,5.3,2.1,,2.8,4.8,Striped,Extra Large,66,Low
+394,Nangi Squirrel,Jaguar,Predator,Meadowlands,5.8,1.3,8.8,3.1,5.0,Spotted,Extra Large,26,Low
+395,Fuzzy Rabbit,Rhino,Prey,Downtown,6.0,3.5,9.4,4.4,0.7,Spotted,Small,55,Moderate
+396,Madge Hare,Yak,Prey,Rainforest District,9.9,3.1,5.1,0.4,5.5,Black,Large,124,High
+397,Pronk Fox,Rhino,Prey,Rainforest District,7.3,3.6,7.7,2.7,2.7,Spotted,Extra Large,74,Moderate
+398,Flash Tiger,Hippo,Prey,Rainforest District,9.1,1.5,8.9,4.3,0.2,Black,Extra Large,103,High
+399,Paws Puma,Elephant,Prey,Sahara Square,6.0,2.1,,4.8,4.7,Striped,Small,121,Moderate
+400,Jerry Moose,Rat,Prey,Tundratown,9.0,1.6,9.6,2.0,1.8,Brown,Medium,61,High
+401,Tail Tiger,Hamster,Prey,Tundratown,5.8,,9.0,1.9,4.5,Black,Medium,0,Low
+402,Whiskers Macaque,Hyena,Predator,Meadowlands,5.9,3.6,8.3,0.9,5.3,White,Large,132,Low
+403,Bogo Fox,Elephant,Prey,Tundratown,7.2,2.5,5.4,,3.6,Striped,Medium,121,High
+404,Finnick Raccoon,Yak,Prey,Tundratown,9.8,1.7,9.9,1.7,0.9,Grey,Large,18,High
+405,Agent Puma,Fox,Predator,Savanna Central,8.2,0.7,9.4,2.4,3.3,Spotted,Small,112,High
+406,Nangi Rhino,Leopard,Predator,Downtown,8.6,3.6,5.4,4.4,2.0,Spotted,Medium,129,High
+407,Claws Dog,Jaguar,Predator,Tundratown,5.9,3.4,9.1,3.0,2.6,Grey,Extra Large,40,Low
+408,Agent Hare,Mouse,Prey,Savanna Central,7.4,3.3,7.3,2.1,3.9,,Medium,10,Moderate
+409,Yax Yak,Cheetah,Predator,Savanna Central,7.5,3.3,6.7,,5.5,Brown,Large,66,Moderate
+410,Manchas Lynx,Sheep,Prey,Savanna Central,5.5,1.0,,2.1,9.7,Golden,Small,91,High
+411,Larry Cougar,Hamster,Prey,Rainforest District,7.3,3.0,8.3,3.4,2.0,Striped,Medium,118,Moderate
+412,Priscilla Skunk,Hyena,Predator,Savanna Central,7.4,3.9,8.2,0.6,3.9,Grey,Medium,91,Moderate
+413,Bogo Jackal,Zebra,Prey,Rainforest District,8.4,1.3,8.4,0.4,5.5,Orange,Medium,47,High
+414,Agent Rabbit,Gazelle,Prey,Downtown,6.1,3.3,6.4,3.9,4.3,Grey,Extra Large,127,Moderate
+415,Judy Fox,Hedgehog,Prey,Tundratown,8.5,2.1,6.5,1.3,5.6,,Medium,73,High
+416,Stu Bunny,Rat,Prey,Tundratown,9.4,3.1,8.9,1.7,0.9,Striped,Large,28,High
+417,Koslov Porcupine,Moose,Prey,Rainforest District,6.3,3.6,8.4,3.2,2.5,Orange,Large,116,Moderate
+418,Agent Hippo,Fox,Predator,Meadowlands,7.3,3.5,7.7,2.1,3.4,Orange,Extra Large,124,Moderate
+419,Bellwether Rabbit,Pig,Prey,Sahara Square,9.9,0.4,7.1,0.3,6.3,Grey,Large,67,High
+420,Pronk Sloth,Elephant,Prey,Sahara Square,6.4,3.4,6.5,5.5,2.2,Golden,Medium,42,Moderate
+421,Fabienne Cat,Weasel,Predator,Meadowlands,8.8,3.2,5.1,5.8,1.1,Brown,Large,95,High
+422,Gideon Wolf,Moose,Prey,Savanna Central,9.1,1.1,9.4,0.5,3.9,Golden,Extra Large,121,High
+423,Peter Hyena,Zebra,Prey,Sahara Square,,2.2,5.5,1.5,6.3,,Extra Large,14,High
+424,Fabienne Hippo,Giraffe,Prey,Meadowlands,6.5,,6.5,1.8,6.8,Black,Medium,30,Moderate
+425,Frantic Shrew,Hamster,Prey,Sahara Square,8.7,0.2,,4.8,0.8,Grey,Extra Large,68,High
+426,Bucky Rabbit,Hamster,Prey,,9.5,0.7,5.4,1.4,7.0,Brown,Small,18,High
+427,Madge Baboon,Otter,Predator,Tundratown,9.0,0.1,7.9,6.0,1.0,White,Medium,84,High
+428,Peter Weasel,Gazelle,Prey,Rainforest District,5.3,3.3,8.0,0.7,6.7,White,Small,84,Low
+429,Gideon Rat,Lion,Predator,Meadowlands,5.5,3.6,,5.0,1.6,Striped,Large,84,Low
+430,Larry Cat,Hamster,Prey,Tundratown,7.6,1.7,6.6,2.6,5.5,Spotted,Extra Large,131,Moderate
+431,Officer Shrew,Elephant,Prey,Sahara Square,8.9,2.4,,1.4,1.8,Grey,Small,20,High
+432,Claws Gorilla,Tiger,Predator,Meadowlands,8.0,2.8,6.2,3.1,3.9,Black,Large,91,Moderate
+433,Gary Panther,Rhino,Prey,Sahara Square,5.5,1.5,7.4,3.9,5.7,Brown,Medium,144,Low
+434,Peter Coyote,Moose,Prey,Savanna Central,8.7,2.0,8.2,0.4,4.7,Black,Medium,75,High
+435,Frantic Tiger,Gazelle,Prey,Savanna Central,6.3,1.4,7.4,0.3,8.6,Orange,Small,126,Moderate
+436,Judy Wilde,Pig,Prey,Sahara Square,9.9,1.3,7.4,1.1,4.3,Spotted,Extra Large,12,High
+437,Peter Raccoon,Giraffe,Prey,,8.1,1.1,6.0,3.1,5.7,Grey,Extra Large,31,High
+438,Raymond Jaguar,Yak,Prey,Tundratown,9.0,2.3,7.6,1.5,3.6,White,Extra Large,35,High
+439,Sparky Wilde,Rabbit,Prey,Meadowlands,9.7,1.6,5.4,3.7,3.6,Golden,Small,47,High
+440,Dash Baboon,Panther,Predator,Sahara Square,7.5,3.5,7.5,3.9,1.6,Golden,Small,16,Moderate
+441,Bucky Moose,Yak,Prey,Downtown,10.0,0.5,,2.4,4.7,Grey,Large,18,High
+442,Ranger Sheep,Mouse,Prey,Downtown,9.5,2.9,8.0,1.1,2.5,Striped,Medium,119,High
+443,Paws Bunny,Otter,Predator,Rainforest District,9.1,,9.1,0.0,2.0,Spotted,Small,2,High
+444,Mayor Weasel,Lion,Predator,Sahara Square,6.3,0.2,8.0,4.1,5.4,Orange,Medium,104,Moderate
+445,Whiskers Cheetah,Hamster,Prey,Meadowlands,5.6,1.5,7.3,2.2,7.4,White,Small,53,Low
+446,Ranger Squirrel,Rat,Prey,Rainforest District,8.8,0.3,5.4,2.1,7.4,Golden,Large,115,High
+447,Doug Opossum,Cheetah,Predator,Sahara Square,9.7,2.7,8.4,1.2,2.0,Brown,Large,77,High
+448,Gazelle Macaque,Polar Bear,Predator,Tundratown,8.2,3.7,8.1,3.5,0.5,Spotted,Small,58,High
+449,Raymond Panther,Fox,Predator,Tundratown,8.6,0.5,9.5,0.4,5.0,,Medium,72,High
+450,Pronk Shrew,Sloth,Prey,Downtown,5.1,1.7,6.5,2.9,7.8,Spotted,Medium,64,Low
+452,Gareth Panther,Sheep,Prey,Rainforest District,8.3,3.4,8.5,1.6,2.2,Grey,Medium,5,High
+453,Fabienne Rat,Panther,Predator,Tundratown,8.4,1.1,6.5,4.7,3.3,Brown,Large,124,High
+454,Yax Wolf,Sheep,Prey,Savanna Central,9.1,3.4,9.6,0.8,1.1,Grey,Medium,55,High
+455,Frantic Wilde,Rat,Prey,Sahara Square,6.6,2.3,6.9,3.6,4.6,Striped,Large,24,Moderate
+456,Finnick Bunny,Polar Bear,Predator,Tundratown,6.9,0.7,7.2,0.9,8.3,Brown,Large,65,Moderate
+457,Gazelle Wilde,Sheep,Prey,Downtown,9.5,1.4,5.8,0.2,7.1,Spotted,Medium,24,High
+458,Nick Hopps,Rhino,Prey,Tundratown,6.7,0.3,7.0,1.9,8.1,Golden,Extra Large,132,Moderate
+459,Nick Raccoon,Giraffe,Prey,,8.4,2.4,6.8,1.3,5.1,Golden,Extra Large,136,High
+460,Gideon Wilde,Pig,Prey,Meadowlands,8.4,0.6,7.4,0.2,7.4,Black,Extra Large,96,High
+461,Fluffy Rhino,Elephant,Prey,,7.5,,6.9,0.2,5.5,Brown,Small,2,Moderate
+462,Gareth Yak,Hedgehog,Prey,Sahara Square,5.8,0.1,8.8,2.8,6.5,,Large,60,Low
+463,Fabienne Wilde,Hedgehog,Prey,Meadowlands,6.4,3.6,5.6,5.7,2.7,Golden,Small,129,High
+464,Officer Beaver,Gazelle,Prey,Meadowlands,8.0,3.3,9.9,0.8,2.0,Spotted,Small,58,Moderate
+465,,Gazelle,Prey,Rainforest District,9.8,1.6,6.9,1.9,3.8,Spotted,Extra Large,43,High
+466,Flash Gorilla,Lion,Predator,Meadowlands,7.8,2.2,8.8,4.3,0.9,Grey,Small,148,Moderate
+467,Dash Rhino,Rat,Prey,Tundratown,7.2,1.2,6.3,1.2,8.1,Orange,Extra Large,89,Moderate
+468,Stu Baboon,Panther,Predator,Meadowlands,6.4,3.9,7.8,2.0,3.9,,Extra Large,68,Moderate
+469,Mayor Elephant,Rhino,Prey,Tundratown,7.9,0.6,7.2,3.8,4.5,Orange,Medium,24,Moderate
+470,Fabienne Chipmunk,Polar Bear,Predator,Sahara Square,10.0,3.5,8.1,1.4,1.0,Orange,Small,78,High
+471,Raymond Cougar,Hippo,Prey,Rainforest District,8.1,0.8,,0.2,7.9,Golden,Small,92,High
+472,Lionheart Baboon,Jaguar,Predator,Downtown,6.1,,9.5,3.2,1.3,Black,Medium,150,Moderate
+473,Koslov Rat,Mouse,Prey,Meadowlands,7.7,3.5,5.7,4.7,2.4,Striped,Small,104,High
+474,Nangi Ocelot,Elephant,Prey,Savanna Central,6.4,3.5,9.7,0.7,3.7,Spotted,Medium,140,Moderate
+475,Larry Rabbit,Rhino,Prey,Tundratown,7.3,3.9,7.4,4.7,0.7,,Large,27,Moderate
+476,Priscilla Panther,Rabbit,Prey,,6.4,0.8,8.8,2.3,5.7,Spotted,Medium,54,Moderate
+477,Stu Pig,Jaguar,Predator,Meadowlands,7.6,,7.9,5.2,1.3,White,Medium,24,Moderate
+478,Yax Gorilla,Tiger,Predator,Sahara Square,9.1,3.1,7.9,3.7,0.2,Grey,Extra Large,28,High
+479,Gazelle Sloth,Sloth,Prey,Meadowlands,6.0,0.4,9.3,2.6,5.7,Grey,Small,45,Moderate
+480,Bucky Skunk,Hippo,Prey,Savanna Central,8.1,3.7,5.1,2.9,4.2,Black,Small,135,High
+481,Sparky Bear,Jaguar,Predator,Tundratown,8.4,2.9,8.5,0.6,3.6,Orange,Large,64,High
+482,Judy Weasel,Hippo,Prey,Downtown,9.0,1.1,6.1,5.7,2.1,Orange,Large,66,High
+483,,Leopard,Predator,Rainforest District,,,8.4,5.0,1.6,Golden,Large,105,Low
+484,,Mouse,Prey,Sahara Square,8.7,0.6,8.8,4.5,1.4,Orange,Large,77,High
+485,Agent Panther,Giraffe,Prey,Meadowlands,8.3,3.1,,2.1,1.3,White,Small,110,High
+486,Fuzzy Beaver,Hedgehog,Prey,Savanna Central,5.4,1.6,7.0,0.4,9.6,Orange,Extra Large,44,Low
+487,Mayor Tiger,Gazelle,Prey,Tundratown,6.7,0.4,9.0,5.7,2.2,White,Large,111,Moderate
+488,Clawhauser Pig,Mouse,Prey,Downtown,,2.0,9.0,4.2,3.4,Brown,Large,126,Low
+489,Manchas Raccoon,Moose,Prey,Downtown,5.3,0.3,,1.8,9.6,Brown,Medium,58,Low
+490,Hooves Bear,Zebra,Prey,Tundratown,9.0,3.7,7.0,3.9,0.4,White,Extra Large,138,High
+491,Finnick Baboon,Rat,Prey,Savanna Central,6.6,1.9,6.1,3.8,5.6,Spotted,Extra Large,138,Moderate
+492,Lionheart Wolf,Weasel,Predator,Sahara Square,6.8,2.6,5.6,5.3,3.7,White,Small,49,High
+493,Madge Armadillo,Pig,Prey,Tundratown,7.5,1.8,7.9,3.7,3.1,,Large,94,Moderate
+494,Swift Weasel,Elephant,Prey,Tundratown,6.2,2.9,9.1,4.7,1.1,Orange,Small,48,Moderate
+495,Nangi Jaguar,Polar Bear,Predator,Savanna Central,7.8,2.1,5.7,4.7,3.7,Golden,Medium,68,High
+496,Jerry Wolf,Otter,Predator,Rainforest District,6.4,0.5,8.1,0.3,8.7,Orange,Medium,62,Moderate
+497,Gareth Wilde,Weasel,Predator,Downtown,8.7,1.3,5.0,3.1,5.9,White,Medium,132,High
+498,,Hippo,Prey,Meadowlands,9.2,0.0,6.2,4.4,4.2,Striped,Medium,49,High
+499,Dash Bear,Hyena,Predator,Savanna Central,6.6,0.4,6.8,1.6,8.6,Striped,Medium,2,Moderate
+500,Fuzzy Cougar,Otter,Predator,Sahara Square,8.9,3.6,7.2,3.9,0.4,Black,Small,71,High
+501,Chief Cougar,Hyena,Predator,Downtown,6.9,3.9,5.4,4.1,3.7,,Medium,23,High
+502,Officer Hare,Giraffe,Prey,,8.2,2.8,5.0,1.0,7.0,Golden,Small,47,High
+503,Hooves Shrew,Hyena,Predator,Meadowlands,8.6,2.7,9.8,2.2,0.7,Spotted,Small,10,High
+504,Sharla Dog,Rat,Prey,Rainforest District,6.5,0.4,8.9,3.9,4.3,Striped,Large,38,Moderate
+505,Bellwether Yak,Polar Bear,Predator,Meadowlands,5.2,1.4,9.8,3.0,4.6,,Large,24,Low
+506,,Rat,Prey,Tundratown,6.0,1.5,6.8,0.3,9.4,Grey,Large,6,Moderate
+507,Fluffy Cheetah,Rat,Prey,Sahara Square,8.8,1.7,9.1,3.7,0.7,Black,Large,116,High
+509,Fuzzy Baboon,Jaguar,Predator,Downtown,8.0,1.2,5.7,3.9,5.2,Brown,Large,116,High
+510,Kevin Raccoon,Elephant,Prey,Sahara Square,8.2,1.6,,1.1,4.5,,Extra Large,8,High
+511,Peter Moose,Leopard,Predator,Savanna Central,9.5,1.1,6.8,0.3,6.3,Brown,Medium,36,High
+512,FruFru Gorilla,Hippo,Prey,Savanna Central,6.3,3.3,5.1,2.3,7.0,Black,Large,32,High
+513,Ranger Opossum,Zebra,Prey,Meadowlands,6.7,0.1,5.6,2.5,9.1,Brown,Medium,27,High
+514,Emmitt Armadillo,Gazelle,Prey,,7.7,2.4,5.0,2.8,6.1,Striped,Small,12,High
+515,Mayor Jaguar,Weasel,Predator,Downtown,9.8,2.1,8.4,1.2,2.5,White,Medium,91,High
+516,Sharla Fox,Hyena,Predator,Downtown,7.6,3.9,5.6,0.1,6.8,Spotted,Medium,66,High
+517,Fabienne Sheep,Cheetah,Predator,Downtown,8.9,3.2,5.6,1.6,4.7,Orange,Small,41,High
+518,Frantic Moose,Hamster,Prey,Savanna Central,6.7,1.5,5.0,1.8,9.0,Grey,Extra Large,65,High
+519,Koslov Yak,Mouse,Prey,Meadowlands,8.2,3.9,9.2,0.1,2.6,,Medium,141,High
+520,Mayor Ocelot,Hippo,Prey,Sahara Square,8.9,1.8,7.0,1.8,4.5,White,Small,144,High
+521,Priscilla Dingo,Rabbit,Prey,Meadowlands,5.3,0.9,6.2,2.9,8.7,Black,Medium,39,Low
+522,Paws Macaque,Rabbit,Prey,Downtown,5.3,3.8,9.7,4.1,1.1,Orange,Extra Large,48,Low
+523,Officer Wilde,Yak,Prey,Savanna Central,10.0,2.2,9.8,0.2,1.8,Orange,Large,81,High
+524,Hooves Hare,Leopard,Predator,Sahara Square,6.0,0.6,8.1,4.7,4.6,,Extra Large,93,Moderate
+525,Kevin Shrew,Giraffe,Prey,Meadowlands,7.9,0.6,,3.8,2.6,Grey,Small,58,Moderate
+526,Dash Elephant,Zebra,Prey,Savanna Central,6.3,1.4,9.6,1.7,5.0,Orange,Extra Large,93,Moderate
+527,Whiskers Yak,Panther,Predator,Downtown,7.3,3.6,8.5,0.3,4.3,Spotted,Large,54,Moderate
+528,Gazelle Jaguar,Hyena,Predator,Tundratown,5.7,3.8,7.6,1.5,5.4,Orange,Medium,91,Low
+529,Emmitt Yak,Lion,Predator,Rainforest District,7.5,2.7,5.4,1.6,6.8,Black,Extra Large,124,High
+530,Agent Elephant,Hyena,Predator,Sahara Square,7.7,1.7,5.2,1.0,8.4,Black,Large,38,High
+531,Gareth Shrew,Rat,Prey,,7.2,0.8,5.2,5.1,5.7,Grey,Small,12,High
+532,Sharla Rat,Wolf,Predator,Tundratown,9.8,0.8,9.8,3.6,0.0,Orange,Large,5,High
+533,Gideon Hyena,Leopard,Predator,Sahara Square,8.6,3.9,7.8,1.0,2.7,White,Small,101,High
+534,Emmitt Chipmunk,Sloth,Prey,Rainforest District,5.4,2.5,9.9,1.1,5.1,,Large,120,Low
+535,Gideon Fox,Moose,Prey,Tundratown,9.0,3.6,9.7,1.6,0.1,Black,Small,36,High
+536,Officer Mouse,Weasel,Predator,Meadowlands,8.8,0.6,7.4,4.3,2.9,Golden,Small,95,High
+537,Bucky Lion,Gazelle,Prey,Sahara Square,6.2,2.6,8.3,1.0,5.9,Black,Large,83,Moderate
+538,Duke Badger,Elephant,Prey,Rainforest District,,0.0,5.0,2.1,9.4,White,Large,72,High
+539,Manchas Pig,Polar Bear,Predator,Sahara Square,9.6,0.9,8.2,1.2,4.1,Brown,Medium,23,High
+540,Manchas Hedgehog,Polar Bear,Predator,Tundratown,8.6,0.4,7.1,0.2,7.7,Brown,Large,37,High
+541,Jerry Badger,Yak,Prey,Tundratown,7.4,2.6,5.6,1.7,6.7,Striped,Small,58,High
+542,Gareth Hedgehog,Hippo,Prey,Savanna Central,10.0,0.2,8.8,1.9,3.1,Orange,Extra Large,78,High
+543,Fabienne Dingo,Weasel,Predator,Downtown,7.0,3.0,9.6,4.2,0.2,Striped,Large,98,Moderate
+544,Yax Chipmunk,Hippo,Prey,Downtown,8.9,1.0,7.8,2.2,4.1,Striped,Large,66,High
+545,Duke Panther,Rat,Prey,Savanna Central,8.3,1.0,6.0,5.5,3.2,Black,Small,21,High
+546,Sharla Hopps,Weasel,Predator,Meadowlands,6.1,0.2,5.2,1.1,11.4,Black,Medium,88,High
+547,Dash Shrew,Panther,Predator,Sahara Square,9.3,1.1,9.8,,1.6,Black,Large,90,High
+548,Koslov Weasel,Cheetah,Predator,Downtown,7.6,3.0,6.4,,4.9,White,Large,80,Moderate
+549,Hooves Lion,Pig,Prey,Downtown,9.5,3.8,9.5,0.5,0.7,Golden,Extra Large,109,High
+550,Yax Hyena,Gazelle,Prey,Sahara Square,7.5,,8.0,1.1,6.6,Grey,Extra Large,144,Moderate
+551,Duke Fox,Hamster,Prey,Rainforest District,6.7,3.4,6.0,0.4,7.5,Grey,Extra Large,91,Moderate
+552,Doug Hare,Otter,Predator,Tundratown,9.1,3.3,6.7,3.4,1.5,Grey,Large,7,High
+553,Doug Sheep,Otter,Predator,Meadowlands,8.9,2.6,5.8,5.3,1.4,Spotted,Large,10,High
+554,Fluffy Badger,Lion,Predator,Meadowlands,7.1,0.2,5.6,4.6,6.5,Golden,Small,23,High
+555,Kevin Fox,Mouse,Prey,Tundratown,5.0,1.7,7.6,0.3,9.4,White,Small,75,Low
+556,Bogo Rhino,Rhino,Prey,Tundratown,6.2,0.0,8.6,5.8,3.4,Brown,Large,102,Moderate
+557,Snout Squirrel,Otter,Predator,Rainforest District,6.1,2.7,8.7,5.1,1.4,Black,Small,107,Moderate
+558,,Moose,Prey,Tundratown,6.6,2.9,9.1,1.0,4.4,Spotted,Extra Large,45,Moderate
+559,Fuzzy Porcupine,Otter,Predator,Meadowlands,6.9,3.6,9.0,4.4,0.1,White,Small,2,Moderate
+560,Whiskers Ocelot,Lion,Predator,Rainforest District,8.0,2.6,5.4,3.3,4.7,Black,Large,10,High
+561,Nangi Rat,Cheetah,Predator,Rainforest District,8.5,0.7,8.9,3.4,2.5,White,Medium,138,High
+562,Gazelle Panther,Sheep,Prey,,6.5,2.9,8.8,0.6,5.2,Striped,Small,8,Moderate
+563,Nangi Armadillo,Jaguar,Predator,Downtown,7.6,2.0,6.8,5.6,2.0,Golden,Medium,45,Moderate
+564,Paws Cougar,Rat,Prey,Downtown,8.6,1.8,9.6,2.8,1.2,Orange,Small,101,High
+565,Hooves Badger,Elephant,Prey,Downtown,,3.4,6.4,4.5,1.1,Spotted,Extra Large,36,High
+566,Stu Gorilla,Cheetah,Predator,Downtown,6.7,3.9,9.3,2.9,1.2,White,Small,121,Moderate
+567,Stu Dog,Mouse,Prey,Meadowlands,8.6,2.2,9.7,1.7,1.8,White,Extra Large,105,High
+568,Doug Lynx,Giraffe,Prey,Meadowlands,8.9,2.9,6.9,0.1,5.2,Brown,Extra Large,119,High
+569,Kevin Weasel,Panther,Predator,Meadowlands,9.2,0.0,8.5,5.8,0.5,Spotted,Medium,127,High
+570,Gareth Sheep,Fox,Predator,Rainforest District,8.5,3.3,7.7,4.4,0.1,Orange,Small,25,High
+571,Bonnie Wilde,Hippo,Prey,,5.3,2.0,8.6,5.2,2.9,Striped,Large,124,Low
+572,Flash Lynx,Tiger,Predator,Downtown,7.8,1.6,5.7,5.2,3.7,Brown,Extra Large,79,High
+574,Officer Lion,Moose,Prey,Sahara Square,6.3,2.5,7.9,5.0,2.3,Striped,Large,10,Moderate
+575,Fuzzy Weasel,Elephant,Prey,Tundratown,9.5,0.0,8.4,,5.8,Brown,Medium,84,High
+576,Larry Macaque,Elephant,Prey,Downtown,6.5,1.4,8.1,2.0,6.0,Striped,Extra Large,7,Moderate
+577,Chief Cheetah,Moose,Prey,Rainforest District,8.7,1.6,5.3,4.7,3.7,Golden,Extra Large,59,High
+578,Tail Coyote,Polar Bear,Predator,Savanna Central,8.4,1.3,5.3,2.2,6.8,Brown,Small,27,High
+579,Raymond Armadillo,Giraffe,Prey,Downtown,9.7,,8.4,2.1,1.2,Golden,Medium,64,High
+580,Nangi Leopard,Hyena,Predator,Rainforest District,8.8,0.4,6.4,1.7,6.7,Brown,Large,61,High
+581,Judy Beaver,Jaguar,Predator,Savanna Central,7.2,3.9,5.3,3.1,4.5,Grey,Medium,97,High
+582,Tail Macaque,Hyena,Predator,Downtown,,2.8,7.1,1.9,3.5,Spotted,Medium,134,High
+583,Mayor Cheetah,Moose,Prey,Meadowlands,7.0,1.1,6.0,2.9,7.0,Golden,Medium,134,Moderate
+584,Manchas Badger,Lion,Predator,Meadowlands,8.3,3.9,8.0,0.3,3.5,Spotted,Large,114,High
+587,Gareth Ocelot,Moose,Prey,Rainforest District,6.3,2.7,8.5,3.7,2.8,,Extra Large,47,Moderate
+588,Judy Panther,Hamster,Prey,Downtown,8.0,3.5,9.7,0.3,2.5,Striped,Small,78,Moderate
+589,Gary Mouse,Otter,Predator,Meadowlands,5.8,3.8,8.7,5.0,0.7,Orange,Small,15,Low
+590,FruFru Weasel,Hippo,Prey,Tundratown,8.5,2.7,7.0,0.1,5.7,Brown,Large,147,High
+591,Emmitt Skunk,Gazelle,Prey,Tundratown,7.9,1.0,7.3,5.7,2.1,Orange,Medium,104,Moderate
+592,Larry Baboon,Gazelle,Prey,Sahara Square,5.9,2.7,9.9,0.6,4.9,Golden,Medium,33,Low
+593,Officer Macaque,Hedgehog,Prey,Rainforest District,5.0,1.7,5.5,4.5,7.3,Brown,Large,27,High
+594,,Lion,Predator,Downtown,6.3,1.7,,0.1,7.3,Spotted,Large,145,Moderate
+595,Officer Weasel,Tiger,Predator,Meadowlands,7.9,2.5,8.2,1.3,4.1,Golden,Small,137,Moderate
+596,Hooves Coyote,Sheep,Prey,Meadowlands,6.0,3.5,8.7,0.1,5.7,Spotted,Extra Large,126,Moderate
+597,Kevin Sloth,Yak,Prey,Tundratown,6.2,,6.4,1.5,9.0,Brown,Small,6,Moderate
+598,Emmitt Hyena,Tiger,Predator,Meadowlands,8.7,2.4,,0.4,4.1,Black,Extra Large,51,High
+599,Emmitt Sheep,Lion,Predator,Rainforest District,9.8,3.4,9.0,1.5,0.3,Striped,Large,75,High
+600,Kevin Pig,Yak,Prey,Downtown,6.0,,8.7,4.4,2.4,Brown,Medium,145,Moderate
+601,Madge Squirrel,Rabbit,Prey,Sahara Square,7.6,0.3,6.9,5.5,3.7,Brown,Extra Large,62,Moderate
+602,Peter Cat,Zebra,Prey,Downtown,6.3,1.5,9.5,4.0,2.7,Brown,Large,83,Moderate
+603,Mayor Squirrel,Elephant,Prey,Rainforest District,8.9,1.8,8.2,1.3,3.8,Striped,Large,87,High
+604,Yax Wilde,Tiger,Predator,Sahara Square,7.2,2.6,9.7,0.3,4.2,Brown,Medium,97,Moderate
+605,Gareth Gorilla,Gazelle,Prey,Sahara Square,9.1,1.2,7.2,0.1,6.4,Striped,Extra Large,104,High
+606,Tail Hare,Hedgehog,Prey,Tundratown,5.3,2.0,9.6,0.6,6.5,Spotted,Large,117,Low
+607,Duke Otter,Hyena,Predator,Meadowlands,8.8,1.6,8.3,1.4,3.9,Grey,Medium,111,High
+608,Bonnie Hedgehog,Lion,Predator,Rainforest District,5.4,0.7,8.3,5.3,4.3,Orange,Small,104,Low
+609,Gareth Raccoon,Fox,Predator,Rainforest District,9.1,2.7,,1.7,4.9,White,Medium,11,High
+610,Nick Bear,Hyena,Predator,Rainforest District,7.6,2.1,6.8,2.1,5.4,Spotted,Medium,145,Moderate
+611,Larry Armadillo,Hamster,Prey,Meadowlands,9.1,3.2,6.5,4.8,0.4,Golden,Large,112,High
+612,Doug Squirrel,Pig,Prey,Meadowlands,6.8,2.0,9.7,4.8,0.7,Striped,Large,61,Moderate
+613,Pronk Moose,Cheetah,Predator,Savanna Central,5.5,1.6,7.8,3.0,6.1,White,Large,7,Low
+614,Pronk Beaver,Jaguar,Predator,Savanna Central,8.4,,9.3,2.2,0.7,Striped,Large,52,High
+615,Snout Leopard,Hyena,Predator,Tundratown,7.2,2.4,5.8,4.0,4.6,Brown,Medium,141,High
+616,Stu Cougar,Sloth,Prey,Savanna Central,6.1,0.5,5.8,0.0,11.6,Spotted,Small,144,High
+617,Koslov Dingo,Moose,Prey,Meadowlands,8.6,,,0.8,4.1,Golden,Extra Large,70,High
+618,Gazelle Squirrel,Hippo,Prey,Meadowlands,5.5,0.9,7.6,3.6,6.4,Brown,Extra Large,93,Low
+619,Officer Rat,Rhino,Prey,Rainforest District,6.2,0.2,7.0,1.4,9.2,Grey,Large,98,Moderate
+620,Gareth Bunny,Elephant,Prey,Sahara Square,7.1,1.7,7.7,4.2,3.3,Grey,Medium,127,Moderate
+621,Bellwether Weasel,Panther,Predator,Sahara Square,8.5,0.7,7.5,2.5,4.8,Striped,Medium,133,High
+622,Fabienne Leopard,Hedgehog,Prey,Sahara Square,7.7,,8.0,0.7,7.1,Striped,Extra Large,53,Moderate
+623,Hooves Jackal,Rhino,Prey,Savanna Central,6.7,0.6,8.5,1.2,7.0,Orange,Extra Large,85,Moderate
+624,Nick Lion,Sloth,Prey,Sahara Square,6.0,2.0,7.1,0.1,8.8,Golden,Medium,112,Moderate
+625,Swift Ocelot,Weasel,Predator,Downtown,9.0,,7.4,3.4,3.9,Grey,Small,119,High
+626,Stu Fox,Polar Bear,Predator,Savanna Central,6.3,,8.6,3.2,5.9,Grey,Small,50,Moderate
+627,Peter Panther,Zebra,Prey,Sahara Square,9.2,3.3,9.2,1.1,1.2,Black,Extra Large,31,High
+628,Raymond Lion,Cheetah,Predator,Sahara Square,7.3,,9.3,5.3,1.4,Orange,Large,97,Moderate
+630,Chief Ocelot,Tiger,Predator,Rainforest District,,3.5,6.9,3.3,5.0,Striped,Extra Large,145,Low
+631,Dash Armadillo,Gazelle,Prey,Meadowlands,9.8,0.3,8.2,0.4,5.3,Spotted,Large,13,High
+632,Bucky Hippo,Sloth,Prey,Rainforest District,7.2,4.0,7.8,1.6,3.4,Spotted,Large,86,Moderate
+633,Sparky Hyena,Moose,Prey,Tundratown,6.1,,6.9,0.4,9.2,Golden,Extra Large,61,Moderate
+634,Bellwether Lynx,Weasel,Predator,Downtown,8.6,2.6,8.5,0.0,4.3,Spotted,Extra Large,101,High
+635,Agent Jaguar,Rat,Prey,Sahara Square,6.1,2.6,7.4,0.0,7.9,Grey,Medium,88,Moderate
+636,Sharla Opossum,Tiger,Predator,Tundratown,7.7,0.3,8.8,3.5,3.7,Black,Small,115,Moderate
+637,Tail Chipmunk,Fox,Predator,,8.9,3.0,9.0,1.6,1.5,White,Large,28,High
+638,Fluffy Sloth,Gazelle,Prey,Downtown,8.1,3.0,5.8,1.2,5.9,White,Large,9,High
+639,Gideon Coyote,Jaguar,Predator,Downtown,9.5,3.0,9.5,1.5,0.5,Golden,Extra Large,88,High
+640,Larry Ocelot,Zebra,Prey,,9.4,2.3,8.2,0.6,3.5,Grey,Extra Large,132,High
+641,Doug Mouse,Hyena,Predator,Tundratown,7.4,2.9,6.4,1.2,6.1,Spotted,Extra Large,65,Moderate
+642,Finnick Dingo,Hamster,Prey,Rainforest District,6.1,1.7,,3.0,3.7,Spotted,Extra Large,93,Moderate
+643,Sharla Jackal,Mouse,Prey,Sahara Square,5.9,0.3,8.5,2.3,7.0,Striped,Medium,116,Low
+644,Hooves Ocelot,Giraffe,Prey,Savanna Central,9.0,1.1,8.5,1.4,4.0,Brown,Medium,108,High
+645,Doug Porcupine,Polar Bear,Predator,Savanna Central,9.7,2.5,6.6,1.4,3.8,Orange,Small,64,High
+646,Manchas Otter,Tiger,Predator,Tundratown,,2.4,6.3,4.0,5.2,Striped,Extra Large,3,Moderate
+647,Mayor Wilde,Pig,Prey,Meadowlands,9.1,3.1,8.8,0.6,2.4,Black,Large,101,High
+648,Chief Wolf,Hedgehog,Prey,Meadowlands,6.8,1.7,5.2,1.6,8.7,Orange,Medium,139,High
+649,Duke Moose,Moose,Prey,Meadowlands,5.2,3.5,6.2,3.3,5.8,White,Small,104,Low
+650,Emmitt Beaver,Rabbit,Prey,Sahara Square,6.6,3.6,9.4,1.4,3.0,White,Small,30,Moderate
+651,Officer Cheetah,Yak,Prey,Meadowlands,9.5,4.0,9.1,1.2,0.2,Black,Large,20,High
+652,,Sheep,Prey,Meadowlands,5.3,,10.0,2.0,6.3,Black,Extra Large,107,Low
+653,Gideon Hippo,Rhino,Prey,Downtown,8.7,3.2,9.3,2.8,0.0,Golden,Large,143,High
+654,Officer Bear,Jaguar,Predator,Downtown,5.1,1.4,8.9,3.4,5.2,Black,Large,60,Low
+655,Bogo Badger,Wolf,Predator,Sahara Square,6.6,2.6,6.2,0.1,8.5,Brown,Extra Large,44,Moderate
+656,Claws Rat,Rabbit,Prey,Rainforest District,8.8,0.2,9.2,3.6,2.2,Striped,Small,45,High
+657,Paws Lion,Mouse,Prey,,7.8,2.5,9.3,2.6,1.8,Grey,Large,135,Moderate
+658,Emmitt Dog,Cheetah,Predator,,8.8,1.8,8.5,1.9,3.0,White,Medium,44,High
+659,Kevin Sheep,Tiger,Predator,Meadowlands,6.1,2.4,9.6,5.5,0.4,White,Extra Large,105,Moderate
+660,Flash Fox,Panther,Predator,Rainforest District,6.1,4.0,9.9,2.6,1.4,White,Large,59,Moderate
+661,Gary Hippo,Elephant,Prey,Sahara Square,9.0,2.9,8.0,0.2,3.9,Black,Medium,114,High
+662,Yax Bear,Jaguar,Predator,Meadowlands,8.4,1.5,9.7,0.7,3.7,Golden,Large,87,High
+663,Bucky Jackal,Otter,Predator,,7.5,2.8,8.5,3.4,1.8,,Small,146,Moderate
+664,Flash Beaver,Fox,Predator,Rainforest District,8.2,2.4,5.9,4.2,3.3,Grey,Extra Large,113,High
+665,Claws Macaque,Weasel,Predator,Meadowlands,7.3,2.7,9.2,0.8,4.0,,Extra Large,18,Moderate
+666,Bucky Dog,Rabbit,Prey,Meadowlands,,3.2,9.8,1.0,0.8,Golden,Extra Large,12,High
+667,Nick Coyote,Otter,Predator,Savanna Central,7.4,1.6,,3.4,5.8,Golden,Large,129,High
+668,Emmitt Raccoon,Sloth,Prey,Tundratown,7.9,2.4,6.8,0.3,6.6,Golden,Small,56,Moderate
+669,Nick Tiger,Giraffe,Prey,Downtown,5.2,1.7,5.4,3.6,8.1,Orange,Extra Large,145,High
+670,Swift Rhino,Weasel,Predator,Sahara Square,9.3,3.5,6.0,3.8,1.4,White,Medium,65,High
+671,Finnick Otter,Jaguar,Predator,Meadowlands,6.4,3.2,10.0,0.1,4.3,Spotted,Extra Large,31,Moderate
+672,Sparky Lynx,Hyena,Predator,Tundratown,9.9,1.9,9.2,0.2,2.8,Striped,Extra Large,50,High
+673,Judy Porcupine,Hamster,Prey,,6.7,0.3,9.9,4.9,2.2,Black,Medium,87,Moderate
+674,Fabienne Shrew,Gazelle,Prey,Downtown,5.4,0.8,6.1,2.8,8.9,Grey,Small,109,Low
+676,Yax Squirrel,Fox,Predator,Meadowlands,6.4,3.2,6.6,1.8,6.0,Striped,Large,110,Moderate
+677,Bellwether Otter,Weasel,Predator,Meadowlands,6.2,0.5,6.3,2.1,8.9,Golden,Extra Large,37,Moderate
+678,Dash Cat,Moose,Prey,,6.1,3.2,5.7,2.1,6.9,White,Small,77,High
+679,Pronk Rat,Leopard,Predator,,9.3,0.6,5.4,2.9,5.8,Grey,Large,63,High
+680,Sparky Hedgehog,Rat,Prey,Tundratown,,0.5,7.9,3.0,3.6,Grey,Small,144,High
+681,Claws Sheep,Otter,Predator,Tundratown,,2.5,6.4,2.9,6.5,White,Large,111,Low
+682,Finnick Armadillo,Lion,Predator,Downtown,6.5,3.3,,2.5,6.4,Grey,Medium,60,High
+683,Sparky Dog,Mouse,Prey,Downtown,7.3,2.9,7.9,3.9,2.0,Orange,Large,90,Moderate
+684,Dash Badger,Cheetah,Predator,Sahara Square,6.6,2.2,9.2,5.9,0.1,Grey,Medium,26,Moderate
+685,,Sloth,Prey,Savanna Central,9.4,1.5,6.0,2.9,4.2,Golden,Large,92,High
+686,Manchas Mouse,Hyena,Predator,Meadowlands,7.4,3.4,6.8,5.2,1.2,,Large,93,Moderate
+687,Larry Lion,Tiger,Predator,Meadowlands,7.0,1.3,7.3,4.6,3.8,Black,Extra Large,10,Moderate
+688,Gazelle Skunk,Rabbit,Prey,Meadowlands,9.8,0.7,7.8,3.3,2.4,Striped,Small,115,High
+689,Peter Beaver,Mouse,Prey,Meadowlands,7.4,2.6,6.1,3.3,4.6,Golden,Large,143,Moderate
+690,Peter Skunk,Rhino,Prey,Sahara Square,5.7,2.3,5.9,1.7,8.4,Brown,Small,15,High
+691,Tail Fox,Rat,Prey,Rainforest District,6.1,0.7,9.1,1.7,6.4,Grey,Extra Large,122,Moderate
+692,Fluffy Lynx,Giraffe,Prey,Savanna Central,6.9,3.2,6.8,0.5,6.6,Orange,Medium,124,Moderate
+693,Mayor Mouse,Hyena,Predator,Meadowlands,7.8,3.4,9.0,0.7,3.1,Golden,Medium,4,Moderate
+694,Swift Wolf,Rat,Prey,Sahara Square,6.1,3.5,6.2,1.6,6.6,,Medium,115,Moderate
+695,Frantic Lynx,Cheetah,Predator,Savanna Central,5.0,3.5,9.0,3.8,2.7,Striped,Extra Large,92,Low
+696,Claws Hippo,Moose,Prey,Sahara Square,7.3,1.4,5.5,2.9,6.9,Golden,Medium,133,High
+697,FruFru Hare,Hyena,Predator,Sahara Square,9.6,0.2,6.5,1.2,6.5,White,Medium,34,High
+698,Whiskers Dingo,Leopard,Predator,Savanna Central,7.3,1.9,,0.9,5.1,Orange,Medium,125,Moderate
+699,Hooves Skunk,Pig,Prey,Downtown,7.4,1.7,8.0,6.0,0.9,White,Large,93,Moderate
+700,Nick Sloth,Otter,Predator,Downtown,9.1,0.7,5.2,1.2,7.8,Spotted,Extra Large,105,High
+701,,Otter,Predator,Downtown,6.7,2.0,8.1,5.5,1.7,Golden,Large,28,Moderate
+702,Ranger Rhino,Panther,Predator,Meadowlands,5.3,0.1,7.8,2.6,8.2,Spotted,Large,29,Low
+703,Pronk Hare,Elephant,Prey,Meadowlands,9.2,0.6,5.1,2.7,6.4,White,Extra Large,61,High
+704,Larry Pig,Panther,Predator,Downtown,8.0,1.1,5.9,2.3,6.7,,Extra Large,147,High
+705,Stu Panther,Sloth,Prey,Rainforest District,9.0,1.6,8.8,0.6,4.0,Orange,Large,61,High
+706,Koslov Elephant,Gazelle,Prey,Sahara Square,8.4,,9.6,1.4,2.3,Striped,Extra Large,126,High
+707,Finnick Fox,Pig,Prey,Meadowlands,5.3,0.1,9.1,3.1,6.4,Black,Small,64,Low
+708,Bogo Lion,Leopard,Predator,Tundratown,6.7,0.1,9.8,4.0,3.4,Black,Medium,93,Moderate
+709,Chief Yak,Sheep,Prey,Savanna Central,9.7,1.1,8.1,3.5,1.6,White,Extra Large,24,High
+710,Nangi Elephant,Rat,Prey,Downtown,9.7,3.5,8.7,0.6,1.5,Brown,Extra Large,115,High
+711,,Hippo,Prey,Sahara Square,6.4,3.9,5.1,4.3,4.3,Orange,Medium,67,High
+712,Fuzzy Skunk,Elephant,Prey,Tundratown,10.0,1.2,6.7,0.5,5.6,Grey,Extra Large,112,High
+713,Yax Macaque,Giraffe,Prey,Tundratown,7.2,,6.7,5.0,4.1,Grey,Small,72,Moderate
+714,Tail Puma,Hippo,Prey,Sahara Square,5.3,0.4,5.8,3.6,8.9,Black,Medium,126,High
+715,Nangi Lynx,Zebra,Prey,Tundratown,5.8,3.9,7.2,3.0,4.1,Spotted,Extra Large,139,Low
+716,Manchas Coyote,Mouse,Prey,Savanna Central,8.3,3.0,8.8,2.3,1.6,Orange,Medium,130,High
+717,FruFru Badger,Yak,Prey,Downtown,9.5,3.3,8.8,0.1,2.3,Golden,Medium,31,High
+718,Officer Porcupine,Polar Bear,Predator,Downtown,7.0,,9.5,3.6,0.4,,Medium,120,Moderate
+719,Nangi Wilde,Giraffe,Prey,Downtown,6.6,2.8,6.4,1.1,7.1,,Small,67,Moderate
+720,Peter Puma,Otter,Predator,Tundratown,7.1,3.3,5.6,4.4,3.6,Grey,Small,67,High
+721,Whiskers Hyena,Mouse,Prey,Meadowlands,7.7,1.2,7.5,1.8,5.8,White,Medium,112,Moderate
+722,Clawhauser Macaque,Giraffe,Prey,Savanna Central,5.8,0.5,7.7,5.4,4.6,Grey,Medium,126,Low
+723,Madge Hyena,Pig,Prey,Savanna Central,6.7,2.9,,5.6,0.5,White,Small,143,Moderate
+724,Raymond Bear,Hedgehog,Prey,Savanna Central,,,7.0,1.7,3.4,Orange,Medium,56,High
+725,Madge Sloth,Zebra,Prey,Rainforest District,5.1,3.3,9.0,0.6,6.0,Striped,Small,5,Low
+726,Nick Dog,Wolf,Predator,Meadowlands,5.6,3.9,6.1,0.4,8.0,Brown,Extra Large,82,Low
+727,Gary Weasel,Rhino,Prey,Meadowlands,8.0,3.0,5.2,4.0,3.8,Brown,Small,31,High
+728,Jerry Porcupine,Sloth,Prey,Rainforest District,5.9,2.3,6.5,5.6,3.7,White,Medium,136,Low
+729,Chief Badger,Rhino,Prey,Rainforest District,9.1,3.9,6.3,4.6,0.1,Grey,Medium,79,High
+730,Pronk Sheep,Rat,Prey,Meadowlands,5.3,0.2,8.5,2.7,7.3,Orange,Medium,80,Low
+731,Larry Otter,Leopard,Predator,Meadowlands,6.1,2.5,6.3,3.5,5.6,Striped,Small,70,Moderate
+732,Flash Porcupine,Wolf,Predator,Savanna Central,9.1,1.9,6.8,2.2,4.0,Striped,Medium,119,High
+733,Priscilla Rabbit,Hamster,Prey,Downtown,9.0,1.3,6.0,0.5,7.2,Golden,Medium,121,High
+734,Bucky Ocelot,Cheetah,Predator,Tundratown,9.2,0.9,6.9,4.9,2.1,Striped,Large,94,High
+735,Doug Baboon,Lion,Predator,Savanna Central,9.1,1.5,7.3,1.8,4.3,Brown,Large,10,High
+736,Judy Jaguar,Yak,Prey,,7.7,0.1,7.4,2.4,6.4,White,Medium,76,Moderate
+737,Officer Chipmunk,Hippo,Prey,Sahara Square,5.8,2.6,9.9,3.2,2.5,Spotted,Medium,78,Low
+738,Ranger Jaguar,Rhino,Prey,Savanna Central,7.1,0.5,8.1,5.6,2.7,White,Medium,103,Moderate
+739,Frantic Dog,Polar Bear,Predator,,8.3,0.3,6.8,3.3,5.3,Black,Small,85,High
+740,Sparky Armadillo,Hamster,Prey,Downtown,9.1,2.4,6.9,1.4,4.2,White,Medium,42,High
+741,Clawhauser Hippo,Hippo,Prey,Savanna Central,5.5,,7.1,4.1,5.9,Black,Small,70,Low
+742,Bonnie Hare,Panther,Predator,Downtown,7.0,0.7,5.8,5.0,5.5,Striped,Medium,34,High
+743,Gary Porcupine,Tiger,Predator,Savanna Central,5.2,1.7,5.8,5.3,6.0,Orange,Large,14,High
+744,Bucky Wilde,Jaguar,Predator,Meadowlands,7.5,2.9,9.8,0.8,3.0,Golden,Extra Large,47,Moderate
+745,Frantic Macaque,Hedgehog,Prey,Downtown,,3.7,9.6,0.8,0.5,Grey,Extra Large,41,High
+746,Sharla Porcupine,Rhino,Prey,Downtown,8.8,2.1,8.4,2.0,2.7,Spotted,Medium,117,High
+748,Gazelle Tiger,Cheetah,Predator,Tundratown,7.2,1.5,9.6,1.4,4.3,Spotted,Medium,99,Moderate
+749,Claws Squirrel,Mouse,Prey,Tundratown,9.2,1.9,7.6,1.6,3.7,Brown,Medium,53,High
+750,Fluffy Otter,Polar Bear,Predator,Meadowlands,5.2,1.1,5.0,5.9,6.8,Spotted,Large,147,High
+751,Emmitt Sloth,Rat,Prey,Downtown,9.8,1.6,8.6,1.4,2.6,Striped,Large,58,High
+752,Claws Panther,Hamster,Prey,Rainforest District,9.7,1.6,8.9,1.0,2.8,Striped,Medium,126,High
+753,Bucky Coyote,Elephant,Prey,Rainforest District,10.0,0.1,8.0,3.9,2.0,Striped,Extra Large,123,High
+754,Duke Cheetah,Wolf,Predator,Rainforest District,9.7,0.7,8.1,1.2,4.3,Brown,Large,39,High
+755,Fabienne Weasel,Rhino,Prey,Downtown,6.5,2.2,7.1,1.0,7.2,Brown,Large,62,Moderate
+756,Frantic Lion,Sloth,Prey,,8.8,3.6,,2.4,3.8,Golden,Medium,48,High
+757,Ranger Cheetah,Zebra,Prey,,5.5,0.1,8.3,3.6,6.5,,Large,44,Low
+758,Manchas Rabbit,Lion,Predator,Tundratown,5.1,3.3,9.9,0.8,4.9,Orange,Extra Large,50,Low
+759,Gareth Beaver,Sloth,Prey,Tundratown,6.2,3.5,9.6,2.0,2.7,White,Extra Large,114,Moderate
+760,Mayor Badger,Panther,Predator,Rainforest District,5.1,2.3,5.1,4.7,6.8,Orange,Large,92,High
+761,Chief Hedgehog,Rhino,Prey,Rainforest District,6.5,0.2,7.9,2.4,7.0,Golden,Large,112,Moderate
+762,Frantic Porcupine,Sheep,Prey,Sahara Square,6.4,2.8,6.4,5.4,3.0,Grey,Medium,115,Moderate
+763,Koslov Macaque,Sloth,Prey,Savanna Central,6.9,2.2,5.3,2.6,7.0,Striped,Medium,0,High
+764,Peter Tiger,Hamster,Prey,Sahara Square,6.1,0.9,9.1,5.6,2.3,Grey,Extra Large,92,Moderate
+765,Gideon Gorilla,Lion,Predator,Savanna Central,5.5,1.8,6.7,5.2,4.8,Spotted,Small,49,Low
+766,Doug Wolf,Hippo,Prey,Meadowlands,6.7,1.6,7.6,1.0,7.1,White,Large,89,Moderate
+767,Gideon Sloth,Sloth,Prey,Downtown,7.9,3.2,8.8,0.6,3.5,Orange,Large,52,Moderate
+768,Agent Chipmunk,Mouse,Prey,Meadowlands,6.8,1.6,8.4,0.3,6.9,White,Medium,44,Moderate
+769,Sparky Bunny,Zebra,Prey,,5.2,,8.5,1.2,7.5,White,Large,62,Low
+770,Hooves Cheetah,Hyena,Predator,Tundratown,9.4,3.6,6.5,1.0,3.5,White,Medium,139,High
+771,Sharla Yak,Gazelle,Prey,Rainforest District,7.1,1.0,8.4,5.0,2.5,Black,Large,129,Moderate
+772,Fluffy Shrew,Fox,Predator,,7.0,0.6,8.7,2.2,5.5,Orange,Extra Large,11,Moderate
+773,Emmitt Rabbit,Rabbit,Prey,,8.4,1.1,5.4,6.0,3.1,White,Extra Large,52,High
+774,Claws Hedgehog,Weasel,Predator,Sahara Square,9.3,1.2,7.3,3.7,2.5,Grey,Large,136,High
+775,Paws Chipmunk,Yak,Prey,Meadowlands,7.1,1.7,6.7,3.4,5.1,Golden,Extra Large,78,Moderate
+776,Peter Gorilla,Fox,Predator,Rainforest District,9.7,2.8,9.1,1.3,1.1,Orange,Large,45,High
+777,Pronk Pig,Gazelle,Prey,Savanna Central,8.9,0.1,9.1,0.2,5.7,Orange,Medium,84,High
+778,Chief Sloth,Polar Bear,Predator,Rainforest District,8.8,1.0,9.3,0.5,4.4,Orange,Large,14,High
+779,Chief Squirrel,Hamster,Prey,Downtown,5.6,3.9,8.4,5.1,1.0,Striped,Small,23,Low
+780,Nick Otter,Wolf,Predator,Meadowlands,8.0,2.4,8.4,3.0,2.2,,Large,72,Moderate
+781,Fluffy Leopard,Lion,Predator,,7.1,1.1,8.8,1.4,5.6,Grey,Medium,100,Moderate
+782,Dash Dog,Sheep,Prey,Rainforest District,8.1,3.0,6.1,0.4,6.4,White,Medium,85,High
+783,Claws Opossum,Leopard,Predator,Meadowlands,5.7,2.4,9.2,0.3,6.4,Grey,Extra Large,145,Low
+784,Gareth Baboon,Rat,Prey,Rainforest District,7.4,3.7,6.7,2.8,3.4,Brown,Medium,18,Moderate
+785,Finnick Dog,Wolf,Predator,Sahara Square,5.1,0.3,6.3,0.2,12.1,White,Medium,133,Low
+786,Gary Ocelot,Hippo,Prey,Tundratown,7.7,0.7,6.5,4.0,5.1,Orange,Extra Large,116,Moderate
+787,Madge Dingo,Lion,Predator,Tundratown,9.8,0.2,9.5,2.6,1.9,Black,Medium,66,High
+788,Gideon Puma,Wolf,Predator,Sahara Square,5.3,0.4,8.0,2.0,8.3,Golden,Medium,2,Low
+789,Doug Macaque,Elephant,Prey,Sahara Square,9.6,1.6,5.7,4.3,2.8,Striped,Medium,4,High
+790,Duke Shrew,Lion,Predator,,8.5,3.6,9.0,2.0,0.9,Brown,Medium,72,High
+791,Peter Mouse,Hyena,Predator,Sahara Square,8.4,3.8,6.5,0.0,5.3,Spotted,Small,50,High
+792,Nangi Rabbit,Sheep,Prey,Savanna Central,8.3,2.5,8.0,0.1,5.1,Grey,Extra Large,114,High
+794,Hooves Squirrel,Giraffe,Prey,Sahara Square,5.5,3.3,9.6,3.6,2.0,Spotted,Small,17,Low
+795,Judy Mouse,Panther,Predator,Sahara Square,5.5,1.6,8.6,4.7,3.6,Grey,Small,8,Low
+796,Jerry Otter,Giraffe,Prey,Meadowlands,6.3,0.1,7.7,5.1,4.8,Striped,Extra Large,137,Moderate
+797,Lionheart Porcupine,Moose,Prey,Downtown,9.8,2.3,7.6,0.4,3.9,Striped,Small,87,High
+798,Bogo Jaguar,Gazelle,Prey,Savanna Central,8.0,,6.2,0.6,7.6,Grey,Extra Large,126,Moderate
+799,Yax Raccoon,Moose,Prey,Sahara Square,6.6,0.4,5.9,5.9,5.2,White,Large,0,High
+800,Koslov Leopard,Sheep,Prey,Sahara Square,9.4,4.0,7.9,2.2,0.5,Striped,Large,16,High
+801,Stu Coyote,Leopard,Predator,Savanna Central,6.6,1.2,7.0,4.0,5.2,Striped,Large,19,Moderate
+802,Paws Porcupine,Rabbit,Prey,Tundratown,5.7,2.5,5.6,3.5,6.7,Golden,Extra Large,74,High
+803,Kevin Hare,Sloth,Prey,Sahara Square,8.5,2.8,8.8,3.4,0.5,Golden,Small,0,High
+804,Fuzzy Pig,Hedgehog,Prey,Meadowlands,8.1,0.7,5.1,1.7,8.4,Orange,Extra Large,48,High
+805,Yax Hedgehog,Rabbit,Prey,Savanna Central,7.2,2.5,9.2,1.0,4.1,White,Extra Large,75,Moderate
+806,Agent Beaver,Rabbit,Prey,Rainforest District,7.9,2.2,5.4,0.3,8.2,Orange,Small,36,High
+807,Gareth Jaguar,Wolf,Predator,Tundratown,5.5,2.3,7.7,1.4,7.1,Grey,Small,44,Low
+808,Bucky Shrew,Mouse,Prey,Tundratown,5.2,2.0,8.4,1.5,6.9,Golden,Medium,31,Low
+809,Koslov Bunny,Mouse,Prey,Sahara Square,6.5,2.5,9.5,4.5,1.0,Brown,Extra Large,116,Moderate
+810,Priscilla Lion,Hedgehog,Prey,Rainforest District,6.8,2.6,7.3,1.1,6.2,Grey,Small,44,Moderate
+811,Sharla Badger,Hippo,Prey,Downtown,8.5,,6.8,5.5,1.0,Grey,Extra Large,64,High
+812,Madge Yak,Panther,Predator,Downtown,8.4,1.6,8.8,2.4,2.8,Grey,Large,122,High
+813,Judy Cat,Moose,Prey,Sahara Square,7.1,3.7,6.3,0.7,6.2,Striped,Large,99,Moderate
+814,Bogo Beaver,Hedgehog,Prey,Meadowlands,6.9,0.2,6.7,3.0,7.2,Golden,Medium,139,Moderate
+815,FruFru Sloth,Leopard,Predator,Tundratown,5.8,2.6,10.0,2.5,3.1,Brown,Large,74,Low
+816,,Cheetah,Predator,Meadowlands,5.6,3.5,7.1,2.3,5.5,Brown,Extra Large,20,Low
+817,Chief Dog,Tiger,Predator,Downtown,8.3,1.8,8.2,0.4,5.3,Orange,Large,30,High
+818,Nangi Hippo,Hippo,Prey,Rainforest District,5.8,1.9,8.0,3.5,4.8,Spotted,Medium,135,Low
+819,Yax Baboon,Rabbit,Prey,Sahara Square,7.0,1.4,5.6,2.4,7.6,Spotted,Extra Large,68,High
+820,FruFru Lynx,Rhino,Prey,Meadowlands,6.0,0.2,7.8,3.6,6.4,White,Large,19,Moderate
+821,Pronk Bear,Panther,Predator,Tundratown,9.4,2.3,6.7,4.5,1.1,Orange,Medium,103,High
+822,Raymond Porcupine,Gazelle,Prey,Rainforest District,7.8,3.6,7.0,1.7,3.9,Golden,Medium,133,Moderate
+823,Fluffy Tiger,Otter,Predator,Downtown,5.7,0.6,7.2,3.6,6.9,Grey,Small,140,Low
+824,Mayor Shrew,Yak,Prey,Savanna Central,9.1,,7.4,3.8,3.4,White,Medium,51,High
+826,Swift Porcupine,Giraffe,Prey,Rainforest District,7.9,3.7,8.4,,2.1,Grey,Large,65,Moderate
+827,Gary Sheep,Fox,Predator,Sahara Square,9.0,3.8,,5.9,0.2,Golden,Large,86,High
+828,Bonnie Rat,Hyena,Predator,Savanna Central,7.2,2.6,6.9,0.3,7.0,Spotted,Extra Large,125,Moderate
+829,Emmitt Lynx,Sloth,Prey,Sahara Square,8.0,3.6,6.9,1.2,4.3,Brown,Extra Large,69,Moderate
+830,Kevin Lynx,Mouse,Prey,Tundratown,9.1,3.3,7.9,1.3,2.4,Orange,Large,97,High
+831,Ranger Coyote,Gazelle,Prey,Rainforest District,9.0,2.2,,2.3,1.4,Orange,Medium,19,High
+832,,Hippo,Prey,Sahara Square,7.1,3.8,7.7,3.3,2.1,White,Small,126,Moderate
+833,Nangi Chipmunk,Sheep,Prey,,6.1,2.5,7.9,1.1,6.4,Spotted,Large,104,Moderate
+834,Sharla Puma,Hippo,Prey,Rainforest District,,2.1,6.1,4.0,3.0,Grey,Extra Large,23,High
+835,Duke Sheep,Rabbit,Prey,Downtown,5.4,1.8,5.8,1.1,9.9,,Extra Large,81,High
+836,Frantic Hyena,Yak,Prey,Savanna Central,5.3,1.6,,2.9,6.6,Black,Small,85,Low
+837,Gideon Elephant,Otter,Predator,Meadowlands,6.9,3.4,5.7,3.0,5.0,White,Small,63,High
+838,Dash Wilde,Otter,Predator,Tundratown,9.4,2.2,9.8,0.1,2.5,Striped,Large,7,High
+839,Agent Cougar,Sloth,Prey,,,0.2,5.9,3.2,9.2,Brown,Small,31,High
+840,Koslov Lynx,Leopard,Predator,Savanna Central,9.7,3.4,6.5,0.3,4.1,Grey,Extra Large,78,High
+841,Lionheart Raccoon,Panther,Predator,Sahara Square,5.8,0.5,5.6,3.1,9.0,White,Extra Large,103,High
+842,Paws Squirrel,Weasel,Predator,Downtown,9.9,2.7,9.7,0.2,1.5,Grey,Medium,107,High
+843,Clawhauser Raccoon,Polar Bear,Predator,Downtown,6.9,2.2,,0.0,9.5,Brown,Extra Large,110,High
+844,Emmitt Rat,Gazelle,Prey,Sahara Square,7.1,2.0,7.1,0.1,7.7,Striped,Medium,61,Moderate
+845,Jerry Macaque,Giraffe,Prey,Sahara Square,6.7,0.7,5.5,5.7,5.4,,Extra Large,83,High
+846,Manchas Wolf,Cheetah,Predator,,6.6,1.6,6.2,0.6,9.0,Spotted,Medium,28,Moderate
+847,Nangi Tiger,Lion,Predator,,5.9,3.2,8.4,3.3,3.2,Black,Small,143,Low
+848,Sparky Tiger,Zebra,Prey,Sahara Square,,,6.7,4.7,6.1,,Small,77,Low
+849,Lionheart Hedgehog,Mouse,Prey,Savanna Central,10.0,1.0,9.4,3.0,0.6,Brown,Medium,129,High
+850,Finnick Skunk,Sheep,Prey,Savanna Central,7.0,3.9,5.9,4.8,2.4,Golden,Medium,65,High
+851,Paws Hopps,Pig,Prey,Rainforest District,6.7,2.9,,3.5,3.8,White,Extra Large,47,Moderate
+852,Gareth Porcupine,Giraffe,Prey,Downtown,9.3,0.2,8.5,0.8,5.2,White,Extra Large,72,High
+853,Tail Hedgehog,Fox,Predator,Downtown,7.1,2.2,7.0,3.1,4.6,Grey,Small,139,Moderate
+854,Chief Dingo,Otter,Predator,Sahara Square,5.7,0.6,9.7,5.3,2.7,White,Medium,149,Low
+855,Peter Bunny,Polar Bear,Predator,Sahara Square,9.5,4.0,,1.6,2.9,Spotted,Extra Large,70,High
+856,Hooves Chipmunk,Wolf,Predator,Rainforest District,7.1,1.4,8.0,3.5,4.0,Orange,Extra Large,110,Moderate
+857,Jerry Leopard,Cheetah,Predator,Savanna Central,5.8,1.9,7.8,3.4,5.1,Grey,Extra Large,62,Low
+858,Tail Wolf,Pig,Prey,Tundratown,5.1,1.4,8.9,3.4,5.2,Striped,Small,77,Low
+859,Duke Puma,Lion,Predator,Rainforest District,6.3,2.8,7.8,4.8,2.3,White,Large,44,Moderate
+860,Sparky Cougar,Sloth,Prey,Sahara Square,7.4,0.5,6.3,2.5,7.3,Brown,Large,15,Moderate
+861,,Pig,Prey,Meadowlands,8.0,2.1,6.4,0.0,7.5,Orange,Large,47,Moderate
+862,Dash Gorilla,Mouse,Prey,Downtown,8.7,0.1,7.9,5.6,1.7,Spotted,Extra Large,115,High
+863,Yax Rhino,Rat,Prey,Downtown,5.9,,5.5,3.8,6.9,Golden,Medium,47,High
+864,Gary Chipmunk,Hedgehog,Prey,Savanna Central,7.6,3.6,,0.1,6.7,Spotted,Extra Large,145,Moderate
+865,Lionheart Badger,Lion,Predator,Meadowlands,9.3,2.3,9.5,1.7,1.2,Spotted,Large,96,High
+866,FruFru Moose,Otter,Predator,Tundratown,8.7,3.7,7.9,0.7,3.0,White,Large,74,High
+867,,Gazelle,Prey,Tundratown,6.3,0.8,6.2,1.8,8.9,Black,Large,85,Moderate
+868,Koslov Hopps,Lion,Predator,Rainforest District,7.1,2.5,5.4,0.5,8.5,Golden,Large,40,High
+869,Claws Hopps,Rabbit,Prey,Downtown,5.9,2.1,6.1,1.7,8.2,,Extra Large,3,Low
+870,Bellwether Bear,Sloth,Prey,Sahara Square,5.1,2.6,8.3,4.8,3.2,Spotted,Medium,127,Low
+871,Duke Weasel,Otter,Predator,Rainforest District,9.7,,5.8,5.3,3.1,Striped,Small,37,High
+872,Nick Skunk,Hippo,Prey,Downtown,8.3,2.7,9.7,3.3,0.0,Grey,Medium,10,High
+873,Flash Weasel,Polar Bear,Predator,Meadowlands,8.6,1.1,9.4,0.2,4.7,Grey,Large,3,High
+874,Frantic Jaguar,Giraffe,Prey,Rainforest District,6.3,0.9,5.7,5.2,5.9,Black,Small,101,High
+875,Duke Baboon,Hedgehog,Prey,Downtown,7.5,2.7,6.2,4.5,3.1,,Medium,114,Moderate
+876,Nangi Cougar,Giraffe,Prey,Tundratown,7.1,0.8,9.9,3.9,2.3,Golden,Large,36,Moderate
+877,Mayor Yak,Lion,Predator,Savanna Central,9.7,1.2,8.9,3.2,1.0,White,Medium,124,High
+878,Bucky Fox,Panther,Predator,Sahara Square,8.4,2.9,7.9,1.0,3.8,Black,Large,132,High
+879,Emmitt Porcupine,Rhino,Prey,Savanna Central,7.5,,7.1,3.9,4.3,Grey,Extra Large,110,Moderate
+880,Frantic Beaver,Hyena,Predator,Meadowlands,7.0,1.1,6.0,4.7,5.2,Black,Small,76,Moderate
+881,Clawhauser Wolf,Otter,Predator,Savanna Central,9.5,1.5,,3.8,0.4,White,Medium,89,High
+882,Swift Mouse,Yak,Prey,Tundratown,9.8,1.5,6.7,0.4,5.6,Black,Small,144,High
+883,Fuzzy Panther,Gazelle,Prey,,7.4,0.4,6.2,1.9,8.1,Brown,Extra Large,72,Moderate
+884,Duke Coyote,Hamster,Prey,Sahara Square,6.5,3.4,9.3,3.7,1.1,Golden,Small,130,Moderate
+885,Gareth Weasel,Jaguar,Predator,Tundratown,5.7,,9.7,4.0,1.8,White,Extra Large,72,Low
+886,Snout Opossum,Hamster,Prey,Sahara Square,8.2,2.0,5.6,1.9,6.3,White,Medium,141,High
+887,Snout Weasel,Pig,Prey,Rainforest District,9.0,3.4,5.7,5.6,0.3,White,Large,97,High
+888,Ranger Lion,Giraffe,Prey,Savanna Central,8.8,3.2,9.7,0.7,1.6,Striped,Large,111,High
+889,Lionheart Lynx,Mouse,Prey,Tundratown,9.3,0.5,8.5,4.2,1.5,,Medium,28,High
+891,Gideon Badger,Jaguar,Predator,Meadowlands,7.4,3.4,6.9,1.0,5.3,Grey,Large,78,Moderate
+892,Gareth Cougar,Otter,Predator,Meadowlands,5.9,2.9,7.6,3.6,4.0,Striped,Extra Large,14,Low
+893,Clawhauser Dingo,Hyena,Predator,Savanna Central,7.3,3.3,9.1,3.1,1.2,Grey,Extra Large,142,Moderate
+894,Flash Dingo,Panther,Predator,Sahara Square,6.8,3.5,8.6,0.6,4.5,Striped,Extra Large,99,Moderate
+895,Stu Mouse,Mouse,Prey,,7.0,3.5,5.2,5.8,2.5,Spotted,Medium,99,High
+896,Priscilla Bunny,Rhino,Prey,Tundratown,6.4,1.0,9.7,1.8,5.1,Spotted,Extra Large,54,Moderate
+897,Bogo Wilde,Otter,Predator,Tundratown,,1.6,5.7,0.1,7.7,,Small,46,High
+898,Raymond Jackal,Sheep,Prey,Meadowlands,6.8,1.4,6.7,3.1,6.0,Golden,Large,19,Moderate
+899,Fluffy Hyena,Hyena,Predator,Tundratown,7.2,3.5,7.5,2.9,2.9,Striped,Large,25,Moderate
+900,Nangi Lion,Weasel,Predator,Sahara Square,8.3,2.4,7.1,2.5,3.7,Striped,Large,116,High
+901,Flash Bear,Lion,Predator,Rainforest District,8.9,0.8,9.1,3.4,1.8,Spotted,Large,59,High
+902,,Hippo,Prey,Downtown,6.3,3.0,7.6,1.9,5.2,Brown,Extra Large,56,Moderate
+903,Gazelle Lion,Hamster,Prey,,8.0,4.0,7.2,4.4,0.4,Orange,Large,30,Moderate
+904,Raymond Sloth,Gazelle,Prey,Sahara Square,6.0,1.7,6.1,0.0,10.2,White,Medium,2,Moderate
+905,FruFru Shrew,Tiger,Predator,Tundratown,9.6,3.4,8.7,0.4,1.9,Grey,Extra Large,7,High
+907,Gideon Otter,Mouse,Prey,Savanna Central,6.9,2.5,8.6,0.7,5.3,Striped,Medium,3,Moderate
+909,Kevin Hedgehog,Hippo,Prey,Savanna Central,9.3,3.5,5.0,4.7,1.5,Golden,Large,87,High
+910,Manchas Rhino,Elephant,Prey,Savanna Central,7.4,3.9,8.8,1.0,2.9,Golden,Medium,82,Moderate
+911,Bonnie Sloth,Lion,Predator,Tundratown,7.7,4.0,9.3,0.3,2.7,White,Small,68,Moderate
+912,Peter Porcupine,Leopard,Predator,Rainforest District,5.0,1.6,6.2,4.9,6.3,Spotted,Medium,103,Low
+913,Mayor Armadillo,Moose,Prey,Tundratown,6.7,3.3,5.0,1.8,7.2,White,Small,109,High
+914,Fuzzy Ocelot,Mouse,Prey,Sahara Square,5.3,0.7,,1.7,8.5,Brown,Medium,60,Low
+915,Yax Panther,Rabbit,Prey,Savanna Central,7.1,1.5,9.4,5.4,0.6,Brown,Extra Large,33,Moderate
+916,Jerry Mouse,Zebra,Prey,Sahara Square,5.5,3.8,5.3,1.8,7.6,White,Small,140,High
+917,Ranger Elephant,Rhino,Prey,Sahara Square,6.5,1.3,5.8,4.7,5.7,Spotted,Medium,53,High
+918,Sharla Shrew,Jaguar,Predator,Meadowlands,5.6,0.3,9.5,1.1,7.5,White,Small,36,Low
+919,Swift Dog,Rat,Prey,Tundratown,9.1,2.2,5.4,5.7,1.6,White,Small,77,High
+920,FruFru Otter,Sheep,Prey,Sahara Square,5.8,,5.1,3.1,6.6,Spotted,Large,19,High
+921,Peter Lion,Sheep,Prey,Downtown,8.8,3.7,9.5,1.6,0.4,Orange,Large,4,High
+922,Bonnie Cougar,Panther,Predator,Savanna Central,6.4,1.2,6.9,2.4,7.1,White,Small,47,Moderate
+923,FruFru Jaguar,Hyena,Predator,Tundratown,7.7,,8.5,1.0,6.2,Black,Large,16,Moderate
+924,Raymond Elephant,Rabbit,Prey,,9.0,3.0,8.2,0.6,3.2,Orange,Large,46,High
+925,Fluffy Macaque,Tiger,Predator,Downtown,7.7,0.3,6.9,2.5,6.6,Brown,Medium,56,Moderate
+926,Flash Yak,Giraffe,Prey,,5.9,1.6,9.7,0.8,6.0,Striped,Small,59,Low
+927,Peter Baboon,Hippo,Prey,Tundratown,8.8,0.4,9.9,1.9,3.0,Golden,Medium,144,High
+928,Emmitt Rhino,Elephant,Prey,Tundratown,8.1,0.8,5.7,5.6,3.8,Spotted,Extra Large,128,High
+929,Clawhauser Cheetah,Otter,Predator,Tundratown,9.6,3.5,8.1,2.3,0.5,Orange,Extra Large,109,High
+930,Manchas Panther,Hedgehog,Prey,Savanna Central,6.6,2.5,6.8,0.9,7.2,Brown,Large,58,Moderate
+931,Finnick Jaguar,Otter,Predator,Tundratown,8.0,3.3,6.9,0.8,5.0,Black,Medium,92,Moderate
+932,Fabienne Jackal,Hyena,Predator,Tundratown,6.5,2.6,8.0,4.2,2.7,Brown,Extra Large,8,Moderate
+933,Finnick Coyote,Hedgehog,Prey,Meadowlands,6.8,3.3,6.0,2.8,5.1,Striped,Medium,6,Moderate
+934,Whiskers Armadillo,Rat,Prey,Sahara Square,5.5,3.5,6.7,4.1,4.2,White,Small,14,Low
+935,Claws Ocelot,Panther,Predator,Meadowlands,,2.8,6.6,0.3,9.2,,Large,148,Low
+936,,Zebra,Prey,Downtown,6.9,0.3,5.7,1.8,9.3,Black,Medium,91,High
+937,Gazelle Rat,Sloth,Prey,Meadowlands,5.4,3.6,5.0,2.9,7.1,Black,Medium,114,High
+938,Claws Moose,Lion,Predator,Sahara Square,9.6,0.6,9.8,0.8,3.2,Golden,Extra Large,110,High
+940,Kevin Hyena,Sheep,Prey,Meadowlands,5.8,3.7,6.6,2.2,5.7,Golden,Extra Large,68,Low
+941,Bogo Cheetah,Sheep,Prey,Downtown,8.8,1.4,9.8,3.0,1.0,Black,Medium,139,High
+942,,Hippo,Prey,Meadowlands,5.2,1.0,7.3,1.4,9.1,Grey,Large,105,Low
+943,Judy Lion,Rhino,Prey,,8.7,,7.1,1.5,3.0,Grey,Extra Large,37,High
+944,Claws Weasel,Panther,Predator,Downtown,7.4,1.4,9.5,3.2,2.5,Black,Small,30,Moderate
+946,Nangi Weasel,Otter,Predator,Savanna Central,9.0,3.8,8.1,2.3,0.8,Grey,Extra Large,12,High
+947,Peter Hippo,Weasel,Predator,Meadowlands,9.0,3.4,7.0,0.2,4.4,Brown,Large,127,High
+948,Fluffy Baboon,Polar Bear,Predator,Rainforest District,7.3,3.0,,3.8,3.1,White,Large,99,Moderate
+949,Duke Armadillo,Jaguar,Predator,Tundratown,5.9,3.0,7.7,1.2,6.2,White,Extra Large,107,Low
+950,Nick Hippo,Moose,Prey,Savanna Central,7.4,0.9,9.8,,1.7,Golden,Medium,78,Moderate
+951,Yax Leopard,Wolf,Predator,Rainforest District,9.8,1.7,7.4,4.6,0.5,Golden,Small,101,High
+952,Duke Beaver,Sloth,Prey,Meadowlands,6.3,1.8,5.6,1.2,9.1,Grey,Large,15,High
+953,Nangi Macaque,Hedgehog,Prey,Meadowlands,5.0,0.2,9.9,1.5,7.4,Brown,Large,39,Low
+954,Swift Raccoon,Leopard,Predator,Sahara Square,7.8,0.6,8.6,3.6,3.4,Brown,Medium,0,Moderate
+955,Whiskers Hedgehog,Wolf,Predator,Sahara Square,8.7,3.1,9.9,1.3,1.0,Striped,Medium,88,High
+956,Frantic Hippo,Hippo,Prey,Downtown,5.3,3.6,5.6,2.0,7.5,Brown,Medium,8,High
+957,Flash Opossum,Gazelle,Prey,Tundratown,9.1,2.4,7.0,2.6,2.9,Orange,Small,147,High
+958,Nangi Bunny,Yak,Prey,Meadowlands,9.3,0.4,8.9,4.6,0.8,Brown,Large,70,High
+959,Yax Cougar,Polar Bear,Predator,Rainforest District,5.9,1.7,5.8,4.2,6.4,Grey,Medium,68,High
+960,Dash Yak,Lion,Predator,Tundratown,6.0,0.8,5.2,1.9,10.1,Grey,Large,112,High
+961,Fabienne Hyena,Weasel,Predator,,7.8,3.4,8.3,2.0,2.5,Striped,Large,136,Moderate
+962,Madge Opossum,Rabbit,Prey,,6.3,0.2,8.6,0.7,8.2,Orange,Large,27,Moderate
+963,Agent Mouse,Mouse,Prey,Tundratown,6.5,2.1,7.8,3.6,4.0,Golden,Small,59,Moderate
+964,Finnick Lion,Pig,Prey,Meadowlands,8.1,,8.6,3.1,0.3,Golden,Small,83,High
+966,Clawhauser Cat,Lion,Predator,Meadowlands,7.4,2.1,6.7,3.1,4.7,Brown,Extra Large,142,Moderate
+967,Paws Ocelot,Hedgehog,Prey,Savanna Central,6.0,3.2,5.9,0.5,8.4,,Small,46,High
+968,Fluffy Armadillo,Wolf,Predator,Meadowlands,7.2,1.1,7.8,2.1,5.8,Golden,Medium,145,Moderate
+969,Fuzzy Coyote,Polar Bear,Predator,Savanna Central,9.7,3.7,7.5,1.0,2.1,Grey,Small,65,High
+970,Manchas Macaque,Zebra,Prey,Rainforest District,9.6,0.0,7.8,4.4,2.2,Orange,Medium,87,High
+971,Gideon Raccoon,Giraffe,Prey,Rainforest District,7.4,0.3,9.9,3.1,3.3,Orange,Extra Large,53,Moderate
+972,Bellwether Porcupine,Hamster,Prey,Sahara Square,7.4,1.7,5.4,0.6,8.9,Golden,Small,39,High
+973,,Gazelle,Prey,,9.2,,6.0,3.0,4.8,,Extra Large,120,High
+974,Sparky Hare,Mouse,Prey,Tundratown,5.2,0.2,9.2,0.7,8.7,White,Large,118,Low
+975,Gazelle Chipmunk,Hippo,Prey,Rainforest District,5.2,1.8,9.2,1.6,6.2,Black,Small,89,Low
+976,FruFru Puma,Polar Bear,Predator,Sahara Square,7.2,,7.9,2.0,4.6,Brown,Medium,123,Moderate
+977,Peter Pig,Elephant,Prey,Downtown,6.6,0.4,6.8,0.6,9.6,Striped,Small,13,Moderate
+978,Raymond Rhino,Polar Bear,Predator,Rainforest District,6.4,2.5,7.3,2.9,4.9,,Small,40,Moderate
+979,Duke Porcupine,Hedgehog,Prey,Rainforest District,8.8,1.1,6.6,5.5,2.0,Black,Small,2,High
+980,Hooves Rat,Jaguar,Predator,Meadowlands,9.6,2.4,7.7,1.1,3.2,Grey,Extra Large,31,High
+981,Bellwether Sheep,Hyena,Predator,Tundratown,6.7,3.4,7.8,3.1,3.0,Grey,Small,119,Moderate
+982,Gareth Bear,Fox,Predator,Sahara Square,8.0,0.3,8.4,5.6,1.7,Orange,Small,142,Moderate
+983,Nangi Wolf,Polar Bear,Predator,Meadowlands,7.9,0.5,7.9,4.6,3.1,Spotted,Small,15,Moderate
+984,Manchas Opossum,Polar Bear,Predator,Meadowlands,8.2,3.6,8.1,0.5,3.6,Golden,Extra Large,99,High
+985,Nangi Dingo,Gazelle,Prey,Tundratown,6.5,0.8,9.5,4.6,2.6,Striped,Small,78,Moderate
+986,Stu Leopard,Cheetah,Predator,Tundratown,5.9,3.0,7.4,1.4,6.3,Orange,Large,84,Low
+987,Duke Bunny,Gazelle,Prey,Rainforest District,8.1,0.2,6.6,2.8,6.3,Black,Large,19,High
+988,Priscilla Leopard,Giraffe,Prey,Savanna Central,6.0,3.1,7.1,3.4,4.4,Black,Small,82,Moderate
+989,Hooves Yak,Elephant,Prey,Meadowlands,5.1,0.1,7.2,4.9,6.7,Spotted,Small,142,Low
+990,Priscilla Weasel,Otter,Predator,Downtown,6.9,3.3,5.7,5.6,2.5,Striped,Large,78,High
+991,Bonnie Armadillo,Rat,Prey,Downtown,8.8,3.8,8.4,1.1,1.9,Brown,Small,90,High
+992,Bogo Elephant,Pig,Prey,Sahara Square,6.7,2.8,8.8,5.3,0.4,Brown,Extra Large,118,Moderate
+993,Peter Leopard,Rat,Prey,Downtown,6.0,3.2,8.7,0.4,5.7,Golden,Large,33,Moderate
+994,Nick Jackal,Polar Bear,Predator,Tundratown,6.5,3.9,8.2,3.9,1.5,Golden,Medium,16,Moderate
+995,Bonnie Dog,Rabbit,Prey,Rainforest District,9.9,1.5,9.0,1.6,2.0,Grey,Small,67,High
+996,Ranger Wilde,Otter,Predator,Downtown,9.7,0.9,,4.5,2.3,Spotted,Medium,45,High
+997,Paws Rhino,Hippo,Prey,Rainforest District,7.0,2.4,7.2,4.5,2.9,White,Extra Large,141,Moderate
+998,Peter Rabbit,Jaguar,Predator,Rainforest District,5.8,1.4,7.0,0.3,9.5,Striped,Medium,146,Low
+999,Gideon Panther,Giraffe,Prey,Downtown,7.9,3.5,5.8,3.6,3.2,Orange,Extra Large,140,High
+1000,Mayor Hopps,Hyena,Predator,,8.5,1.6,7.5,0.0,6.4,Spotted,Large,1,High
+1001,Hooves Opossum,Rabbit,Prey,Savanna Central,8.5,,5.2,2.2,5.5,Striped,Extra Large,19,High
+1002,Yax Pig,Sloth,Prey,Rainforest District,7.5,3.6,8.6,2.5,1.8,Brown,Extra Large,121,Moderate
+1003,Pronk Hyena,Hippo,Prey,Rainforest District,9.0,3.5,7.3,2.0,2.2,White,Medium,133,High
+1004,Fluffy Puma,Moose,Prey,Savanna Central,8.5,0.3,9.3,2.8,3.1,White,Large,50,High
+1005,Tail Mouse,Leopard,Predator,Rainforest District,5.3,2.2,7.1,5.3,4.1,Golden,Medium,38,Low
+1006,Judy Hedgehog,Hyena,Predator,Savanna Central,7.8,0.2,9.9,3.1,3.0,Orange,Large,66,Moderate
+1007,Pronk Ocelot,Weasel,Predator,Sahara Square,6.5,1.9,9.3,1.8,4.5,Grey,Small,108,Moderate
+1008,Duke Wilde,Leopard,Predator,Rainforest District,6.5,3.1,7.4,1.4,5.6,Brown,Medium,54,Moderate
+1009,Raymond Hyena,Rhino,Prey,Tundratown,5.8,1.3,9.7,2.1,5.1,Brown,Medium,14,Low
+1010,Mayor Dingo,Elephant,Prey,Tundratown,5.9,3.6,7.3,4.3,2.9,White,Extra Large,81,Low
+1011,,Sloth,Prey,Sahara Square,9.9,0.2,5.5,4.3,4.1,Brown,Small,19,High
+1012,Mayor Raccoon,Cheetah,Predator,Downtown,5.2,0.1,8.9,0.8,9.0,Black,Extra Large,69,Low
+1013,Jerry Panther,Zebra,Prey,Downtown,7.3,2.4,7.1,0.2,7.0,Striped,Extra Large,40,Moderate
+1014,Mayor Dog,Gazelle,Prey,Sahara Square,7.2,2.1,7.4,2.3,5.0,Brown,Medium,30,Moderate
+1015,Sharla Lion,Elephant,Prey,Meadowlands,9.4,3.6,6.7,2.6,1.7,White,Medium,40,High
+1016,Chief Wilde,Giraffe,Prey,Meadowlands,6.4,3.8,5.7,3.5,4.6,Orange,Small,7,High
+1017,Lionheart Rat,Yak,Prey,Rainforest District,6.4,1.1,7.0,6.0,3.5,,Medium,78,Moderate
+1018,Raymond Baboon,Jaguar,Predator,Rainforest District,5.4,0.6,7.2,3.1,7.7,Black,Medium,28,Low
+1019,Agent Tiger,Polar Bear,Predator,Rainforest District,6.3,1.3,5.4,1.8,9.2,,Extra Large,104,High
+1020,Bucky Hopps,Leopard,Predator,Meadowlands,9.5,0.0,9.1,5.1,0.3,Brown,Medium,26,High
+1021,Madge Sheep,Jaguar,Predator,Rainforest District,5.5,0.6,9.8,3.2,4.9,Striped,Medium,6,Low
+1022,Bogo Rabbit,Sheep,Prey,Sahara Square,8.7,4.0,6.4,2.6,2.3,Orange,Small,83,High
+1023,Frantic Armadillo,Lion,Predator,Sahara Square,7.7,1.6,5.8,5.9,3.0,Black,Large,111,High
+1024,Fuzzy Badger,Hamster,Prey,,8.0,0.9,7.7,4.2,3.2,,Large,4,Moderate
+1025,Madge Raccoon,Hedgehog,Prey,Sahara Square,7.6,4.0,8.1,1.6,2.7,Orange,Medium,40,Moderate
+1026,Doug Coyote,Otter,Predator,,6.9,1.4,7.2,4.7,3.8,Striped,Extra Large,71,Moderate
+1027,Doug Bunny,Gazelle,Prey,Savanna Central,7.4,3.2,7.9,1.9,3.6,Striped,Large,139,Moderate
+1028,Hooves Baboon,Panther,Predator,Rainforest District,6.1,2.0,6.3,0.1,9.5,Orange,Large,3,Moderate
+1029,Clawhauser Elephant,Fox,Predator,Tundratown,8.2,2.0,7.2,5.8,0.8,,Small,99,High
+1030,Gazelle Puma,Weasel,Predator,Tundratown,5.7,2.3,9.3,3.5,3.2,Black,Medium,117,Low
+1031,Doug Jaguar,Hippo,Prey,Rainforest District,8.6,1.5,5.5,2.7,5.7,Golden,Medium,89,High
+1032,Stu Skunk,Hamster,Prey,Meadowlands,6.2,,9.8,1.0,3.1,Grey,Large,13,Moderate
+1033,Nangi Mouse,Hamster,Prey,Tundratown,6.7,3.6,9.8,1.7,2.2,Striped,Large,123,Moderate
+1034,Priscilla Elephant,Gazelle,Prey,Tundratown,8.4,1.1,8.7,0.3,5.5,Spotted,Medium,131,High
+1035,Emmitt Baboon,Sheep,Prey,,5.2,,6.8,1.9,8.6,Black,Extra Large,104,Low
+1036,Dash Cheetah,Hyena,Predator,Savanna Central,6.0,1.2,9.9,2.5,4.4,Orange,Medium,71,Moderate
+1037,Madge Lion,Panther,Predator,Rainforest District,7.2,2.3,9.9,1.1,3.5,Spotted,Extra Large,48,Moderate
+1038,Sparky Macaque,Polar Bear,Predator,,8.0,0.4,8.4,0.4,6.8,White,Extra Large,25,Moderate
+1039,Nick Jaguar,Jaguar,Predator,,8.0,3.0,6.1,5.0,1.9,Golden,Extra Large,75,Moderate
+1040,Chief Jaguar,Otter,Predator,Savanna Central,5.7,3.8,5.4,1.2,7.9,Golden,Extra Large,54,High
+1041,Paws Tiger,Rabbit,Prey,Sahara Square,6.7,2.5,7.7,0.8,6.3,,Extra Large,52,Moderate
+1042,Claws Cougar,Hamster,Prey,Sahara Square,6.1,1.6,8.5,1.3,6.5,White,Medium,23,Moderate
+1043,Mayor Macaque,Yak,Prey,Sahara Square,6.8,1.6,9.9,5.4,0.3,Orange,Extra Large,102,Moderate
+1044,Doug Panther,Otter,Predator,Rainforest District,5.3,1.3,6.3,3.0,8.1,,Extra Large,38,Low
+1045,Snout Raccoon,Elephant,Prey,Rainforest District,8.9,3.4,9.2,0.9,1.6,Grey,Medium,131,High
+1046,Stu Lynx,Hippo,Prey,Savanna Central,5.3,2.8,5.0,2.5,8.4,Brown,Large,87,High
+1047,Jerry Cheetah,Moose,Prey,Meadowlands,6.6,2.8,8.8,1.8,4.0,Black,Small,120,Moderate
+1048,Tail Sloth,Mouse,Prey,Sahara Square,7.2,2.9,8.5,5.3,0.1,Grey,Medium,4,Moderate
+1049,Bucky Armadillo,Jaguar,Predator,Savanna Central,6.1,2.6,8.0,5.5,1.8,Brown,Small,9,Moderate
+1050,,Weasel,Predator,Downtown,7.8,,7.4,2.0,5.7,Orange,Large,69,Moderate
+1051,Sharla Armadillo,Giraffe,Prey,Downtown,7.9,3.6,7.8,3.0,1.7,Striped,Medium,86,Moderate
+1052,Stu Armadillo,Yak,Prey,Tundratown,6.2,2.0,6.6,1.1,8.1,Brown,Large,42,Moderate
+1053,Madge Lynx,Elephant,Prey,,7.5,1.3,6.3,2.8,6.1,Orange,Small,59,Moderate
+1054,Lionheart Dog,Gazelle,Prey,Sahara Square,5.5,,9.0,4.6,1.8,Grey,Medium,146,Low
+1055,Jerry Weasel,Moose,Prey,Sahara Square,5.6,2.6,9.2,3.5,3.1,Spotted,Large,124,Low
+1056,Gary Beaver,Gazelle,Prey,Sahara Square,7.6,0.1,8.2,0.5,7.6,Orange,Small,79,Moderate
+1057,Fabienne Jaguar,Elephant,Prey,Tundratown,7.2,1.2,7.7,0.8,7.1,Brown,Extra Large,39,Moderate
+1058,Priscilla Mouse,Sloth,Prey,Savanna Central,5.8,0.4,5.7,5.3,6.8,Orange,Large,115,High
+1059,Swift Hippo,Tiger,Predator,Savanna Central,7.6,,5.5,3.9,5.1,Spotted,Medium,20,High
+1060,Koslov Cat,Gazelle,Prey,Tundratown,8.1,0.3,5.6,0.3,9.7,Spotted,Small,78,High
+1061,Madge Wolf,Zebra,Prey,Tundratown,6.3,0.5,6.3,2.3,8.6,Striped,Medium,72,Moderate
+1062,Finnick Hippo,Leopard,Predator,Downtown,9.2,2.8,5.6,4.4,2.0,Spotted,Medium,56,High
+1063,Gideon Armadillo,Tiger,Predator,,6.4,,6.7,6.0,2.3,Black,Extra Large,107,Moderate
+1064,,Panther,Predator,Downtown,9.7,0.1,8.5,4.1,1.6,Golden,Small,67,High
+1065,Bellwether Pig,Gazelle,Prey,Sahara Square,9.2,3.9,9.9,0.1,0.9,Grey,Small,15,High
+1066,Duke Chipmunk,Hippo,Prey,Sahara Square,,0.5,8.3,5.9,1.1,Grey,Small,37,High
+1067,Bonnie Macaque,Elephant,Prey,Meadowlands,9.6,1.8,5.2,2.2,5.2,Black,Small,38,High
+1068,Nangi Hyena,Tiger,Predator,,7.3,,,2.8,6.6,Golden,Extra Large,25,Moderate
+1069,Swift Otter,Hippo,Prey,Tundratown,9.6,2.6,6.6,2.7,2.5,White,Medium,138,High
+1070,Swift Macaque,Moose,Prey,Savanna Central,6.8,,8.3,,1.9,Golden,Large,117,Moderate
+1071,,Lion,Predator,Rainforest District,6.3,1.3,5.6,3.9,6.9,Striped,Large,35,High
+1072,Fabienne Beaver,Rhino,Prey,Meadowlands,9.3,3.6,7.2,1.8,2.1,White,Medium,26,High
+1073,Peter Armadillo,Lion,Predator,Downtown,5.4,,9.1,1.5,5.3,White,Small,24,Low
+1074,Yax Beaver,Yak,Prey,,9.4,1.0,7.8,1.1,4.7,White,Medium,102,High
+1075,,Hedgehog,Prey,Savanna Central,5.5,3.6,9.1,4.4,1.4,Black,Extra Large,45,Low
+1076,Paws Lynx,Wolf,Predator,Savanna Central,7.7,0.4,8.8,3.5,3.6,Black,Large,136,Moderate
+1077,Kevin Cougar,Yak,Prey,Meadowlands,5.9,0.8,5.9,0.3,11.1,Orange,Large,139,High
+1078,Officer Tiger,Mouse,Prey,Tundratown,5.1,0.2,7.9,4.9,5.9,Orange,Medium,126,Low
+1080,Stu Cat,Giraffe,Prey,Sahara Square,8.7,2.7,6.0,2.1,4.5,Brown,Medium,148,High
+1082,Emmitt Coyote,Sheep,Prey,Downtown,5.9,0.4,9.1,3.5,5.1,Black,Small,150,Low
+1083,Claws Lynx,Panther,Predator,Downtown,8.1,3.1,8.5,3.6,0.7,Orange,Large,60,High
+1085,Snout Dingo,Moose,Prey,Tundratown,7.9,0.7,8.6,1.1,5.7,Brown,Medium,56,Moderate
+1086,Fuzzy Bunny,Otter,Predator,Savanna Central,9.6,0.8,5.7,4.6,3.3,Grey,Small,131,High
+1087,Gazelle Rhino,Wolf,Predator,Savanna Central,7.5,3.6,5.7,3.9,3.3,Orange,Extra Large,104,High
+1088,Nangi Hedgehog,Rat,Prey,Tundratown,8.4,2.4,8.8,1.4,3.0,Striped,Extra Large,70,High
+1089,Duke Macaque,Panther,Predator,Meadowlands,7.2,1.6,9.9,1.5,3.8,Orange,Large,6,Moderate
+1090,Priscilla Hedgehog,Fox,Predator,Downtown,7.8,1.0,9.6,1.5,4.1,Striped,Small,14,Moderate
+1091,Duke Bear,Polar Bear,Predator,Downtown,9.5,0.4,8.3,5.3,0.5,Black,Medium,108,High
+1092,Bonnie Hopps,Rhino,Prey,Downtown,8.4,1.2,5.9,1.8,6.7,Orange,Small,22,High
+1093,Gareth Squirrel,Sloth,Prey,Rainforest District,5.5,0.6,5.5,2.5,9.9,Black,Medium,140,High
+1094,Gareth Badger,Leopard,Predator,Rainforest District,5.7,2.6,6.0,0.6,9.1,Black,Extra Large,42,Low
+1095,Whiskers Rat,Lion,Predator,Savanna Central,5.8,3.7,9.1,1.9,3.5,White,Large,129,Low
+1096,Sharla Cat,Pig,Prey,Meadowlands,8.4,2.7,8.1,1.3,3.5,Spotted,Extra Large,55,High
+1097,Nangi Yak,Moose,Prey,Downtown,5.2,1.8,9.5,,4.1,White,Medium,78,Low
+1098,Bellwether Armadillo,Mouse,Prey,Savanna Central,8.4,3.9,,,0.6,Black,Small,19,High
+1099,Paws Mouse,Pig,Prey,Savanna Central,6.2,3.2,5.5,4.7,4.4,Grey,Large,31,High
+1100,Lionheart Beaver,Elephant,Prey,,8.2,1.7,7.2,1.9,5.0,White,Large,48,High
+1101,Peter Lynx,Mouse,Prey,Rainforest District,8.8,,9.7,0.3,1.5,White,Large,34,High
+1102,Priscilla Beaver,Elephant,Prey,Downtown,6.3,0.3,6.3,5.5,5.6,Grey,Small,111,Moderate
+1103,Bellwether Puma,Fox,Predator,Savanna Central,8.2,2.9,6.3,4.3,2.3,Striped,Small,102,High
+1104,Flash Hedgehog,Fox,Predator,Rainforest District,8.1,0.6,9.1,1.4,4.8,White,Small,150,High
+1105,Officer Bunny,Hippo,Prey,Tundratown,8.3,1.6,8.0,0.6,5.5,Grey,Medium,62,High
+1106,Ranger Dog,Hippo,Prey,Rainforest District,10.0,0.8,6.3,4.0,2.9,Orange,Extra Large,19,High
+1107,Doug Armadillo,Sheep,Prey,Savanna Central,9.8,3.7,7.5,2.4,0.6,Striped,Small,123,High
+1108,Priscilla Chipmunk,Fox,Predator,Meadowlands,6.4,3.3,6.9,0.5,6.9,White,Small,104,Moderate
+1109,Gideon Macaque,Fox,Predator,,6.7,3.9,8.1,2.2,3.1,Orange,Extra Large,103,Moderate
+1110,Manchas Bunny,Rhino,Prey,Rainforest District,5.4,0.2,5.6,3.5,9.3,White,Large,52,High
+1111,Swift Rabbit,Gazelle,Prey,Sahara Square,9.6,2.0,9.2,1.4,1.8,Striped,Medium,77,High
+1112,Ranger Wolf,Weasel,Predator,Savanna Central,5.9,1.4,8.2,0.4,8.1,Brown,Small,73,Low
+1113,Koslov Opossum,Hippo,Prey,Meadowlands,,2.1,10.0,2.4,2.7,Spotted,Small,122,Moderate
+1114,Raymond Hare,Hyena,Predator,Downtown,9.0,2.4,9.4,1.3,1.9,Black,Large,117,High
+1115,Pronk Wilde,Fox,Predator,Meadowlands,8.0,2.5,7.1,0.9,5.5,White,Small,103,Moderate
+1116,Hooves Lynx,Rhino,Prey,Rainforest District,6.1,2.9,6.6,3.0,5.4,Orange,Large,86,Moderate
+1117,Gazelle Sheep,Yak,Prey,Savanna Central,5.8,3.8,9.3,4.4,0.7,Golden,Small,80,Low
+1118,Sparky Opossum,Rat,Prey,Sahara Square,5.7,0.0,5.1,3.5,9.7,Orange,Large,138,High
+1120,Fuzzy Yak,Sheep,Prey,Tundratown,8.7,0.9,9.1,3.1,2.2,Golden,Large,53,High
+1121,Gary Fox,Zebra,Prey,Savanna Central,6.1,0.9,8.1,,3.9,Striped,Extra Large,135,Moderate
+1122,Doug Hyena,Tiger,Predator,Rainforest District,9.3,2.7,7.2,2.3,2.5,Striped,Large,18,High
+1123,Frantic Sheep,Cheetah,Predator,Tundratown,6.0,2.5,6.8,6.0,2.7,Black,Large,101,Moderate
+1124,Kevin Panther,Cheetah,Predator,Tundratown,7.8,3.7,9.0,1.6,1.9,Spotted,Extra Large,135,Moderate
+1125,Larry Shrew,Rhino,Prey,Savanna Central,8.6,2.3,7.5,1.1,4.5,Grey,Extra Large,77,High
+1126,Fluffy Dingo,Panther,Predator,,9.6,1.3,9.8,1.8,1.5,,Small,23,High
+1127,Doug Bear,Otter,Predator,Savanna Central,8.2,2.2,5.6,2.3,5.7,Black,Large,36,High
+1128,Whiskers Beaver,Polar Bear,Predator,Meadowlands,7.2,3.1,6.1,1.0,6.6,Spotted,Medium,44,Moderate
+1129,Swift Fox,Pig,Prey,,7.0,,8.6,2.0,2.7,White,Large,63,Moderate
+1130,Raymond Rat,Rhino,Prey,Sahara Square,9.9,2.7,6.4,2.9,2.1,Orange,Large,57,High
+1131,Ranger Beaver,Weasel,Predator,Meadowlands,5.5,3.9,5.9,3.9,4.8,Orange,Medium,126,High
+1132,Hooves Hopps,Yak,Prey,Downtown,8.9,2.7,8.1,3.8,0.5,Brown,Extra Large,42,High
+1133,Stu Porcupine,Leopard,Predator,Rainforest District,5.4,1.3,6.2,5.9,5.2,Grey,Small,23,Low
+1134,Nick Chipmunk,Weasel,Predator,Tundratown,8.4,0.8,6.2,1.7,6.9,White,Extra Large,143,High
+1135,,Zebra,Prey,Downtown,7.1,0.9,5.1,5.3,5.6,Golden,Medium,39,High
+1136,Whiskers Otter,Rabbit,Prey,Rainforest District,6.7,0.0,8.4,5.0,3.9,Spotted,Extra Large,42,Moderate
+1137,Larry Hyena,Wolf,Predator,Rainforest District,5.7,0.6,9.0,3.7,5.0,Black,Large,148,Low
+1138,Larry Beaver,Leopard,Predator,Tundratown,6.5,1.5,8.8,,2.3,Brown,Extra Large,148,Moderate
+1139,Frantic Puma,Rabbit,Prey,,7.0,,7.0,4.6,1.6,White,Extra Large,109,Moderate
+1140,Bucky Cat,Sloth,Prey,Meadowlands,9.5,0.3,9.7,3.7,0.8,Grey,Large,133,High
+1141,Gazelle Weasel,Hamster,Prey,Sahara Square,9.0,0.8,9.0,4.4,0.8,Brown,Large,38,High
+1142,Koslov Hippo,Otter,Predator,,5.2,0.6,7.7,3.5,7.0,Striped,Small,61,Low
+1143,Claws Jackal,Rat,Prey,Savanna Central,8.2,0.1,9.8,0.3,5.6,Black,Large,114,High
+1144,Dash Coyote,Otter,Predator,Meadowlands,8.3,3.3,5.1,,4.0,Spotted,Medium,88,High
+1145,Paws Pig,Hyena,Predator,Meadowlands,7.3,2.0,5.4,4.1,5.2,Grey,Medium,149,High
+1146,Peter Otter,Mouse,Prey,Sahara Square,7.4,0.6,8.2,1.0,6.8,Golden,Medium,79,Moderate
+1147,,Yak,Prey,Savanna Central,9.4,2.5,5.8,5.8,0.5,Black,Small,25,High
+1148,Madge Beaver,Hedgehog,Prey,Tundratown,8.1,1.0,9.0,4.8,1.1,Black,Large,36,High
+1149,Sharla Wilde,Wolf,Predator,Tundratown,9.9,2.0,7.3,3.6,1.2,Striped,Small,65,High
+1150,Clawhauser Sheep,Moose,Prey,Rainforest District,7.7,0.4,7.1,5.1,3.7,Golden,Extra Large,39,Moderate
+1151,Jerry Lynx,Hedgehog,Prey,Rainforest District,9.3,0.4,5.5,1.6,7.2,Brown,Large,34,High
+1152,Paws Yak,Moose,Prey,Downtown,8.1,1.4,8.9,1.3,4.3,Spotted,Medium,148,High
+1153,Judy Jackal,Giraffe,Prey,Tundratown,8.2,0.9,8.6,5.2,1.1,Striped,Medium,109,High
+1154,Bellwether Opossum,Lion,Predator,Tundratown,7.1,0.6,8.5,4.6,3.2,Striped,Medium,23,Moderate
+1155,,Wolf,Predator,Savanna Central,5.5,2.0,9.1,5.6,1.8,Orange,Medium,46,Low
+1156,Bucky Beaver,Rabbit,Prey,,7.7,1.6,9.2,2.7,2.8,Striped,Large,38,Moderate
+1157,Gazelle Hippo,Rabbit,Prey,Sahara Square,7.4,2.0,9.2,4.5,0.9,Golden,Medium,23,Moderate
+1158,Manchas Bear,Rabbit,Prey,Sahara Square,7.5,2.3,6.2,4.8,3.2,Spotted,Extra Large,45,Moderate
+1159,Madge Rhino,Hippo,Prey,,7.4,,,1.4,8.4,Orange,Small,64,High
+1160,,Elephant,Prey,Tundratown,5.8,1.8,6.5,0.2,9.7,Brown,Small,41,Low
+1161,Doug Skunk,Lion,Predator,Rainforest District,6.6,2.2,7.8,2.1,5.3,Black,Small,130,Moderate
+1162,Snout Jaguar,Moose,Prey,,6.9,,6.2,2.7,7.2,Black,Medium,113,Moderate
+1163,Tail Otter,Fox,Predator,Rainforest District,8.8,0.8,8.5,0.1,5.8,Grey,Small,40,High
+1164,Bucky Hyena,Rat,Prey,Tundratown,6.7,2.3,6.0,4.5,4.5,Brown,Large,146,Moderate
+1165,Emmitt Otter,Tiger,Predator,Sahara Square,5.3,3.4,6.0,5.2,4.1,Orange,Extra Large,67,Low
+1166,Doug Shrew,Wolf,Predator,Rainforest District,6.6,3.6,5.6,1.1,7.1,Spotted,Small,125,High
+1167,Dash Ocelot,Elephant,Prey,Sahara Square,7.5,0.3,6.0,5.7,4.5,Golden,Medium,116,Moderate
+1168,Fuzzy Chipmunk,Hedgehog,Prey,Downtown,9.6,2.2,6.3,4.1,1.8,Grey,Large,113,High
+1169,,Sheep,Prey,Rainforest District,8.3,4.0,6.3,3.6,1.8,Spotted,Small,128,High
+1170,Swift Bunny,Moose,Prey,Tundratown,7.5,1.2,5.8,1.7,7.8,Brown,Large,142,High
+1171,Chief Opossum,Zebra,Prey,Sahara Square,6.9,3.0,7.7,0.5,5.9,Spotted,Small,57,Moderate
+1172,Kevin Otter,Jaguar,Predator,,8.2,3.2,7.3,1.9,3.4,Golden,Medium,145,High
+1173,Nick Yak,Hamster,Prey,Tundratown,5.5,3.5,8.9,1.0,5.1,Grey,Extra Large,56,Low
+1174,Fabienne Elephant,Hedgehog,Prey,Sahara Square,8.1,3.8,7.9,2.3,1.9,Golden,Extra Large,7,High
+1175,Mayor Rabbit,Cheetah,Predator,Savanna Central,5.3,0.3,5.9,0.2,12.3,Golden,Medium,124,High
+1176,Swift Hopps,Rhino,Prey,Downtown,5.7,3.3,5.8,1.8,7.4,,Small,140,High
+1177,Hooves Hippo,Lion,Predator,Sahara Square,6.2,1.5,6.3,2.9,7.1,Brown,Medium,61,Moderate
+1178,Duke Squirrel,Otter,Predator,Meadowlands,5.3,0.6,5.3,3.8,9.0,White,Large,89,High
+1179,Dash Sheep,Polar Bear,Predator,Rainforest District,5.3,3.3,7.6,3.2,4.6,Black,Medium,124,Low
+1181,Bonnie Squirrel,Rat,Prey,Sahara Square,5.6,3.9,5.1,4.8,4.6,Spotted,Extra Large,38,High
+1182,Clawhauser Wilde,Hamster,Prey,Tundratown,5.7,0.6,8.5,3.9,5.3,Golden,Extra Large,69,Low
+1183,Fabienne Macaque,Elephant,Prey,Meadowlands,8.9,3.7,8.5,0.5,2.4,Striped,Large,49,High
+1184,Manchas Beaver,Weasel,Predator,Sahara Square,6.0,0.3,8.5,2.4,6.8,White,Small,21,Moderate
+1185,Sharla Otter,Lion,Predator,Rainforest District,9.6,2.6,5.5,5.7,0.6,Orange,Small,63,High
+1186,Gazelle Beaver,Wolf,Predator,Rainforest District,7.0,0.2,7.5,0.7,8.6,Striped,Small,141,Moderate
+1187,FruFru Tiger,Mouse,Prey,Tundratown,7.0,1.4,8.9,4.8,1.9,Brown,Extra Large,55,Moderate
+1188,Paws Skunk,Weasel,Predator,Meadowlands,6.9,0.6,9.0,4.2,3.3,Grey,Extra Large,46,Moderate
+1189,Fluffy Porcupine,Hippo,Prey,Savanna Central,6.0,1.5,5.5,3.8,7.2,Golden,Large,58,High
+1190,Doug Elephant,Hamster,Prey,Sahara Square,7.9,3.6,7.8,0.8,3.9,Brown,Extra Large,14,Moderate
+1191,Flash Elephant,Mouse,Prey,Downtown,6.9,3.4,8.2,3.6,1.9,Black,Medium,137,Moderate
+1192,FruFru Hopps,Lion,Predator,Downtown,8.8,2.4,5.8,4.8,2.2,Orange,Medium,94,High
+1193,Dash Hyena,Tiger,Predator,Savanna Central,8.6,0.3,7.3,1.0,6.8,Grey,Large,125,High
+1194,Larry Badger,Hedgehog,Prey,Savanna Central,8.1,2.7,9.2,0.9,3.1,Orange,Medium,137,High
+1195,Bonnie Coyote,Jaguar,Predator,Sahara Square,5.6,3.4,5.8,5.8,3.4,Brown,Large,37,High
+1196,Bellwether Baboon,Fox,Predator,Meadowlands,9.9,0.4,6.5,3.8,3.4,Striped,Large,115,High
+1197,Gideon Hopps,Polar Bear,Predator,Downtown,6.8,3.7,5.3,3.3,4.9,Striped,Extra Large,99,High
+1198,Frantic Leopard,Hamster,Prey,Sahara Square,6.3,1.5,9.2,1.2,5.8,Spotted,Medium,93,Moderate
+1199,Koslov Pig,Panther,Predator,Meadowlands,9.1,2.3,8.8,2.7,1.1,Spotted,Small,39,High
+1200,Agent Ocelot,Giraffe,Prey,Tundratown,9.3,1.7,9.8,1.4,1.8,White,Small,84,High
+1201,Lionheart Pig,Yak,Prey,Meadowlands,5.7,1.6,9.8,1.9,5.0,Golden,Extra Large,146,Low
+1202,Gazelle Baboon,Rat,Prey,Meadowlands,8.6,,8.9,2.3,3.0,Black,Large,36,High
+1203,Koslov Chipmunk,Yak,Prey,Downtown,7.4,3.1,6.9,2.7,3.9,Grey,Extra Large,133,Moderate
+1204,Bogo Weasel,Rabbit,Prey,Savanna Central,7.6,3.2,6.8,3.1,3.3,Black,Extra Large,41,Moderate
+1205,Fluffy Cat,Wolf,Predator,Sahara Square,8.4,1.1,6.4,5.6,2.5,Golden,Extra Large,8,High
+1206,,Hyena,Predator,Downtown,8.2,0.1,8.1,3.1,4.5,,Extra Large,127,High
+1207,Fabienne Moose,Tiger,Predator,Tundratown,7.7,1.4,5.4,1.2,8.3,Spotted,Extra Large,128,High
+1208,Yax Skunk,Hamster,Prey,Rainforest District,7.3,0.2,5.2,4.3,7.0,Brown,Medium,21,High
+1209,Priscilla Moose,Otter,Predator,Downtown,7.7,2.0,6.2,4.5,3.6,Orange,Large,41,Moderate
+1210,Raymond Raccoon,Hamster,Prey,Meadowlands,7.3,1.1,6.2,3.9,5.5,Spotted,Small,21,Moderate
+1211,Bellwether Skunk,Yak,Prey,Rainforest District,8.3,3.3,7.1,0.4,4.9,Orange,Medium,132,High
+1212,Yax Jaguar,Hedgehog,Prey,Downtown,5.0,2.1,5.2,3.4,8.3,Black,Large,35,High
+1213,Sharla Raccoon,Rabbit,Prey,Rainforest District,9.6,3.9,7.7,1.3,1.5,Grey,Small,42,High
+1214,Gideon Mouse,Mouse,Prey,Rainforest District,5.3,1.9,,2.8,7.8,Striped,Medium,106,Low
+1215,Ranger Pig,Hippo,Prey,,7.3,2.3,6.8,1.0,6.6,Orange,Medium,56,Moderate
+1216,Dash Macaque,Jaguar,Predator,Sahara Square,8.3,1.4,9.7,4.2,0.4,Striped,Extra Large,5,High
+1217,Judy Moose,Rabbit,Prey,Rainforest District,6.0,0.2,8.7,5.0,4.1,Black,Large,84,Moderate
+1218,Fluffy Rabbit,Giraffe,Prey,Rainforest District,5.1,1.0,7.3,3.8,6.8,Golden,Extra Large,142,Low
+1219,Nangi Dog,Gazelle,Prey,Sahara Square,7.8,3.0,6.4,3.4,3.4,Orange,Small,104,Moderate
+1220,Kevin Moose,Panther,Predator,Savanna Central,8.8,2.8,10.0,0.7,1.7,Golden,Small,31,High
+1221,Gazelle Yak,Zebra,Prey,Downtown,7.5,1.3,7.2,5.1,2.9,Brown,Medium,121,Moderate
+1222,Madge Cheetah,Rat,Prey,Meadowlands,6.0,,5.3,5.3,3.9,Brown,Extra Large,65,High
+1223,Sharla Sheep,Gazelle,Prey,Rainforest District,6.6,1.3,7.6,5.6,2.9,Black,Extra Large,73,Moderate
+1224,Gary Bunny,Wolf,Predator,Tundratown,9.3,1.6,6.0,2.5,4.6,Spotted,Medium,109,High
+1225,Peter Cheetah,Rhino,Prey,,6.9,3.7,8.8,2.3,2.3,Spotted,Large,37,Moderate
+1226,FruFru Panther,Gazelle,Prey,Downtown,5.3,1.0,7.2,0.9,9.6,Striped,Large,91,Low
+1227,Bonnie Pig,Leopard,Predator,Sahara Square,9.7,3.1,6.3,2.9,2.0,Black,Medium,131,High
+1228,Emmitt Wilde,Lion,Predator,Tundratown,,2.1,8.9,2.0,1.6,Grey,Medium,35,High
+1229,Bucky Baboon,Cheetah,Predator,Rainforest District,7.8,0.5,5.6,3.2,6.9,White,Extra Large,7,High
+1230,FruFru Pig,Sheep,Prey,Rainforest District,9.8,1.9,5.3,3.3,3.7,Brown,Large,53,High
+1231,Hooves Otter,Otter,Predator,Sahara Square,9.2,4.0,7.2,1.2,2.4,Black,Small,147,High
+1232,Hooves Macaque,Yak,Prey,Downtown,5.2,1.4,6.3,4.1,7.0,White,Small,138,Low
+1233,Gareth Chipmunk,Wolf,Predator,Savanna Central,9.7,1.1,9.1,0.2,3.9,Grey,Medium,39,High
+1234,Fluffy Panther,Jaguar,Predator,Meadowlands,9.7,3.1,8.3,2.4,0.5,Golden,Extra Large,16,High
+1235,Yax Cat,Pig,Prey,Tundratown,8.2,3.9,,3.1,0.2,Spotted,Small,86,High
+1236,Larry Jackal,Giraffe,Prey,Savanna Central,7.6,0.5,8.0,2.9,5.0,Spotted,Large,110,Moderate
+1237,Pronk Mouse,Pig,Prey,Rainforest District,8.1,0.0,6.0,2.9,7.0,Spotted,Medium,77,High
+1238,Gary Cat,Pig,Prey,Meadowlands,7.1,2.9,8.0,1.8,4.2,Brown,Medium,17,Moderate
+1239,Raymond Lynx,Rabbit,Prey,Downtown,7.1,0.9,9.8,0.8,5.4,Grey,Extra Large,120,Moderate
+1240,FruFru Lion,Giraffe,Prey,Tundratown,6.1,,6.0,0.5,8.3,Striped,Extra Large,116,Moderate
+1241,FruFru Sheep,Jaguar,Predator,Rainforest District,7.4,0.0,5.4,4.8,6.4,Grey,Small,51,High
+1242,Judy Raccoon,Fox,Predator,Rainforest District,9.3,2.7,5.3,4.7,2.0,Black,Small,147,High
+1243,Stu Wolf,Moose,Prey,Meadowlands,,3.2,7.5,1.0,3.1,Grey,Small,139,High
+1244,Swift Lion,Weasel,Predator,Meadowlands,9.9,0.6,6.1,1.3,6.1,,Small,55,High
+1245,Judy Hippo,Zebra,Prey,Meadowlands,9.0,0.7,5.3,6.0,3.0,Black,Extra Large,123,High
+1246,Koslov Hyena,Sloth,Prey,Savanna Central,7.8,,9.6,0.0,3.0,Orange,Large,59,Moderate
+1247,Flash Hopps,Elephant,Prey,Savanna Central,5.4,1.0,8.3,5.3,4.0,White,Extra Large,127,Low
+1248,Manchas Squirrel,Otter,Predator,,5.9,3.2,9.8,1.4,3.7,Striped,Extra Large,31,Low
+1249,Priscilla Badger,Leopard,Predator,Savanna Central,7.5,0.3,,3.0,5.4,White,Extra Large,105,Moderate
+1250,Duke Rabbit,Hippo,Prey,Downtown,6.7,2.1,7.9,0.1,7.2,Golden,Small,120,Moderate
+1251,Yax Rat,Rabbit,Prey,Meadowlands,8.8,2.9,6.8,0.3,5.2,Orange,Medium,64,High
+1252,Mayor Wolf,Sheep,Prey,Downtown,,2.3,5.8,2.1,7.9,Golden,Small,12,High
+1253,Gary Rat,Tiger,Predator,Sahara Square,8.5,2.2,6.9,2.5,3.9,Orange,Medium,45,High
+1254,,Mouse,Prey,,5.4,3.5,5.4,4.2,5.5,Grey,Large,117,High
+1255,Lionheart Chipmunk,Hamster,Prey,Tundratown,9.6,1.1,6.9,3.4,3.0,Black,Large,1,High
+1256,Gideon Tiger,Mouse,Prey,Rainforest District,8.3,1.6,7.4,0.3,6.4,Brown,Small,107,High
+1257,Claws Yak,Rabbit,Prey,Rainforest District,6.0,3.2,7.3,1.8,5.7,Spotted,Extra Large,115,Moderate
+1258,Bogo Baboon,Wolf,Predator,Tundratown,8.7,1.1,5.6,1.5,7.1,White,Large,27,High
+1259,Nick Hyena,Giraffe,Prey,Meadowlands,9.6,2.3,7.7,2.6,1.8,White,Medium,3,High
+1260,FruFru Coyote,Pig,Prey,Downtown,7.6,,5.6,3.2,7.1,Spotted,Large,135,High
+1261,Madge Tiger,Hyena,Predator,Downtown,9.7,1.2,9.3,2.9,0.9,Orange,Extra Large,124,High
+1262,Nick Pig,Zebra,Prey,Savanna Central,6.0,1.5,7.5,4.4,4.6,White,Small,17,Moderate
+1263,Raymond Rabbit,Otter,Predator,Meadowlands,5.6,1.6,7.4,3.2,6.2,Black,Medium,100,Low
+1264,Gary Macaque,Rat,Prey,Savanna Central,9.0,2.8,,3.1,1.3,Grey,Extra Large,80,High
+1265,Bellwether Moose,Wolf,Predator,Meadowlands,7.1,0.6,8.3,3.1,4.9,Striped,Medium,134,Moderate
+1266,Bogo Dog,Wolf,Predator,Sahara Square,9.5,2.3,5.4,2.7,4.1,Spotted,Extra Large,49,High
+1267,Snout Armadillo,Weasel,Predator,Downtown,8.8,3.2,7.5,4.0,0.5,Orange,Small,51,High
+1268,Chief Fox,Panther,Predator,Savanna Central,9.5,3.6,8.4,2.1,0.4,Black,Large,41,High
+1269,Fluffy Moose,Rabbit,Prey,Meadowlands,5.4,,6.6,1.1,7.4,Spotted,Medium,149,Low
+1270,Lionheart Bear,Rat,Prey,Tundratown,6.3,1.3,5.7,1.8,8.9,White,Medium,110,High
+1271,Finnick Weasel,Zebra,Prey,Sahara Square,7.9,1.8,6.7,4.5,3.1,Grey,Extra Large,122,Moderate
+1272,Bellwether Mouse,Moose,Prey,Sahara Square,6.7,3.0,5.8,0.8,7.7,Black,Medium,38,High
+1273,Mayor Porcupine,Panther,Predator,Sahara Square,6.7,3.2,6.2,0.4,7.5,Spotted,Small,130,Moderate
+1275,Bucky Sloth,Rabbit,Prey,Downtown,9.3,1.2,,0.1,4.9,Golden,Extra Large,147,High
+1276,Priscilla Lynx,Jaguar,Predator,Savanna Central,7.7,0.3,9.0,1.3,5.7,Spotted,Extra Large,115,Moderate
+1277,Hooves Jaguar,Leopard,Predator,Meadowlands,8.4,3.2,7.8,3.4,1.2,Orange,Extra Large,73,High
+1278,Gazelle Rabbit,Cheetah,Predator,Rainforest District,9.0,1.2,7.9,4.4,1.5,Orange,Medium,97,High
+1279,Gideon Ocelot,Wolf,Predator,Meadowlands,6.9,1.2,7.3,4.9,3.7,White,Medium,43,Moderate
+1280,Snout Skunk,Fox,Predator,Meadowlands,8.3,3.6,5.5,1.4,5.2,Spotted,Large,68,High
+1281,Peter Dingo,Hyena,Predator,Sahara Square,8.5,3.3,9.3,1.2,1.7,White,Large,14,High
+1282,Bucky Chipmunk,Sloth,Prey,Meadowlands,6.2,1.2,8.9,0.5,7.2,Orange,Large,92,Moderate
+1283,Mayor Hedgehog,Leopard,Predator,Sahara Square,9.1,1.7,8.0,0.5,4.7,Brown,Medium,90,High
+1284,Emmitt Pig,Giraffe,Prey,Downtown,9.8,,7.3,0.8,2.9,White,Large,109,High
+1285,Bogo Sheep,Weasel,Predator,Downtown,9.7,1.4,5.8,3.4,3.7,Grey,Small,116,High
+1286,Bellwether Squirrel,Cheetah,Predator,Downtown,7.4,4.0,8.4,0.3,3.9,Orange,Medium,20,Moderate
+1287,Manchas Cat,Panther,Predator,Rainforest District,10.0,1.6,6.4,,2.7,Striped,Extra Large,129,High
+1288,Stu Tiger,Wolf,Predator,,5.0,,9.2,3.4,4.6,Spotted,Large,71,Low
+1289,Paws Moose,Tiger,Predator,,10.0,1.1,6.4,,5.5,Brown,Extra Large,142,High
+1292,Stu Otter,Hippo,Prey,Downtown,7.1,,,2.7,4.4,Striped,Small,47,Moderate
+1294,,Rhino,Prey,Rainforest District,,3.5,,1.8,0.4,Brown,Medium,18,High
+1295,Jerry Baboon,Sheep,Prey,Downtown,9.3,2.2,9.1,1.0,2.4,,Medium,109,High
+1296,Bellwether Cheetah,Cheetah,Predator,,7.3,1.1,9.8,1.8,4.0,Black,Small,125,Moderate
+1297,Koslov Wolf,Fox,Predator,Tundratown,5.5,2.1,5.3,0.7,10.4,Orange,Extra Large,15,High
+1298,Larry Sheep,Wolf,Predator,Meadowlands,7.2,,8.7,2.1,2.8,Striped,Large,91,Moderate
+1299,Claws Fox,Leopard,Predator,Sahara Square,6.7,1.3,8.9,0.3,6.8,Black,Large,106,Moderate
+1300,Raymond Macaque,Hippo,Prey,,6.2,3.7,9.3,3.4,1.4,Striped,Extra Large,83,Moderate
+1301,Pronk Tiger,Wolf,Predator,Meadowlands,7.4,2.1,9.9,4.4,0.2,Golden,Large,6,Moderate
+1302,Larry Wolf,Pig,Prey,Meadowlands,6.0,,8.4,2.4,6.3,White,Small,137,Moderate
+1303,Mayor Sloth,Pig,Prey,Downtown,9.7,0.4,7.6,5.5,0.8,,Small,113,High
+1304,Officer Yak,Zebra,Prey,Meadowlands,5.8,3.9,9.6,0.8,3.9,Striped,Extra Large,107,Low
+1305,Gareth Rhino,Jaguar,Predator,Downtown,5.6,0.3,9.5,1.2,7.4,Spotted,Large,61,Low
+1306,Nick Wilde,Hedgehog,Prey,Tundratown,8.0,0.3,6.1,5.6,4.0,White,Extra Large,106,Moderate
+1307,Kevin Gorilla,Rabbit,Prey,Savanna Central,9.5,3.1,5.1,2.0,4.3,,Small,20,High
+1308,Doug Rat,Fox,Predator,Savanna Central,9.5,2.5,5.4,,1.1,Black,Small,96,High
+1309,Agent Weasel,Hyena,Predator,Rainforest District,9.8,0.3,7.7,1.8,4.4,Black,Large,1,High
+1310,Flash Puma,Sheep,Prey,Rainforest District,7.9,3.8,7.5,0.4,4.4,Orange,Small,17,Moderate
+1311,Gareth Hopps,Rabbit,Prey,Meadowlands,8.1,1.4,9.3,2.3,2.9,Black,Small,90,High
+1312,Fabienne Mouse,Giraffe,Prey,Meadowlands,8.8,1.1,8.8,1.1,4.2,Grey,Large,111,High
+1313,Koslov Jaguar,Wolf,Predator,Savanna Central,6.6,1.9,9.7,5.4,0.4,Brown,Small,118,Moderate
+1314,,Gazelle,Prey,Downtown,5.7,2.0,7.3,5.4,3.6,White,Medium,43,Low
+1315,Fuzzy Jackal,Hippo,Prey,Meadowlands,9.7,1.5,7.5,4.8,0.5,Golden,Large,23,High
+1316,Nick Hedgehog,Otter,Predator,Tundratown,6.1,0.8,5.2,3.9,8.0,Grey,Medium,139,High
+1317,Nick Ocelot,Hamster,Prey,Rainforest District,6.3,0.2,,4.8,6.5,Orange,Large,117,Moderate
+1318,,Rhino,Prey,Savanna Central,7.1,,6.0,1.3,5.7,White,Extra Large,117,Moderate
+1319,Claws Pig,Tiger,Predator,Downtown,6.5,0.7,6.9,5.5,4.4,Brown,Small,131,Moderate
+1320,Hooves Dingo,Mouse,Prey,Sahara Square,9.7,0.2,,3.4,4.6,White,Large,143,High
+1321,Bogo Gorilla,Rabbit,Prey,Sahara Square,8.1,0.2,7.0,3.9,4.8,Orange,Extra Large,115,High
+1322,Bucky Leopard,Tiger,Predator,Sahara Square,6.6,,,0.8,9.1,Grey,Small,76,Moderate
+1323,Kevin Hopps,Panther,Predator,Downtown,9.7,1.9,6.6,4.4,1.4,Black,Large,12,High
+1325,Larry Opossum,Hyena,Predator,Tundratown,7.8,3.1,5.7,1.4,6.0,Grey,Extra Large,61,High
+1326,,Weasel,Predator,Downtown,7.2,0.0,9.1,2.2,5.5,Brown,Extra Large,37,Moderate
+1327,Larry Bear,Elephant,Prey,Meadowlands,7.7,2.7,8.5,4.9,0.2,Black,Extra Large,83,Moderate
+1328,Swift Hare,Panther,Predator,Rainforest District,9.8,2.6,6.5,,4.5,Black,Extra Large,32,High
+1329,Fuzzy Otter,Wolf,Predator,Meadowlands,9.2,1.4,8.3,2.4,2.7,Grey,Large,58,High
+1330,Fluffy Mouse,Tiger,Predator,Rainforest District,5.3,,7.7,2.6,6.7,Orange,Small,2,Low
+1331,Pronk Raccoon,Sheep,Prey,Downtown,8.7,3.3,8.9,0.1,3.0,Golden,Large,148,High
+1332,Clawhauser Sloth,Weasel,Predator,Meadowlands,9.7,3.3,9.2,0.5,1.3,Orange,Extra Large,133,High
+1333,Snout Rhino,Sheep,Prey,Rainforest District,7.1,1.9,5.8,0.2,9.0,Golden,Small,20,High
+1335,Officer Wolf,Elephant,Prey,Savanna Central,6.7,2.5,5.2,1.1,8.5,Orange,Small,65,High
+1336,,Zebra,Prey,Tundratown,6.8,1.5,7.7,0.0,8.0,Brown,Extra Large,94,Moderate
+1337,Agent Moose,Wolf,Predator,Tundratown,,0.8,6.3,4.8,5.9,Grey,Large,100,Moderate
+1338,Fuzzy Armadillo,Leopard,Predator,Sahara Square,7.5,3.5,6.2,0.5,6.3,Grey,Medium,93,Moderate
+1339,,Weasel,Predator,Downtown,6.8,3.0,7.8,4.9,1.5,Brown,Large,141,Moderate
+1340,Sharla Wolf,Otter,Predator,,5.2,3.9,6.9,0.9,7.1,Spotted,Small,40,Low
+1341,Yax Dingo,Gazelle,Prey,Rainforest District,8.3,1.1,7.9,3.5,3.2,White,Large,104,High
+1342,Gary Hedgehog,Moose,Prey,Sahara Square,6.3,1.8,7.7,4.0,4.2,Orange,Extra Large,87,Moderate
+1343,Manchas Rat,Elephant,Prey,Rainforest District,8.9,1.6,8.2,0.8,4.5,Striped,Extra Large,24,High
+1344,Larry Sloth,Pig,Prey,Rainforest District,8.6,0.1,6.0,2.9,6.4,Black,Large,108,High
+1345,Emmitt Dingo,Pig,Prey,Sahara Square,9.4,2.1,9.6,1.4,1.5,Golden,Large,25,High
+1346,Bucky Bunny,Polar Bear,Predator,Savanna Central,9.0,1.0,9.5,4.1,0.4,Black,Small,63,High
+1347,Flash Leopard,Sloth,Prey,,9.7,2.1,8.4,3.0,0.8,Striped,Extra Large,140,High
+1348,Stu Rhino,Cheetah,Predator,Sahara Square,5.2,2.0,5.8,1.1,9.9,Striped,Small,138,High
+1349,Pronk Opossum,Panther,Predator,Downtown,6.8,1.7,8.1,0.4,7.0,Striped,Extra Large,140,Moderate
+1350,Lionheart Squirrel,Hyena,Predator,Savanna Central,7.9,2.5,7.8,4.3,1.5,Striped,Medium,9,Moderate
+1351,Bellwether Hopps,Fox,Predator,Savanna Central,6.7,3.1,7.2,2.9,4.1,Black,Medium,123,Moderate
+1352,Nangi Skunk,Rabbit,Prey,Sahara Square,6.5,0.3,5.5,5.5,6.2,Black,Small,73,High
+1353,Koslov Gorilla,Jaguar,Predator,Downtown,8.4,,6.8,3.6,4.7,White,Large,26,High
+1354,Officer Rhino,Yak,Prey,Meadowlands,5.0,0.8,9.8,3.7,4.7,White,Small,110,Low
+1355,Judy Skunk,Pig,Prey,Downtown,,0.3,5.1,1.5,10.8,Brown,Extra Large,75,High
+1356,,Rabbit,Prey,Tundratown,8.6,3.7,7.0,0.9,3.8,White,Large,138,High
+1357,Doug Dingo,Zebra,Prey,,7.6,3.6,9.0,0.3,3.5,Black,Medium,32,Moderate
+1358,Frantic Jackal,Hedgehog,Prey,Savanna Central,9.5,0.5,7.7,5.3,1.0,White,Extra Large,90,High
+1359,Bellwether Bunny,Jaguar,Predator,Tundratown,7.1,1.9,5.4,1.7,7.9,Grey,Small,54,High
+1360,Finnick Mouse,Sloth,Prey,Meadowlands,6.4,1.8,8.4,1.0,6.4,Golden,Small,109,Moderate
+1361,Bucky Jaguar,Jaguar,Predator,Tundratown,7.4,3.0,9.3,,1.6,Striped,Large,104,Moderate
+1362,Kevin Cat,Sheep,Prey,Savanna Central,9.7,0.5,8.9,1.3,3.6,Golden,Medium,66,High
+1363,Paws Coyote,Yak,Prey,,9.7,2.9,8.8,0.6,2.0,Brown,Medium,147,High
+1364,Dash Leopard,Yak,Prey,Rainforest District,8.8,0.4,9.8,4.5,0.5,Black,Medium,44,High
+1365,Yax Lynx,Hedgehog,Prey,Rainforest District,6.4,3.3,7.6,2.8,3.9,White,Extra Large,0,Moderate
+1366,Snout Macaque,Moose,Prey,Rainforest District,8.6,1.6,8.1,4.0,1.7,Orange,Small,106,High
+1367,Tail Armadillo,Pig,Prey,Sahara Square,8.6,0.2,9.3,2.7,3.2,Brown,Small,112,High
+1368,Chief Rabbit,Panther,Predator,,7.4,3.5,6.9,4.5,1.7,,Medium,37,Moderate
+1369,Swift Panther,Hyena,Predator,Rainforest District,5.5,1.9,10.0,4.6,2.0,Brown,Small,15,Low
+1370,Nangi Sloth,Jaguar,Predator,Downtown,6.2,1.6,8.9,4.6,2.7,Grey,Large,50,Moderate
+1371,Bellwether Hippo,Pig,Prey,Rainforest District,6.1,3.7,8.0,2.3,3.9,Striped,Small,134,Moderate
+1372,Raymond Shrew,Rat,Prey,Savanna Central,7.8,,7.5,1.1,5.7,Grey,Large,144,Moderate
+1373,,Polar Bear,Predator,Tundratown,9.1,2.2,5.7,4.6,2.4,Black,Small,21,High
+1374,Lionheart Bunny,Elephant,Prey,,7.6,0.5,9.7,1.1,5.1,White,Large,14,Moderate
+1375,Clawhauser Jaguar,Jaguar,Predator,Sahara Square,6.3,1.6,6.9,4.8,4.4,Grey,Medium,121,Moderate
+1376,Emmitt Hopps,Tiger,Predator,Meadowlands,6.3,2.0,,3.7,6.3,Spotted,Small,2,High
+1377,Chief Baboon,Rabbit,Prey,Tundratown,7.8,2.9,9.7,3.3,0.3,Grey,Extra Large,104,Moderate
+1378,Judy Hyena,Jaguar,Predator,Meadowlands,9.5,3.9,9.3,0.1,1.2,Golden,Extra Large,137,High
+1379,Gary Dingo,Hyena,Predator,Meadowlands,9.7,1.7,5.0,2.7,4.9,Golden,Large,5,High
+1380,Yax Hare,Gazelle,Prey,Meadowlands,6.7,1.9,8.1,5.2,2.1,Brown,Medium,93,Moderate
+1381,Doug Tiger,Rat,Prey,Tundratown,8.3,1.7,9.1,4.4,0.5,Grey,Large,29,High
+1382,Paws Dog,Moose,Prey,Savanna Central,6.4,0.2,8.3,5.2,3.9,Striped,Small,117,Moderate
+1383,Sparky Porcupine,Elephant,Prey,Meadowlands,5.8,3.2,9.3,5.2,0.5,Orange,Medium,15,Low
+1384,Gideon Skunk,Hamster,Prey,Downtown,6.6,2.2,5.3,0.3,9.6,Orange,Extra Large,17,High
+1385,Flash Bunny,Zebra,Prey,Meadowlands,8.6,1.8,6.3,1.1,6.2,Orange,Large,98,High
+1386,,Otter,Predator,Savanna Central,7.4,1.4,6.6,5.8,2.8,Striped,Extra Large,119,Moderate
+1387,Paws Leopard,Jaguar,Predator,Meadowlands,8.2,0.1,7.2,5.3,3.2,Grey,Extra Large,72,High
+1388,Bucky Gorilla,Rabbit,Prey,Savanna Central,8.8,2.4,7.9,0.3,4.6,Orange,Large,38,High
+1389,Nangi Badger,Weasel,Predator,Meadowlands,5.7,2.5,6.0,3.0,6.8,Orange,Large,10,Low
+1390,Sparky Squirrel,Yak,Prey,Downtown,9.7,3.4,8.6,0.2,2.1,Orange,Large,139,High
+1391,Frantic Skunk,Zebra,Prey,Savanna Central,5.5,2.0,5.8,5.9,4.8,Striped,Extra Large,121,High
+1392,Sharla Pig,Rabbit,Prey,Sahara Square,6.8,2.6,5.6,2.6,6.4,White,Medium,91,High
+1393,Agent Bunny,Leopard,Predator,Savanna Central,6.4,3.6,5.2,5.5,3.3,Striped,Extra Large,118,High
+1394,Jerry Wilde,Cheetah,Predator,Rainforest District,8.9,0.1,9.8,2.7,2.5,Spotted,Extra Large,19,High
+1395,Clawhauser Yak,Hamster,Prey,Rainforest District,,1.5,5.3,5.9,4.8,,Small,71,High
+1396,Sharla Jaguar,Polar Bear,Predator,Rainforest District,7.2,,6.2,3.2,3.6,Grey,Small,8,Moderate
+1397,Priscilla Jackal,Hamster,Prey,Rainforest District,7.4,2.8,5.3,1.2,7.3,Orange,Extra Large,72,High
+1398,Frantic Cougar,Hippo,Prey,,5.9,2.3,6.1,5.2,4.5,Golden,Small,126,Low
+1399,Nick Squirrel,Tiger,Predator,Tundratown,9.7,2.1,6.8,1.3,4.1,White,Small,131,High
+1400,Swift Bear,Mouse,Prey,Downtown,9.7,1.6,8.5,2.1,2.1,Grey,Large,25,High
+1401,Agent Dingo,Giraffe,Prey,Downtown,7.6,1.1,7.3,2.8,5.2,White,Medium,122,Moderate
+1402,Sparky Beaver,Hippo,Prey,Savanna Central,6.6,0.2,7.5,3.3,6.4,Spotted,Extra Large,127,Moderate
+1403,Mayor Jackal,Fox,Predator,Rainforest District,5.8,3.0,,5.0,0.3,Spotted,Small,141,Low
+1404,Raymond Cheetah,Gazelle,Prey,Downtown,8.5,1.8,7.7,5.1,0.9,Grey,Extra Large,109,High
+1405,Madge Elephant,Sloth,Prey,Rainforest District,7.4,1.5,7.5,3.5,4.1,Spotted,Extra Large,130,Moderate
+1406,Stu Shrew,Rat,Prey,Rainforest District,5.5,2.4,5.6,0.5,10.0,,Extra Large,82,High
+1407,Swift Cougar,Polar Bear,Predator,Tundratown,7.6,1.6,7.9,0.5,6.4,Grey,Medium,66,Moderate
+1408,Sparky Hopps,Sloth,Prey,Downtown,9.9,,8.4,1.1,2.4,,Extra Large,122,High
+1409,Priscilla Sheep,Zebra,Prey,Downtown,5.5,3.9,6.4,2.5,5.7,Black,Large,87,Low
+1410,Raymond Weasel,Hyena,Predator,Downtown,9.1,2.1,6.4,0.4,6.0,Golden,Large,63,High
+1411,Bogo Hopps,Yak,Prey,Savanna Central,5.8,3.6,8.4,1.5,4.7,Brown,Large,76,Low
+1412,Ranger Raccoon,Rat,Prey,Rainforest District,7.9,1.6,6.8,1.3,6.4,Spotted,Extra Large,16,Moderate
+1413,Pronk Yak,Wolf,Predator,Downtown,8.3,3.9,5.9,3.5,2.4,Golden,Large,106,High
+1414,Gazelle Cheetah,Yak,Prey,Savanna Central,6.3,3.3,7.4,3.3,3.7,Black,Large,9,Moderate
+1415,Flash Dog,Hedgehog,Prey,Savanna Central,6.5,0.7,5.4,4.3,7.1,Orange,Medium,3,High
+1416,Hooves Cougar,Zebra,Prey,Meadowlands,7.0,1.7,7.3,2.2,5.8,White,Medium,1,Moderate
+1417,Duke Tiger,Zebra,Prey,Tundratown,5.5,1.2,8.3,4.0,5.0,Black,Extra Large,58,Low
+1418,Snout Dog,Sheep,Prey,,6.0,0.8,5.1,5.4,6.7,Spotted,Small,50,High
+1419,Raymond Gorilla,Mouse,Prey,Downtown,6.1,0.9,6.4,0.8,9.8,,Small,67,Moderate
+1420,FruFru Cheetah,Elephant,Prey,,5.7,2.6,6.7,4.2,4.8,Grey,Small,47,Low
+1421,Raymond Leopard,Panther,Predator,Savanna Central,7.8,1.0,8.3,0.7,6.2,Orange,Small,20,Moderate
+1422,Priscilla Cat,Moose,Prey,Rainforest District,6.3,2.4,9.4,5.9,0.0,Spotted,Small,14,Moderate
+1423,Sparky Hippo,Hyena,Predator,Savanna Central,8.0,1.6,6.1,1.5,6.8,Spotted,Medium,96,Moderate
+1424,Raymond Bunny,Otter,Predator,Tundratown,9.6,1.5,6.9,2.3,3.7,Brown,Extra Large,13,High
+1425,,Weasel,Predator,Tundratown,9.2,2.6,8.1,1.4,2.7,Brown,Medium,16,High
+1426,Finnick Beaver,Mouse,Prey,Downtown,7.0,2.0,8.3,0.1,6.6,White,Extra Large,103,Moderate
+1427,Bonnie Hyena,Panther,Predator,Tundratown,9.4,1.8,6.7,0.8,5.3,Golden,Extra Large,6,High
+1428,,Rat,Prey,Meadowlands,7.0,2.7,7.1,5.8,1.4,White,Large,71,Moderate
+1429,Yax Badger,Sheep,Prey,Sahara Square,8.0,3.2,5.5,2.4,4.9,Orange,Large,53,High
+1430,Stu Macaque,Zebra,Prey,Sahara Square,9.3,0.3,5.4,5.1,3.9,Grey,Medium,3,High
+1431,Doug Raccoon,Rabbit,Prey,Downtown,6.1,2.7,7.7,5.0,2.5,Golden,Extra Large,113,Moderate
+1432,Sharla Cougar,Wolf,Predator,Savanna Central,7.1,1.3,8.0,5.6,2.0,Grey,Medium,124,Moderate
+1433,Stu Hippo,Sloth,Prey,Downtown,9.2,4.0,5.1,0.6,5.1,Grey,Large,99,High
+1434,Ranger Puma,Pig,Prey,Sahara Square,6.4,1.0,8.9,0.3,7.4,Brown,Small,145,Moderate
+1435,Bogo Raccoon,Elephant,Prey,Sahara Square,6.8,2.0,7.8,4.4,3.0,Orange,Medium,130,Moderate
+1436,FruFru Beaver,Hamster,Prey,Sahara Square,7.9,2.2,8.2,1.5,4.2,Striped,Extra Large,31,Moderate
+1437,Bonnie Leopard,Rabbit,Prey,Downtown,5.4,0.5,6.1,3.0,9.0,Orange,Medium,22,Low
+1438,Jerry Elephant,Hippo,Prey,,8.9,1.4,,2.4,4.3,Grey,Small,24,High
+1439,Agent Squirrel,Rhino,Prey,Meadowlands,,0.2,,5.9,3.9,Brown,Small,80,Moderate
+1440,Larry Hippo,Hedgehog,Prey,Rainforest District,9.1,2.8,9.7,1.0,1.4,Orange,Large,115,High
+1441,Swift Cat,Rat,Prey,Rainforest District,8.3,1.9,8.2,2.5,3.1,Orange,Large,53,High
+1442,Gareth Rat,Sheep,Prey,Sahara Square,7.6,3.2,8.7,3.0,1.5,Golden,Medium,75,Moderate
+1443,Flash Hare,Hippo,Prey,Tundratown,5.6,2.9,7.5,5.4,2.6,Striped,Medium,111,Low
+1444,Koslov Cougar,Lion,Predator,,5.7,3.0,5.0,1.0,9.3,Spotted,Extra Large,48,High
+1445,Fluffy Weasel,Zebra,Prey,Savanna Central,7.9,2.9,9.6,2.5,1.1,Spotted,Small,57,Moderate
+1446,Nangi Moose,Leopard,Predator,Sahara Square,5.0,0.5,7.7,4.1,6.7,Grey,Large,134,Low
+1447,Emmitt Lion,Rat,Prey,Downtown,7.1,2.9,7.6,0.4,6.0,Golden,Extra Large,56,Moderate
+1448,Bogo Macaque,Zebra,Prey,,8.6,3.6,5.6,5.9,0.3,Orange,Large,142,High
+1449,Larry Tiger,Hippo,Prey,Tundratown,6.0,0.0,10.0,1.7,6.3,Spotted,Extra Large,63,Moderate
+1450,Kevin Puma,Pig,Prey,Meadowlands,7.9,3.6,6.6,4.0,1.9,Grey,Extra Large,132,Moderate
+1451,Emmitt Ocelot,Moose,Prey,,5.9,2.5,6.7,1.3,7.6,Grey,Extra Large,110,Low
+1452,Koslov Moose,Wolf,Predator,Sahara Square,9.5,1.6,6.2,2.7,4.0,Spotted,Extra Large,36,High
+1453,Raymond Skunk,Cheetah,Predator,Meadowlands,6.6,3.0,9.9,2.0,2.5,Golden,Large,34,Moderate
+1454,Swift Hedgehog,Giraffe,Prey,Rainforest District,5.8,2.8,,3.9,3.9,White,Extra Large,96,Low
+1455,Gary Leopard,Otter,Predator,Sahara Square,9.4,1.8,9.5,2.5,0.8,Grey,Large,128,High
+1456,Bonnie Hippo,Mouse,Prey,Rainforest District,6.6,3.9,8.3,0.2,5.0,Golden,Extra Large,41,Moderate
+1457,Emmitt Opossum,Mouse,Prey,Tundratown,6.6,2.5,5.3,0.1,9.5,Orange,Medium,87,High
+1458,Fluffy Fox,Leopard,Predator,Meadowlands,7.2,1.1,5.8,4.1,5.8,Black,Medium,16,High
+1459,FruFru Chipmunk,Tiger,Predator,Downtown,7.6,0.8,6.6,3.6,5.4,Black,Large,73,Moderate
+1460,Frantic Pig,Moose,Prey,,8.6,2.7,7.4,3.4,1.9,White,Extra Large,78,High
+1461,Clawhauser Panther,Pig,Prey,Downtown,5.2,2.5,8.9,3.0,4.4,Striped,Extra Large,43,Low
+1462,Tail Weasel,Lion,Predator,Tundratown,8.2,2.8,9.4,1.2,2.4,Orange,Extra Large,104,High
+1463,Raymond Mouse,Hamster,Prey,Savanna Central,8.8,2.2,,1.9,1.7,Striped,Small,37,High
+1464,Gareth Hare,Moose,Prey,Meadowlands,8.7,3.9,5.4,0.3,5.7,White,Small,28,High
+1465,Chief Macaque,Mouse,Prey,Rainforest District,9.7,2.1,8.1,2.0,2.1,Orange,Small,141,High
+1466,Bucky Dingo,Moose,Prey,Rainforest District,8.7,1.2,6.5,5.0,2.6,White,Small,2,High
+1467,Gary Badger,Rabbit,Prey,Meadowlands,5.4,3.5,6.3,3.6,5.2,Orange,Extra Large,55,Low
+1468,Raymond Fox,Giraffe,Prey,Sahara Square,7.1,2.8,6.7,1.7,5.7,Orange,Large,132,Moderate
+1469,Peter Badger,Jaguar,Predator,Tundratown,10.0,3.0,8.2,1.0,1.8,Brown,Small,135,High
+1470,,Zebra,Prey,Tundratown,7.7,3.4,5.2,2.2,5.5,Black,Large,117,High
+1471,Yax Tiger,Sheep,Prey,Sahara Square,6.2,1.8,5.4,5.7,4.9,Golden,Small,17,High
+1472,Manchas Cougar,Cheetah,Predator,Tundratown,7.8,3.7,5.0,4.5,3.0,Golden,Medium,62,High
+1473,Nick Cheetah,Fox,Predator,Tundratown,9.5,0.6,5.5,2.5,5.9,Orange,Medium,115,High
+1474,Pronk Porcupine,Cheetah,Predator,Savanna Central,7.6,0.6,,4.9,5.9,Golden,Medium,125,High
+1475,Bucky Panther,Weasel,Predator,Tundratown,5.4,2.5,9.6,1.3,5.2,White,Small,45,Low
+1476,Lionheart Moose,Otter,Predator,Savanna Central,8.0,0.7,8.7,1.8,4.8,Spotted,Medium,101,Moderate
+1477,Nangi Bear,Rhino,Prey,Sahara Square,7.3,2.4,5.9,4.4,4.0,,Large,113,High
+1478,Gary Moose,Gazelle,Prey,Tundratown,5.8,2.8,5.6,2.6,7.2,Orange,Extra Large,86,High
+1479,Paws Rat,Rhino,Prey,Savanna Central,6.2,3.0,6.3,5.3,3.2,Grey,Medium,33,Moderate
+1480,Priscilla Hare,Hippo,Prey,Meadowlands,8.1,0.4,7.0,4.3,4.2,Striped,Large,14,High
+1481,Sharla Skunk,Hamster,Prey,Rainforest District,8.3,2.5,6.4,2.3,4.5,Brown,Extra Large,112,High
+1482,Fuzzy Sloth,Rat,Prey,,7.5,2.8,6.2,1.9,5.6,Black,Small,59,Moderate
+1483,Fuzzy Lynx,Hamster,Prey,Sahara Square,6.7,0.1,6.7,4.8,5.7,Grey,Large,7,Moderate
+1484,,Otter,Predator,Savanna Central,7.3,0.1,9.4,0.1,7.1,Striped,Large,68,Moderate
+1485,Bucky Mouse,Sloth,Prey,Savanna Central,9.7,2.0,6.7,5.2,0.4,Black,Small,91,High
+1486,Bonnie Beaver,Leopard,Predator,Savanna Central,7.7,0.9,7.1,,4.4,Black,Medium,39,Moderate
+1487,Frantic Rat,Rabbit,Prey,Sahara Square,8.6,0.0,9.7,0.9,4.8,,Medium,55,High
+1488,Whiskers Puma,Sloth,Prey,Rainforest District,5.2,0.5,9.9,1.9,6.5,White,Extra Large,122,Low
+1489,Doug Yak,Giraffe,Prey,Meadowlands,5.6,0.4,8.6,5.1,4.3,,Large,60,Low
+1490,Finnick Wolf,Mouse,Prey,Downtown,6.1,2.1,6.3,5.6,3.9,Black,Extra Large,45,Moderate
+1491,Nick Rat,Hamster,Prey,Meadowlands,9.5,2.3,6.8,2.1,3.3,Golden,Extra Large,141,High
+1492,Ranger Bear,Rat,Prey,Rainforest District,7.3,3.4,9.7,1.2,2.4,Striped,Small,25,Moderate
+1493,Raymond Tiger,Rhino,Prey,Sahara Square,7.8,0.4,6.0,2.5,7.3,White,Extra Large,62,Moderate
+1494,Swift Yak,Panther,Predator,Meadowlands,5.8,1.8,8.0,4.2,4.2,Brown,Medium,136,Low
+1495,Whiskers Raccoon,Leopard,Predator,Tundratown,6.9,3.5,7.8,2.5,3.3,Striped,Large,8,Moderate
+1496,Bucky Macaque,Fox,Predator,Downtown,9.1,2.5,9.2,1.6,1.6,Spotted,Small,119,High
+1497,Madge Cougar,Elephant,Prey,Rainforest District,5.6,0.1,6.5,4.2,7.6,Golden,Extra Large,133,Low
+1498,Larry Elephant,Cheetah,Predator,Tundratown,7.5,1.7,7.1,1.4,6.3,Orange,Large,13,Moderate
+1499,Kevin Hippo,Hyena,Predator,Downtown,5.7,0.8,5.3,1.2,11.0,Striped,Large,108,High
+1500,Clawhauser Mouse,Sheep,Prey,Savanna Central,6.8,0.0,,0.2,7.8,Spotted,Large,36,Moderate
+1501,Lionheart Cat,Wolf,Predator,,9.7,3.6,7.7,1.6,1.4,Striped,Small,97,High
+1502,,Cheetah,Predator,Savanna Central,,0.2,5.3,2.7,7.6,Black,Extra Large,117,High
+1503,Yax Elephant,Yak,Prey,Sahara Square,7.7,3.6,5.5,4.9,2.3,Grey,Small,112,High
+1504,Gazelle Gorilla,Gazelle,Prey,Savanna Central,6.6,1.6,5.8,3.0,7.0,White,Large,32,High
+1505,,Panther,Predator,Rainforest District,,1.8,7.5,4.8,0.9,White,Small,19,High
+1506,Paws Cat,Leopard,Predator,Meadowlands,6.3,3.5,7.9,1.3,5.0,Brown,Large,119,Moderate
+1507,Gazelle Moose,Hyena,Predator,Savanna Central,6.3,3.2,5.2,6.0,3.3,Spotted,Large,6,High
+1508,Gary Squirrel,Jaguar,Predator,Savanna Central,7.0,2.0,9.4,2.3,3.3,Black,Large,115,Moderate
+1509,Gazelle Coyote,Sloth,Prey,Meadowlands,7.7,0.2,5.0,1.5,9.6,White,Small,123,High
+1510,Madge Badger,Zebra,Prey,,5.6,1.6,8.2,4.3,4.3,Grey,Medium,137,Low
+1511,Gareth Elephant,Polar Bear,Predator,Tundratown,5.9,0.3,9.7,1.6,6.5,Golden,Medium,135,Low
+1512,Duke Jackal,Rhino,Prey,Meadowlands,9.1,3.1,8.0,1.3,2.5,,Small,54,High
+1513,Paws Sloth,Elephant,Prey,Rainforest District,6.3,0.5,7.5,3.5,6.2,,Small,3,Moderate
+1514,Snout Elephant,Leopard,Predator,Savanna Central,6.8,2.6,9.5,0.8,4.3,Striped,Extra Large,44,Moderate
+1515,Fabienne Lynx,Elephant,Prey,Savanna Central,6.9,0.6,8.1,4.4,4.0,Brown,Small,45,Moderate
+1516,Emmitt Bunny,Cheetah,Predator,Downtown,9.8,0.3,8.0,0.3,5.6,Black,Small,122,High
+1517,Bogo Bear,Sloth,Prey,Tundratown,,2.1,8.3,3.4,0.7,Golden,Extra Large,147,High
+1518,Hooves Bunny,Gazelle,Prey,Downtown,5.6,1.9,8.0,0.2,8.3,Black,Medium,47,Low
+1519,Pronk Jaguar,Rat,Prey,,6.4,0.1,7.1,5.4,5.0,Black,Medium,46,Moderate
+1520,Fuzzy Fox,Sloth,Prey,,9.6,3.0,8.7,1.9,0.8,Grey,Small,9,High
+1521,Fluffy Hedgehog,Jaguar,Predator,Savanna Central,6.0,0.8,,1.3,7.5,Golden,Medium,71,Moderate
+1522,Doug Beaver,Wolf,Predator,Meadowlands,8.9,1.8,9.0,3.6,0.7,Brown,Small,31,High
+1523,Nick Dingo,Hyena,Predator,Savanna Central,8.3,0.9,6.4,1.9,6.5,Golden,Extra Large,126,High
+1524,Claws Shrew,Lion,Predator,Tundratown,6.0,1.8,9.5,0.6,6.1,White,Small,22,Moderate
+1525,Officer Skunk,Zebra,Prey,Savanna Central,8.6,2.7,5.5,5.5,1.7,Orange,Medium,5,High
+1526,Swift Coyote,Rat,Prey,Tundratown,8.8,1.0,8.5,0.2,5.5,,Small,85,High
+1527,Kevin Armadillo,Cheetah,Predator,Savanna Central,9.2,1.8,8.2,1.1,3.7,,Medium,101,High
+1528,Fuzzy Hedgehog,Fox,Predator,Meadowlands,7.4,,7.3,5.4,1.4,Golden,Small,142,Moderate
+1529,FruFru Rat,Hedgehog,Prey,Sahara Square,7.5,3.4,9.0,1.7,2.4,White,Medium,78,Moderate
+1530,Yax Sloth,Jaguar,Predator,,9.1,0.9,7.6,4.8,1.6,Spotted,Extra Large,35,High
+1531,Agent Lion,Moose,Prey,Downtown,6.8,2.6,6.2,0.7,7.7,Spotted,Small,138,Moderate
+1532,Pronk Macaque,Cheetah,Predator,Downtown,6.4,3.4,6.7,5.8,1.7,Golden,Small,72,Moderate
+1533,Frantic Baboon,Mouse,Prey,Sahara Square,9.9,1.1,5.2,4.2,3.6,Brown,Small,105,High
+1534,Larry Yak,Zebra,Prey,Meadowlands,8.5,0.1,9.4,0.8,5.2,Spotted,Medium,30,High
+1535,Whiskers Rhino,Tiger,Predator,Savanna Central,5.6,0.7,9.8,4.2,3.7,Orange,Medium,26,Low
+1536,Flash Hippo,Gazelle,Prey,Downtown,6.7,0.9,7.4,3.3,5.7,Golden,Medium,106,Moderate
+1537,Lionheart Cheetah,Otter,Predator,,8.2,1.0,9.7,0.9,4.2,White,Large,10,High
+1538,Hooves Rhino,Rhino,Prey,Rainforest District,7.2,2.3,7.2,2.5,4.8,Striped,Extra Large,150,Moderate
+1539,Dash Sloth,Tiger,Predator,Downtown,8.7,2.7,,0.8,2.6,Orange,Extra Large,90,High
+1540,,Hippo,Prey,Rainforest District,6.8,,6.6,0.9,7.8,Black,Extra Large,39,Moderate
+1541,Dash Hopps,Tiger,Predator,Downtown,6.1,0.4,8.4,4.0,5.1,Orange,Extra Large,109,Moderate
+1542,Manchas Cheetah,Jaguar,Predator,Tundratown,7.9,3.9,7.7,4.1,0.4,White,Extra Large,12,Moderate
+1543,FruFru Bunny,Hippo,Prey,Rainforest District,5.4,0.8,7.2,3.5,7.1,Golden,Medium,69,Low
+1544,Manchas Porcupine,Sheep,Prey,Meadowlands,9.0,2.4,6.0,3.0,3.6,White,Medium,99,High
+1545,Gideon Chipmunk,Sloth,Prey,Tundratown,8.7,3.1,7.5,1.4,3.3,White,Extra Large,16,High
+1546,Dash Bunny,Otter,Predator,Tundratown,8.7,1.0,5.9,3.2,5.2,Black,Medium,58,High
+1547,Claws Rabbit,Zebra,Prey,,6.4,2.5,5.6,3.9,5.6,Spotted,Medium,53,High
+1548,Judy Armadillo,Rabbit,Prey,Rainforest District,8.9,2.4,9.9,1.0,1.8,Orange,Medium,32,High
+1549,Kevin Jaguar,Moose,Prey,Rainforest District,8.4,0.3,7.0,5.8,2.5,Striped,Small,96,High
+1550,Finnick Sheep,Tiger,Predator,Sahara Square,5.6,2.8,8.2,2.2,5.2,Black,Medium,66,Low
+1551,Bucky Tiger,Tiger,Predator,Meadowlands,9.8,0.1,6.5,5.5,2.1,Orange,Small,98,High
+1552,Nick Fox,Moose,Prey,Sahara Square,7.7,3.3,5.5,5.7,1.8,Golden,Extra Large,133,High
+1553,Judy Bunny,Mouse,Prey,Sahara Square,9.0,0.7,8.6,2.2,3.5,Golden,Small,128,High
+1554,Clawhauser Bear,Sheep,Prey,Downtown,9.8,,7.1,2.9,3.7,Orange,Large,86,High
+1555,Ranger Hedgehog,Rabbit,Prey,Meadowlands,6.9,1.5,5.3,4.1,6.2,Golden,Large,67,High
+1556,Agent Bear,Fox,Predator,Rainforest District,9.1,3.2,7.4,1.3,3.0,Brown,Extra Large,17,High
+1557,Agent Jackal,Gazelle,Prey,Savanna Central,8.2,1.2,6.2,4.4,4.0,Golden,Extra Large,109,High
+1558,Sparky Yak,Pig,Prey,Savanna Central,6.2,3.7,7.6,2.2,4.3,White,Large,56,Moderate
+1559,Larry Coyote,Polar Bear,Predator,Rainforest District,9.4,1.6,6.7,1.2,5.1,Golden,Small,21,High
+1560,Hooves Fox,Sloth,Prey,Downtown,8.4,1.2,7.9,0.4,6.1,Striped,Small,24,High
+1561,Pronk Lynx,Hamster,Prey,Tundratown,6.0,1.6,9.7,2.3,4.4,Spotted,Medium,121,Moderate
+1562,Mayor Sheep,Sheep,Prey,Sahara Square,5.6,,6.5,0.9,10.8,Golden,Small,54,Low
+1563,Priscilla Gorilla,Rabbit,Prey,Meadowlands,5.9,3.0,5.1,3.3,6.7,Grey,Extra Large,82,High
+1564,Sharla Macaque,Fox,Predator,Meadowlands,,1.3,6.5,4.4,4.0,Spotted,Small,11,Moderate
+1565,Gideon Bear,Rat,Prey,Downtown,9.4,0.8,5.5,5.4,2.9,Golden,Medium,58,High
+1566,,Polar Bear,Predator,Meadowlands,6.8,0.5,7.9,3.2,5.6,Striped,Extra Large,60,Moderate
+1567,Frantic Wolf,Polar Bear,Predator,Meadowlands,6.0,1.8,9.0,3.5,3.7,White,Extra Large,149,Moderate
+1568,Bogo Puma,Weasel,Predator,Savanna Central,,3.2,,0.6,3.6,Spotted,Large,10,High
+1570,,Rat,Prey,,6.1,2.4,9.6,4.7,1.2,,Small,71,Moderate
+1571,Gideon Opossum,Zebra,Prey,Rainforest District,9.6,3.9,5.1,3.4,2.0,Striped,Extra Large,121,High
+1572,Pronk Baboon,Zebra,Prey,Downtown,6.3,3.9,8.1,4.5,1.2,Orange,Medium,133,Moderate
+1573,Pronk Jackal,Wolf,Predator,Sahara Square,5.4,0.7,,0.1,9.0,Brown,Large,132,Low
+1574,Ranger Fox,Hamster,Prey,Tundratown,8.1,,6.7,0.6,5.8,Golden,Medium,134,High
+1575,Emmitt Shrew,Cheetah,Predator,Meadowlands,5.3,2.4,7.6,,4.2,Spotted,Medium,114,Low
+1576,Bonnie Cheetah,Zebra,Prey,Downtown,7.0,0.1,6.7,5.9,4.3,Grey,Small,62,Moderate
+1577,Doug Dog,Hedgehog,Prey,Meadowlands,9.4,1.3,7.9,4.6,0.8,White,Small,13,High
+1578,Stu Jaguar,Hippo,Prey,Rainforest District,5.4,2.0,9.8,4.2,2.6,Black,Small,100,Low
+1579,Lionheart Panther,Tiger,Predator,Tundratown,5.4,0.8,,5.0,3.9,Grey,Large,82,Low
+1580,Tail Wilde,Leopard,Predator,,5.1,3.3,8.9,1.6,5.1,White,Medium,140,Low
+1581,Agent Skunk,Jaguar,Predator,Savanna Central,8.5,0.9,5.2,1.2,8.2,Golden,Small,50,High
+1582,,Polar Bear,Predator,Rainforest District,7.1,2.0,7.4,1.6,5.9,Grey,Medium,128,Moderate
+1583,Raymond Yak,Sloth,Prey,Downtown,5.1,2.4,7.0,1.8,7.7,White,Medium,23,Low
+1584,Kevin Opossum,Cheetah,Predator,,9.3,2.0,5.7,4.2,2.8,Golden,Large,128,High
+1585,Mayor Pig,Weasel,Predator,Meadowlands,6.0,1.8,5.3,5.0,5.9,,Small,110,High
+1586,Fuzzy Leopard,Mouse,Prey,Tundratown,8.7,2.5,9.0,1.6,2.2,Black,Small,73,High
+1587,Yax Mouse,Hedgehog,Prey,Rainforest District,8.9,1.8,9.7,,1.8,Golden,Large,121,High
+1588,Snout Gorilla,Elephant,Prey,Savanna Central,9.1,2.2,5.9,2.8,4.0,Orange,Large,43,High
+1589,Hooves Mouse,Rhino,Prey,Rainforest District,9.8,3.0,9.1,0.1,2.0,Orange,Large,34,High
+1590,,Moose,Prey,Tundratown,9.2,0.2,9.3,2.9,2.4,Striped,Large,46,High
+1591,Emmitt Badger,Jaguar,Predator,,6.0,1.3,6.4,3.2,7.1,Brown,Large,51,Moderate
+1592,Finnick Chipmunk,Pig,Prey,Rainforest District,6.2,1.8,7.6,4.6,3.8,Black,Small,93,Moderate
+1593,Duke Hare,Rabbit,Prey,Rainforest District,7.2,3.2,8.1,0.6,4.9,Grey,Small,99,Moderate
+1594,Finnick Elephant,Pig,Prey,Meadowlands,7.0,,7.9,2.3,3.8,Striped,Large,90,Moderate
+1595,Officer Elephant,Rabbit,Prey,Sahara Square,5.9,0.9,7.9,2.5,6.8,Spotted,Small,114,Low
+1596,Tail Cat,Hamster,Prey,Meadowlands,8.3,3.4,6.3,2.9,3.1,Orange,Medium,6,High
+1597,Finnick Lynx,Cheetah,Predator,Tundratown,9.9,1.3,8.0,0.4,4.4,Golden,Medium,41,High
+1598,Sharla Chipmunk,Leopard,Predator,Downtown,9.8,2.9,8.9,1.7,0.7,Black,Large,133,High
+1599,Flash Badger,Leopard,Predator,Sahara Square,7.9,1.8,9.3,4.8,0.2,Grey,Large,150,Moderate
+1600,Manchas Jackal,Hedgehog,Prey,Savanna Central,7.9,2.2,7.3,1.3,5.3,White,Small,127,Moderate
+1601,Judy Rat,Sloth,Prey,Rainforest District,5.0,1.0,7.5,,8.2,Striped,Small,139,Low
+1602,Swift Baboon,Pig,Prey,,6.8,1.8,5.7,0.3,9.4,Spotted,Extra Large,17,High
+1603,Officer Sloth,Tiger,Predator,Sahara Square,8.9,2.3,,0.6,3.4,,Medium,73,High
+1604,Koslov Tiger,Yak,Prey,Tundratown,6.1,0.0,5.7,1.9,10.3,White,Medium,145,High
+1605,Jerry Opossum,Mouse,Prey,Rainforest District,5.6,3.9,6.5,0.8,7.2,Golden,Extra Large,9,Low
+1606,Officer Leopard,Rat,Prey,Sahara Square,5.3,3.4,9.8,1.4,4.1,Brown,Large,145,Low
+1607,Jerry Hippo,Zebra,Prey,Tundratown,7.3,0.1,8.2,2.5,5.9,Brown,Small,121,Moderate
+1608,Pronk Puma,Hyena,Predator,Savanna Central,8.3,1.7,5.9,4.1,4.0,Black,Medium,98,High
+1611,Whiskers Cougar,Wolf,Predator,Savanna Central,8.2,1.5,9.8,1.5,3.0,Striped,Extra Large,45,High
+1612,Hooves Panther,Mouse,Prey,Downtown,10.0,1.0,7.2,3.0,2.8,Brown,Medium,95,High
+1613,Sparky Jackal,Panther,Predator,Rainforest District,6.5,0.1,6.1,1.7,9.6,Orange,Medium,15,Moderate
+1614,Claws Cat,Jaguar,Predator,Downtown,9.4,2.8,5.4,3.9,2.5,Orange,Small,125,High
+1615,Sharla Rhino,Cheetah,Predator,Meadowlands,8.3,3.8,5.0,1.5,5.4,Black,Medium,63,High
+1616,,Otter,Predator,Rainforest District,5.5,2.1,6.2,1.1,9.1,,Small,123,Low
+1617,Hooves Sloth,Hyena,Predator,Savanna Central,9.1,0.5,7.3,5.6,1.5,White,Small,141,High
+1618,Peter Wilde,Cheetah,Predator,Sahara Square,5.9,,7.1,,7.8,,Large,15,Low
+1619,Fabienne Sloth,Tiger,Predator,Downtown,6.4,3.9,5.8,,3.5,Orange,Large,143,High
+1620,Officer Lynx,Leopard,Predator,Savanna Central,5.9,2.6,8.6,4.1,2.8,Grey,Medium,33,Low
+1621,Gazelle Badger,Rat,Prey,Sahara Square,6.6,1.0,9.8,5.5,1.1,Striped,Large,68,Moderate
+1622,Nangi Cheetah,Panther,Predator,Tundratown,7.3,1.7,5.8,2.6,6.6,Black,Medium,23,High
+1623,Whiskers Lynx,Rhino,Prey,Rainforest District,7.7,0.1,7.2,4.7,4.3,White,Small,123,Moderate
+1624,,Rabbit,Prey,Tundratown,9.5,,7.8,4.7,1.9,White,Large,16,High
+1625,Gazelle Porcupine,Sheep,Prey,Meadowlands,7.7,1.3,5.7,5.3,4.0,Orange,Extra Large,65,High
+1626,Ranger Leopard,Pig,Prey,Rainforest District,7.9,,9.0,2.9,1.5,Black,Large,97,Moderate
+1627,Bogo Shrew,Panther,Predator,Meadowlands,7.0,2.1,9.0,2.2,3.7,Golden,Medium,136,Moderate
+1628,Nick Cougar,Hamster,Prey,Sahara Square,9.6,0.4,8.2,2.4,3.4,Grey,Extra Large,55,High
+1629,Nangi Opossum,Rabbit,Prey,Downtown,7.0,2.7,5.3,3.6,5.4,Grey,Medium,125,High
+1630,Priscilla Fox,Sheep,Prey,Meadowlands,5.9,3.6,8.3,5.3,0.9,Striped,Small,104,Low
+1631,,Tiger,Predator,,7.4,2.2,9.6,4.3,0.5,Black,Large,124,Moderate
+1632,Priscilla Wilde,Elephant,Prey,,7.0,,6.4,1.6,7.4,,Small,7,Moderate
+1633,Fuzzy Jaguar,Moose,Prey,Sahara Square,9.3,0.3,8.4,1.0,5.0,White,Small,141,High
+1634,Peter Hedgehog,Hippo,Prey,Sahara Square,6.3,3.1,9.4,1.2,4.0,White,Medium,8,Moderate
+1635,Larry Raccoon,Rat,Prey,Savanna Central,7.3,,,4.1,1.3,Spotted,Small,88,Moderate
+1636,Koslov Panther,Moose,Prey,Savanna Central,9.2,0.0,7.0,5.4,2.4,Grey,Large,18,High
+1637,Fluffy Hare,Tiger,Predator,Tundratown,8.7,2.2,7.6,1.9,3.6,Black,Extra Large,46,High
+1638,Gary Raccoon,Hippo,Prey,Rainforest District,7.1,2.9,9.3,0.7,4.0,,Extra Large,130,Moderate
+1639,Stu Squirrel,Tiger,Predator,Downtown,7.3,1.6,8.4,1.5,5.2,Grey,Medium,132,Moderate
+1640,Emmitt Cheetah,Elephant,Prey,Downtown,7.1,3.6,10.0,0.4,2.9,Golden,Extra Large,21,Moderate
+1641,Ranger Dingo,Hyena,Predator,Downtown,6.2,3.8,9.8,0.4,3.8,White,Extra Large,32,Moderate
+1642,Fabienne Cougar,Panther,Predator,Downtown,5.1,,6.4,5.2,4.9,Black,Small,106,Low
+1643,Snout Otter,Tiger,Predator,Tundratown,6.4,2.7,8.4,1.3,5.2,Striped,Large,95,Moderate
+1644,Fuzzy Squirrel,Jaguar,Predator,Tundratown,6.4,3.2,9.0,2.5,2.9,Golden,Extra Large,110,Moderate
+1645,Fluffy Dog,Yak,Prey,Tundratown,8.0,2.4,9.1,1.9,2.6,Brown,Medium,56,Moderate
+1646,Snout Hippo,Sloth,Prey,Downtown,7.7,1.8,7.2,0.5,6.8,Brown,Extra Large,113,Moderate
+1648,Sparky Mouse,Lion,Predator,Meadowlands,6.9,1.8,7.7,1.2,6.4,Golden,Small,128,Moderate
+1649,FruFru Hippo,Hedgehog,Prey,Downtown,5.8,3.5,7.2,2.5,5.0,,Medium,56,Low
+1650,Fuzzy Macaque,Leopard,Predator,Rainforest District,7.8,2.2,8.5,1.0,4.5,,Medium,125,Moderate
+1651,Ranger Bunny,Fox,Predator,Sahara Square,,3.2,9.7,0.7,4.1,Orange,Medium,32,Moderate
+1652,Claws Beaver,Elephant,Prey,,5.3,1.3,5.7,4.3,7.4,,Large,115,High
+1653,,Panther,Predator,Sahara Square,7.7,0.6,5.0,4.8,5.9,Grey,Extra Large,17,High
+1654,Nick Lynx,Polar Bear,Predator,Meadowlands,6.7,2.3,6.6,0.5,7.9,Striped,Small,134,Moderate
+1655,Tail Porcupine,Yak,Prey,Downtown,6.1,0.8,7.1,3.9,6.1,Golden,Large,132,Moderate
+1656,Dash Panther,Rabbit,Prey,Meadowlands,9.8,2.4,7.4,2.5,1.9,White,Medium,26,High
+1657,FruFru Skunk,Hippo,Prey,,9.6,3.3,6.6,1.1,3.4,Spotted,Small,74,High
+1658,Gideon Lion,Rhino,Prey,Downtown,8.7,,5.3,4.3,3.7,Brown,Medium,22,High
+1659,Hooves Wolf,Moose,Prey,Downtown,9.0,1.2,8.3,2.3,3.2,Orange,Medium,112,High
+1660,Gareth Jackal,Elephant,Prey,Tundratown,9.4,2.0,6.6,4.5,1.5,,Large,8,High
+1661,Duke Lynx,Sheep,Prey,Sahara Square,6.1,1.6,9.3,4.3,2.7,Golden,Medium,74,Moderate
+1662,Raymond Moose,Mouse,Prey,Rainforest District,6.8,1.1,5.9,,5.7,White,Extra Large,94,High
+1663,Duke Skunk,Elephant,Prey,Tundratown,6.3,1.8,6.9,5.9,3.1,Grey,Extra Large,105,Moderate
+1664,Tail Rhino,Sheep,Prey,Savanna Central,5.4,2.4,8.0,2.5,5.7,Orange,Extra Large,10,Low
+1666,Duke Cougar,Yak,Prey,Downtown,6.3,0.7,9.8,5.1,2.1,Black,Large,38,Moderate
+1667,Doug Otter,Sloth,Prey,Rainforest District,6.2,1.3,6.0,3.0,7.5,Striped,Medium,129,Moderate
+1668,Doug Hopps,Elephant,Prey,Sahara Square,5.8,3.2,9.0,0.8,5.2,Black,Extra Large,8,Low
+1669,Priscilla Porcupine,Tiger,Predator,Sahara Square,7.0,0.7,6.3,1.6,8.4,White,Extra Large,69,Moderate
+1670,Gazelle Hyena,Wolf,Predator,Savanna Central,9.7,0.5,9.9,0.9,3.0,Brown,Extra Large,121,High
+1671,FruFru Hedgehog,Hamster,Prey,Tundratown,8.9,1.4,5.7,5.1,2.9,White,Small,29,High
+1672,Fabienne Puma,Fox,Predator,Rainforest District,7.8,1.9,7.5,4.4,2.4,Striped,Small,17,Moderate
+1673,Claws Chipmunk,Zebra,Prey,Savanna Central,5.4,2.7,9.5,0.3,6.1,Black,Medium,59,Low
+1674,Yax Hopps,Giraffe,Prey,Tundratown,7.2,1.6,5.7,3.0,6.5,Spotted,Medium,18,High
+1675,Nick Moose,Otter,Predator,Meadowlands,5.6,1.9,8.8,1.5,6.2,White,Extra Large,110,Low
+1676,Koslov Armadillo,Hyena,Predator,Downtown,8.4,3.4,7.1,3.9,1.2,White,Extra Large,122,High
+1677,Gareth Mouse,Lion,Predator,Tundratown,5.2,0.5,6.0,2.4,9.9,White,Extra Large,56,Low
+1678,Frantic Otter,Weasel,Predator,Savanna Central,8.3,2.8,7.9,1.8,3.2,Golden,Small,30,High
+1679,Manchas Baboon,Otter,Predator,Savanna Central,7.9,1.4,5.4,6.0,3.3,,Medium,24,High
+1680,Manchas Armadillo,Hippo,Prey,Sahara Square,8.3,1.3,7.0,1.6,5.8,Striped,Extra Large,90,High
+1681,Paws Hedgehog,Hyena,Predator,Sahara Square,6.7,,,3.1,4.0,Black,Extra Large,47,Moderate
+1682,Fabienne Wolf,Tiger,Predator,Savanna Central,,0.2,7.9,5.1,1.2,Striped,Medium,42,High
+1683,Nick Bunny,Giraffe,Prey,Sahara Square,6.2,3.5,5.1,4.4,4.8,Striped,Large,46,High
+1684,Agent Hopps,Sloth,Prey,Sahara Square,7.2,0.2,9.6,2.8,4.2,Grey,Small,87,Moderate
+1685,Gideon Moose,Hamster,Prey,Savanna Central,5.1,2.8,7.4,0.7,8.0,Golden,Small,29,Low
+1686,Chief Rat,Gazelle,Prey,Rainforest District,7.5,3.3,9.3,2.4,1.5,White,Small,47,Moderate
+1687,Bonnie Puma,Giraffe,Prey,,5.1,2.8,7.1,3.4,5.6,,Small,132,Low
+1688,Frantic Panther,Giraffe,Prey,Savanna Central,9.6,0.5,8.4,0.0,5.5,White,Extra Large,12,High
+1689,Officer Rabbit,Elephant,Prey,Downtown,9.6,0.5,5.5,2.0,6.4,Orange,Small,104,High
+1690,Claws Wilde,Hippo,Prey,Sahara Square,7.9,1.8,5.2,1.9,7.2,Striped,Extra Large,133,High
+1691,Swift Elephant,Rhino,Prey,Downtown,9.1,2.8,8.6,2.4,1.1,Spotted,Medium,123,High
+1692,Madge Weasel,Cheetah,Predator,Meadowlands,6.4,3.3,,2.2,2.2,White,Extra Large,106,Moderate
+1693,Madge Wilde,Hamster,Prey,Meadowlands,5.0,0.6,6.6,3.5,8.3,Black,Large,24,Low
+1694,Bonnie Shrew,Cheetah,Predator,Downtown,8.9,3.0,8.0,2.6,1.5,Golden,Extra Large,4,High
+1695,Fluffy Chipmunk,Weasel,Predator,Sahara Square,8.2,2.5,,5.4,0.1,White,Small,138,High
+1696,Raymond Dog,Giraffe,Prey,,9.4,0.9,5.4,2.9,5.4,Golden,Small,30,High
+1697,Emmitt Leopard,Hippo,Prey,Meadowlands,7.6,3.3,7.2,3.4,2.5,Brown,Large,146,Moderate
+1698,Manchas Hyena,Yak,Prey,Rainforest District,,3.3,5.8,3.6,3.2,Golden,Small,81,High
+1699,Emmitt Bear,Leopard,Predator,Savanna Central,8.0,,5.6,5.9,3.8,Striped,Medium,144,High
+1700,Lionheart Skunk,Hippo,Prey,Meadowlands,5.9,2.7,8.0,3.9,3.5,Golden,Medium,12,Low
+1701,Ranger Porcupine,Yak,Prey,Meadowlands,5.4,3.6,6.9,1.9,6.2,Brown,Small,53,Low
+1702,Duke Raccoon,Giraffe,Prey,Tundratown,9.3,3.7,6.5,3.9,0.6,Orange,Medium,84,High
+1703,Ranger Chipmunk,Lion,Predator,,8.9,3.7,6.2,3.0,2.2,,Large,54,High
+1704,Larry Fox,Giraffe,Prey,Downtown,5.0,2.3,6.7,1.9,8.1,Black,Small,34,Low
+1705,Hooves Rabbit,Gazelle,Prey,Savanna Central,8.2,3.4,8.0,3.8,0.6,Grey,Small,72,High
+1706,Nangi Pig,Sloth,Prey,Sahara Square,7.3,0.0,7.8,4.0,4.9,Striped,Small,15,Moderate
+1707,Swift Wilde,Hippo,Prey,,8.0,2.9,7.9,0.3,4.9,Orange,Small,92,Moderate
+1708,Doug Badger,Polar Bear,Predator,Rainforest District,6.4,0.3,7.1,3.3,6.9,White,Medium,138,Moderate
+1709,Tail Squirrel,Sheep,Prey,Meadowlands,6.6,2.9,8.2,2.0,4.3,Orange,Extra Large,69,Moderate
+1710,Sparky Wolf,Cheetah,Predator,Tundratown,8.2,2.2,5.1,4.2,4.3,Brown,Small,95,High
+1711,Dash Pig,Gazelle,Prey,Rainforest District,6.9,,9.1,2.5,1.7,Spotted,Medium,105,Moderate
+1712,Kevin Mouse,Yak,Prey,Downtown,6.7,1.9,6.5,3.1,5.8,Striped,Medium,123,Moderate
+1713,Frantic Mouse,Moose,Prey,Sahara Square,5.8,3.9,5.5,5.6,3.2,Orange,Small,114,High
+1714,Koslov Sheep,Giraffe,Prey,Savanna Central,8.6,1.7,8.2,1.9,3.6,Grey,Extra Large,56,High
+1715,Officer Raccoon,Otter,Predator,Rainforest District,6.5,2.3,7.5,3.5,4.2,Golden,Small,119,Moderate
+1716,Yax Weasel,Hyena,Predator,Rainforest District,5.4,0.2,6.3,0.4,11.7,Orange,Small,102,Low
+1717,Bonnie Fox,Hedgehog,Prey,Downtown,5.5,3.3,5.2,4.0,6.0,Spotted,Large,92,High
+1718,Lionheart Wilde,Lion,Predator,Meadowlands,7.4,1.2,,2.3,5.5,Black,Medium,8,Moderate
+1719,Fuzzy Gorilla,Sloth,Prey,Sahara Square,7.8,0.5,10.0,2.4,3.3,White,Extra Large,90,Moderate
+1720,Manchas Hare,Weasel,Predator,Downtown,6.8,3.3,7.3,4.3,2.3,Striped,Small,142,Moderate
+1721,Officer Squirrel,Leopard,Predator,Meadowlands,5.5,3.4,8.7,1.3,5.1,Black,Extra Large,113,Low
+1722,Paws Otter,Hedgehog,Prey,Meadowlands,9.9,1.0,7.3,0.2,5.6,Brown,Large,88,High
+1723,Bogo Ocelot,Yak,Prey,Savanna Central,7.0,2.3,9.8,2.5,2.4,Striped,Small,44,Moderate
+1724,Ranger Moose,Wolf,Predator,Tundratown,5.2,1.3,7.9,5.7,3.9,Orange,Medium,147,Low
+1725,Peter Sheep,Sloth,Prey,Sahara Square,9.3,0.9,6.1,1.2,6.5,White,Large,39,High
+1726,Priscilla Opossum,Hedgehog,Prey,Sahara Square,7.5,1.9,6.3,3.0,5.3,,Small,24,Moderate
+1727,Agent Cat,Cheetah,Predator,Savanna Central,5.2,0.5,9.4,4.5,4.4,Brown,Medium,136,Low
+1728,Snout Tiger,Giraffe,Prey,,6.8,3.0,8.9,4.0,1.3,Black,Large,140,Moderate
+1729,Dash Mouse,Zebra,Prey,Savanna Central,8.6,0.8,6.7,2.8,5.1,Brown,Extra Large,142,High
+1730,Paws Wolf,Otter,Predator,Meadowlands,6.6,0.6,,5.9,3.9,White,Small,146,Moderate
+1731,FruFru Leopard,Polar Bear,Predator,,6.1,2.4,7.2,0.4,7.9,Brown,Extra Large,36,Moderate
+1733,Claws Rhino,Gazelle,Prey,Downtown,9.7,1.5,7.9,3.9,1.0,Orange,Small,109,High
+1734,,Hamster,Prey,,5.7,1.2,5.7,4.9,6.5,Golden,Extra Large,66,High
+1735,Bellwether Chipmunk,Rat,Prey,Meadowlands,6.1,,9.7,2.8,2.5,,Medium,102,Moderate
+1736,Sparky Weasel,Leopard,Predator,Tundratown,6.6,1.9,8.0,5.9,1.6,Striped,Small,113,Moderate
+1737,Sparky Elephant,Hedgehog,Prey,Savanna Central,9.7,3.4,9.4,0.7,0.8,White,Large,107,High
+1738,Gazelle Armadillo,Rat,Prey,Savanna Central,7.0,3.8,7.1,3.6,2.5,White,Medium,89,Moderate
+1739,Fuzzy Cheetah,Pig,Prey,Sahara Square,8.5,3.8,6.2,4.1,1.4,Black,Extra Large,87,High
+1740,Swift Gorilla,Moose,Prey,Savanna Central,8.9,2.2,8.3,1.5,3.1,Grey,Extra Large,18,High
+1741,Gareth Dog,Sheep,Prey,Rainforest District,7.4,2.5,7.0,1.2,5.9,Striped,Extra Large,64,Moderate
+1742,Jerry Raccoon,Tiger,Predator,Sahara Square,8.7,1.6,6.8,2.4,4.5,Grey,Extra Large,47,High
+1743,Koslov Fox,Pig,Prey,Downtown,7.0,2.2,7.7,3.0,4.1,Grey,Medium,124,Moderate
+1744,Gazelle Hedgehog,Panther,Predator,Rainforest District,5.8,,9.7,3.6,4.4,,Medium,108,Low
+1745,Ranger Shrew,Zebra,Prey,Rainforest District,8.3,1.6,9.5,2.9,1.7,Striped,Small,118,High
+1746,Gazelle Hare,Polar Bear,Predator,Savanna Central,9.8,3.3,9.3,0.3,1.3,Golden,Extra Large,144,High
+1747,Dash Tiger,Yak,Prey,Sahara Square,6.4,1.1,6.4,5.1,5.0,Grey,Extra Large,130,Moderate
+1748,Officer Hyena,Polar Bear,Predator,Sahara Square,6.2,3.2,7.8,0.0,6.8,Golden,Medium,147,Moderate
+1749,Gareth Otter,Zebra,Prey,Tundratown,,1.6,5.6,4.1,5.6,Black,Medium,93,High
+1750,Lionheart Opossum,Lion,Predator,Tundratown,8.6,0.0,9.8,4.6,1.0,White,Large,107,High
+1751,Gareth Wolf,Hamster,Prey,Tundratown,9.5,0.1,9.7,3.8,0.9,Orange,Extra Large,2,High
+1752,Hooves Sheep,Leopard,Predator,Meadowlands,9.7,1.8,8.0,2.1,2.4,Black,Large,95,High
+1753,Kevin Bunny,Hippo,Prey,Rainforest District,9.7,0.3,7.5,4.1,2.4,Black,Small,38,High
+1754,Kevin Dog,Weasel,Predator,Rainforest District,9.5,3.8,,2.2,3.2,Golden,Extra Large,124,High
+1755,Jerry Gorilla,Pig,Prey,Downtown,5.1,1.3,7.7,5.5,4.4,White,Extra Large,57,Low
+1756,Bucky Hedgehog,Hippo,Prey,Savanna Central,7.7,1.1,9.5,5.3,0.4,Grey,Medium,34,Moderate
+1757,Fuzzy Lion,Tiger,Predator,Meadowlands,7.0,3.6,6.9,4.4,2.1,Striped,Extra Large,28,Moderate
+1758,Tail Sheep,Jaguar,Predator,Savanna Central,9.6,1.8,8.7,1.4,2.5,Grey,Small,72,High
+1759,Manchas Wilde,Rat,Prey,Savanna Central,5.1,0.4,7.5,4.1,6.9,Brown,Small,148,Low
+1760,Snout Sheep,Hyena,Predator,Savanna Central,8.5,2.8,7.5,4.8,0.4,Black,Small,144,High
+1761,Flash Raccoon,Hyena,Predator,Tundratown,7.4,1.8,6.0,1.8,7.0,Striped,Medium,51,Moderate
+1762,Bucky Badger,Hamster,Prey,Savanna Central,6.2,1.2,8.9,2.0,5.7,Brown,Extra Large,124,Moderate
+1763,Agent Porcupine,Weasel,Predator,Meadowlands,6.2,0.7,8.9,0.8,7.4,Spotted,Medium,118,Moderate
+1764,Manchas Dog,Hedgehog,Prey,Rainforest District,8.4,2.5,9.1,0.2,3.8,Striped,Medium,118,High
+1765,Gary Rhino,Rhino,Prey,Meadowlands,6.5,1.1,5.7,1.7,9.0,Black,Extra Large,50,High
+1766,Doug Cougar,Mouse,Prey,Meadowlands,8.3,1.5,8.6,1.9,3.7,,Medium,131,High
+1767,Whiskers Tiger,Yak,Prey,Sahara Square,6.5,2.2,5.1,0.5,9.7,Grey,Medium,22,High
+1768,Kevin Baboon,Cheetah,Predator,Downtown,8.6,0.4,9.2,4.2,1.6,Spotted,Extra Large,131,High
+1769,FruFru Bear,Panther,Predator,Tundratown,,3.3,7.0,1.2,4.4,White,Large,94,High
+1770,Dash Dingo,Giraffe,Prey,Downtown,7.7,2.3,9.7,3.9,0.4,Brown,Extra Large,55,Moderate
+1771,Priscilla Rat,Zebra,Prey,Tundratown,9.4,3.2,9.7,0.2,1.5,Striped,Large,86,High
+1772,Gary Hare,Sheep,Prey,Downtown,9.2,2.0,8.7,0.6,3.5,,Small,32,High
+1773,Pronk Gorilla,Lion,Predator,Rainforest District,6.3,2.9,,2.1,6.9,Grey,Extra Large,96,High
+1774,Bucky Puma,Weasel,Predator,Downtown,8.5,1.5,7.8,0.6,5.6,Orange,Medium,31,High
+1775,Tail Cheetah,Hedgehog,Prey,Meadowlands,9.0,1.5,8.2,3.8,1.5,Striped,Small,1,High
+1776,,Moose,Prey,Rainforest District,8.1,1.7,5.9,5.7,2.6,Orange,Large,125,High
+1777,Kevin Wolf,Panther,Predator,Savanna Central,8.8,0.8,6.7,4.9,2.8,Brown,Small,11,High
+1778,Doug Rabbit,Rat,Prey,Rainforest District,7.2,2.9,6.9,1.3,5.7,Brown,Medium,44,Moderate
+1779,Dash Beaver,Hedgehog,Prey,Sahara Square,,3.9,6.6,2.4,2.9,Black,Extra Large,8,High
+1780,Gary Wilde,Panther,Predator,Sahara Square,9.2,3.0,5.3,,0.5,Orange,Extra Large,91,High
+1781,Gareth Lion,Otter,Predator,Savanna Central,8.8,3.5,8.3,2.9,0.5,Grey,Extra Large,75,High
+1782,Nick Opossum,Panther,Predator,Tundratown,9.4,0.8,5.4,4.7,3.7,White,Extra Large,91,High
+1783,Bonnie Weasel,Rat,Prey,Meadowlands,9.2,0.7,9.3,3.3,1.5,Golden,Medium,129,High
+1784,Gary Shrew,Jaguar,Predator,Rainforest District,7.1,0.8,6.4,3.0,6.7,Grey,Large,86,Moderate
+1785,Tail Badger,Yak,Prey,Rainforest District,7.7,3.2,9.0,2.4,1.7,Golden,Extra Large,75,Moderate
+1786,Claws Wolf,Otter,Predator,Savanna Central,5.3,3.5,5.4,1.5,8.3,Black,Extra Large,96,High
+1787,Paws Fox,Giraffe,Prey,Sahara Square,8.5,,9.4,1.3,3.2,Black,Medium,101,High
+1788,Judy Pig,Yak,Prey,Downtown,7.7,3.5,9.6,0.9,2.3,Brown,Large,85,Moderate
+1789,Fluffy Bunny,Mouse,Prey,Rainforest District,7.3,2.2,9.7,4.8,0.0,Striped,Small,38,Moderate
+1790,Nangi Panther,Rabbit,Prey,Downtown,6.9,0.0,5.0,2.8,9.3,Brown,Medium,78,High
+1791,Peter Bear,Elephant,Prey,Downtown,7.4,0.1,8.4,1.8,6.3,Black,Large,115,Moderate
+1792,Clawhauser Moose,Panther,Predator,Savanna Central,5.8,1.6,6.2,3.2,7.2,Striped,Medium,70,Low
+1793,Gareth Armadillo,Hamster,Prey,Meadowlands,6.0,2.0,5.8,4.0,6.2,Orange,Large,109,High
+1794,Swift Moose,Moose,Prey,Rainforest District,7.3,0.3,8.0,1.6,6.8,Grey,Large,71,Moderate
+1795,Bogo Armadillo,Weasel,Predator,Savanna Central,7.6,2.1,9.6,2.6,2.1,Golden,Medium,96,Moderate
+1796,Clawhauser Jackal,Moose,Prey,Meadowlands,9.7,3.1,6.4,4.1,0.7,Spotted,Medium,72,High
+1797,,Sheep,Prey,Downtown,7.2,3.3,9.1,0.8,3.6,Grey,Extra Large,83,Moderate
+1798,Swift Cheetah,Rabbit,Prey,Rainforest District,6.5,1.2,8.6,1.4,6.3,Orange,Large,25,Moderate
+1799,Sharla Panther,Sloth,Prey,Rainforest District,5.0,2.9,5.9,0.6,9.6,Orange,Medium,106,High
+1800,Madge Ocelot,Wolf,Predator,Savanna Central,7.4,,9.9,4.3,2.2,Golden,Small,51,Moderate
+1801,Snout Chipmunk,Moose,Prey,Rainforest District,6.6,1.3,7.2,3.8,5.1,Orange,Extra Large,59,Moderate
+1802,Stu Wilde,Zebra,Prey,Sahara Square,9.3,1.0,6.9,5.2,1.6,,Extra Large,106,High
+1803,Duke Sloth,Giraffe,Prey,Savanna Central,8.3,1.4,8.4,0.1,5.8,Spotted,Extra Large,38,High
+1804,Peter Macaque,Wolf,Predator,Rainforest District,9.1,3.8,9.6,1.4,0.1,Striped,Large,104,High
+1805,,Rabbit,Prey,Downtown,7.6,1.4,7.3,4.1,3.6,Golden,Medium,61,Moderate
+1806,Snout Wilde,Rhino,Prey,Downtown,9.6,3.3,9.9,1.1,0.1,Golden,Large,55,High
+1807,Gazelle Raccoon,Gazelle,Prey,Savanna Central,6.4,0.4,5.6,1.7,9.9,Grey,Extra Large,67,High
+1808,Sparky Cat,Weasel,Predator,Downtown,9.5,2.5,5.0,1.1,5.9,White,Small,101,High
+1809,Snout Jackal,Rat,Prey,Meadowlands,5.5,1.5,7.5,0.3,9.2,White,Small,26,Low
+1810,Pronk Squirrel,Leopard,Predator,Rainforest District,8.2,1.9,7.5,2.6,3.8,White,Medium,12,High
+1811,Nangi Beaver,Sloth,Prey,Downtown,9.8,0.9,7.6,4.2,1.5,Brown,Extra Large,111,High
+1812,,Elephant,Prey,Downtown,6.9,1.9,5.4,3.7,6.1,Orange,Small,126,High
+1813,Manchas Elephant,Jaguar,Predator,Rainforest District,6.4,0.6,7.7,3.2,6.1,Brown,Extra Large,93,Moderate
+1814,Snout Pig,Hamster,Prey,Tundratown,8.1,,7.3,4.3,3.5,Spotted,Extra Large,91,High
+1815,Stu Jackal,Fox,Predator,Rainforest District,7.6,1.6,6.6,3.7,4.5,Golden,Small,86,Moderate
+1816,Bogo Moose,Hedgehog,Prey,Savanna Central,5.4,1.8,9.5,0.6,6.7,Brown,Extra Large,63,Low
+1817,Gareth Hippo,Giraffe,Prey,Meadowlands,9.9,,5.4,4.6,0.3,Orange,Small,141,High
+1818,Fabienne Otter,Hedgehog,Prey,Savanna Central,7.1,1.8,8.2,4.6,2.3,Spotted,Medium,8,Moderate
+1819,Whiskers Moose,Gazelle,Prey,Meadowlands,5.2,2.4,5.9,2.1,8.4,Golden,Medium,57,High
+1820,Lionheart Yak,Wolf,Predator,Rainforest District,6.7,0.4,5.7,0.2,11.0,Spotted,Extra Large,107,High
+1821,Clawhauser Skunk,Gazelle,Prey,Savanna Central,7.4,3.8,5.6,5.7,1.5,Orange,Medium,138,High
+1822,Yax Sheep,Sloth,Prey,Meadowlands,8.2,3.3,5.5,3.0,4.0,White,Small,37,High
+1823,Fluffy Elephant,Moose,Prey,Tundratown,8.5,2.3,9.2,0.3,3.7,Golden,Large,45,High
+1824,Emmitt Cougar,Mouse,Prey,Sahara Square,6.9,1.4,,5.3,2.3,Spotted,Large,134,Moderate
+1825,Pronk Rabbit,Rat,Prey,Sahara Square,,3.3,,0.6,5.6,Orange,Large,39,Moderate
+1826,Claws Hare,Leopard,Predator,Rainforest District,8.6,3.0,5.3,1.3,5.8,Striped,Medium,136,High
+1827,Nangi Hare,Hedgehog,Prey,Meadowlands,6.4,2.2,5.7,0.8,8.9,,Large,43,High
+1828,Frantic Bunny,Wolf,Predator,Tundratown,6.8,3.2,7.6,0.8,5.6,White,Medium,132,Moderate
+1829,Gary Wolf,Zebra,Prey,Savanna Central,,1.6,6.3,2.3,5.1,Spotted,Small,13,High
+1830,Emmitt Elephant,Hippo,Prey,,6.2,1.6,5.1,4.6,6.5,Spotted,Large,109,High
+1831,Priscilla Raccoon,Rabbit,Prey,,5.9,0.2,8.3,4.6,5.0,Striped,Small,39,Low
+1832,Lionheart Ocelot,Polar Bear,Predator,,6.0,2.9,8.5,1.5,5.1,White,Extra Large,145,Moderate
+1833,Duke Dog,Sheep,Prey,Sahara Square,9.5,0.4,9.9,3.6,0.6,Striped,Large,111,High
+1834,Chief Armadillo,Yak,Prey,Meadowlands,8.6,0.8,7.2,0.4,7.0,Brown,Large,37,High
+1835,,Polar Bear,Predator,Meadowlands,6.9,3.0,6.9,2.0,5.2,Striped,Small,116,Moderate
+1836,Peter Elephant,Elephant,Prey,Sahara Square,5.2,1.5,5.8,4.2,7.3,Brown,Large,21,High
+1837,Snout Mouse,Weasel,Predator,Savanna Central,5.5,2.7,6.4,1.2,8.2,Golden,Large,118,Low
+1838,,Jaguar,Predator,Rainforest District,7.4,2.0,6.6,0.8,7.2,White,Medium,70,Moderate
+1839,Gideon Beaver,Yak,Prey,Meadowlands,6.9,2.7,8.9,2.9,2.6,Black,Small,110,Moderate
+1840,Finnick Cougar,Hyena,Predator,Downtown,6.4,0.6,6.2,1.3,9.5,Brown,Medium,32,Moderate
+1841,Jerry Squirrel,Jaguar,Predator,Savanna Central,7.6,2.3,9.7,0.9,3.5,White,Large,100,Moderate
+1842,Pronk Hopps,Hippo,Prey,Downtown,7.8,1.0,6.3,0.2,8.7,Black,Medium,137,Moderate
+1843,Larry Chipmunk,Hamster,Prey,Downtown,6.5,,5.2,1.3,8.0,Orange,Large,86,High
+1844,Agent Pig,Panther,Predator,Savanna Central,7.3,2.8,6.9,1.0,6.0,Golden,Large,99,Moderate
+1845,Bellwether Fox,Hamster,Prey,Savanna Central,7.0,2.3,9.7,0.3,4.7,Grey,Medium,117,Moderate
+1846,Frantic Chipmunk,Hedgehog,Prey,Tundratown,7.5,0.1,6.6,4.9,4.9,,Large,133,Moderate
+1847,Frantic Opossum,Elephant,Prey,Downtown,7.8,1.8,,1.8,6.2,Spotted,Medium,108,Moderate
+1848,Lionheart Hyena,Zebra,Prey,Sahara Square,9.8,1.8,7.0,4.6,0.8,Striped,Large,136,High
+1849,Jerry Tiger,Jaguar,Predator,Sahara Square,7.1,2.2,6.2,4.5,4.0,,Extra Large,92,Moderate
+1850,Fabienne Raccoon,Mouse,Prey,Meadowlands,8.9,0.9,8.6,4.5,1.1,Striped,Large,94,High
+1851,Gideon Cougar,Giraffe,Prey,Sahara Square,6.7,0.7,5.0,,8.9,Striped,Medium,20,High
+1852,Ranger Cougar,Lion,Predator,Downtown,5.9,3.4,6.3,1.4,7.0,Brown,Extra Large,147,Low
+1854,Nick Cat,Cheetah,Predator,Downtown,8.9,1.8,8.6,3.5,1.2,Golden,Large,8,High
+1855,Dash Puma,Moose,Prey,Downtown,5.7,,9.1,1.1,4.2,Orange,Small,92,Low
+1856,Pronk Elephant,Zebra,Prey,,5.7,3.0,7.3,4.7,3.3,Striped,Medium,4,Low
+1857,Bonnie Rhino,Yak,Prey,Downtown,8.7,2.4,8.4,0.1,4.4,Brown,Small,53,High
+1858,Snout Cat,Sloth,Prey,Downtown,5.0,0.1,9.3,4.1,5.5,Golden,Extra Large,12,Low
+1859,Jerry Chipmunk,Fox,Predator,,6.3,2.8,9.0,1.8,4.1,Orange,Medium,22,Moderate
+1860,Bonnie Chipmunk,Cheetah,Predator,Meadowlands,7.5,3.1,6.1,1.6,5.7,,Large,40,Moderate
+1862,Clawhauser Lynx,Tiger,Predator,Sahara Square,8.2,3.0,9.9,0.5,2.4,White,Extra Large,149,High
+1863,Chief Hare,Sloth,Prey,Sahara Square,8.8,1.4,,2.5,5.4,Black,Extra Large,119,High
+1864,Claws Hyena,Sloth,Prey,Downtown,7.7,4.0,7.0,3.3,2.0,Striped,Medium,109,Moderate
+1865,Judy Lynx,Fox,Predator,Downtown,6.8,1.6,8.5,5.6,1.5,Grey,Extra Large,103,Moderate
+1866,Frantic Ocelot,Sheep,Prey,Sahara Square,,0.8,7.5,0.1,10.2,Black,Small,122,Low
+1867,Nick Sheep,Polar Bear,Predator,Rainforest District,6.3,2.1,5.1,1.6,8.9,Orange,Extra Large,17,High
+1868,Jerry Yak,Rat,Prey,Rainforest District,9.6,2.6,7.1,4.4,0.3,,Medium,126,High
+1869,Larry Bunny,Panther,Predator,Tundratown,8.9,0.8,5.7,4.1,4.5,Spotted,Large,70,High
+1870,Fluffy Gorilla,Moose,Prey,Savanna Central,8.7,2.5,9.9,1.5,1.4,Golden,Medium,92,High
+1871,Bonnie Bunny,Hyena,Predator,Downtown,5.6,3.3,6.3,4.7,4.1,Brown,Large,42,Low
+1872,Larry Hopps,Tiger,Predator,Tundratown,8.0,1.8,6.8,2.1,5.3,Spotted,Large,18,Moderate
+1873,Raymond Otter,Hedgehog,Prey,Meadowlands,8.2,3.0,8.4,0.9,3.5,Orange,Extra Large,131,High
+1874,Sparky Rabbit,Weasel,Predator,Meadowlands,7.4,2.1,8.9,3.7,1.9,,Extra Large,67,Moderate
+1875,Hooves Moose,Wolf,Predator,Savanna Central,7.0,3.6,5.8,6.0,1.6,Orange,Extra Large,116,High
+1876,Emmitt Squirrel,Moose,Prey,Rainforest District,8.6,3.2,9.3,,0.0,Brown,Small,50,High
+1877,Hooves Hedgehog,Leopard,Predator,Downtown,6.5,2.8,5.6,2.4,6.7,Black,Large,86,High
+1878,Dash Jackal,Weasel,Predator,Downtown,8.0,2.0,8.2,5.6,0.2,Orange,Small,56,Moderate
+1879,Mayor Panther,Wolf,Predator,Savanna Central,5.3,2.3,9.3,2.9,4.2,Grey,Small,103,Low
+1880,Bonnie Lion,Leopard,Predator,Downtown,6.7,0.6,9.2,3.1,4.4,Black,Extra Large,21,Moderate
+1881,Gary Cheetah,Mouse,Prey,Rainforest District,9.7,3.2,8.5,0.0,2.6,Brown,Medium,10,High
+1882,Mayor Skunk,Moose,Prey,Meadowlands,9.6,0.7,6.4,3.1,4.2,Orange,Large,33,High
+1883,Fuzzy Dog,Tiger,Predator,Downtown,6.3,0.8,8.0,0.5,8.4,Striped,Extra Large,129,Moderate
+1884,Swift Dingo,Lion,Predator,Savanna Central,8.6,2.2,7.1,3.4,2.7,Black,Medium,16,High
+1885,Pronk Armadillo,Rabbit,Prey,Savanna Central,6.8,3.7,5.3,4.0,4.2,Golden,Small,0,High
+1886,Chief Bear,Moose,Prey,Rainforest District,5.9,1.2,8.6,0.5,7.8,Striped,Large,51,Low
+1887,,Hyena,Predator,Tundratown,9.1,2.9,8.6,0.3,3.1,Golden,Medium,114,High
+1888,Kevin Coyote,Gazelle,Prey,Meadowlands,9.2,0.2,5.1,2.2,7.3,Golden,Medium,133,High
+1889,Emmitt Fox,Rat,Prey,Rainforest District,5.7,2.2,9.6,2.3,4.2,Orange,Small,93,Low
+1890,Pronk Coyote,Giraffe,Prey,Rainforest District,,2.4,7.3,5.6,3.2,Brown,Large,9,Low
+1891,Bonnie Sheep,Otter,Predator,Sahara Square,5.6,0.8,5.1,2.6,9.9,Striped,Medium,30,High
+1892,Nangi Fox,Sheep,Prey,Savanna Central,8.0,2.5,7.7,0.5,5.3,Golden,Extra Large,40,Moderate
+1893,Kevin Tiger,Moose,Prey,Rainforest District,7.2,4.0,9.2,3.2,0.4,Black,Extra Large,89,Moderate
+1894,Madge Puma,Wolf,Predator,Savanna Central,7.4,2.7,9.4,3.4,1.1,Black,Extra Large,131,Moderate
+1895,Swift Puma,Rat,Prey,Meadowlands,9.7,0.2,,4.0,5.0,Brown,Extra Large,34,High
+1896,Dash Opossum,Cheetah,Predator,Rainforest District,6.7,1.1,7.6,2.6,6.0,Brown,Small,20,Moderate
+1897,Bucky Porcupine,Fox,Predator,Tundratown,7.6,2.7,6.9,1.5,5.3,Striped,Small,67,Moderate
+1898,Whiskers Hare,Polar Bear,Predator,Meadowlands,,,8.3,0.9,3.1,Golden,Small,111,High
+1899,Nangi Raccoon,Elephant,Prey,Tundratown,7.9,2.3,7.4,3.3,3.1,Golden,Small,125,Moderate
+1900,Frantic Coyote,Wolf,Predator,,8.6,,8.7,0.8,5.5,Grey,Large,11,High
+1901,Hooves Elephant,Panther,Predator,Savanna Central,5.3,,9.8,0.3,4.7,Orange,Small,140,Low
+1902,,Hamster,Prey,Downtown,7.4,3.3,9.8,2.2,1.3,Black,Medium,42,Moderate
+1903,Gary Armadillo,Otter,Predator,Rainforest District,6.8,2.4,6.6,5.5,2.7,Brown,Extra Large,100,Moderate
+1904,Officer Hippo,Rhino,Prey,Meadowlands,6.6,,5.2,4.9,6.1,Striped,Large,85,High
+1905,Koslov Baboon,Mouse,Prey,Rainforest District,7.3,1.3,7.4,4.9,3.1,White,Extra Large,128,Moderate
+1906,Nick Elephant,Sloth,Prey,Tundratown,6.9,,5.9,3.6,6.3,Black,Large,32,High
+1907,Koslov Cheetah,Fox,Predator,Rainforest District,7.4,3.5,5.2,3.9,4.0,Golden,Large,10,High
+1908,Sparky Sheep,Fox,Predator,Savanna Central,9.4,2.9,9.6,0.7,1.4,Brown,Large,53,High
+1909,Gideon Baboon,Rat,Prey,Downtown,7.5,0.1,5.0,1.4,10.0,Golden,Extra Large,5,High
+1910,Fabienne Lion,Jaguar,Predator,Savanna Central,5.9,0.1,9.5,0.0,8.5,Brown,Extra Large,97,Low
+1911,Gideon Lynx,Yak,Prey,Tundratown,8.7,0.6,9.6,4.6,0.5,Striped,Medium,17,High
+1912,Frantic Hedgehog,Cheetah,Predator,Meadowlands,5.0,3.9,9.4,5.1,0.6,Spotted,Extra Large,138,Low
+1913,Frantic Weasel,Hedgehog,Prey,Downtown,8.3,1.4,9.5,1.4,3.4,Black,Large,97,High
+1914,Paws Wilde,Sheep,Prey,Sahara Square,9.6,0.6,6.1,,4.4,Black,Medium,47,High
+1915,Bucky Sheep,Rat,Prey,Tundratown,8.8,2.5,6.2,0.0,6.5,Orange,Small,47,High
+1916,Jerry Beaver,Panther,Predator,Downtown,9.5,1.6,7.6,2.5,2.8,Black,Extra Large,89,High
+1917,Fuzzy Elephant,Elephant,Prey,Tundratown,7.2,3.1,7.6,1.9,4.2,Golden,Medium,149,Moderate
+1918,Lionheart Weasel,Wolf,Predator,Downtown,5.7,2.6,8.4,4.5,2.8,Striped,Large,66,Low
+1919,Clawhauser Armadillo,Otter,Predator,,7.5,,9.7,,0.6,Striped,Medium,40,Moderate
+1920,Finnick Ocelot,Rabbit,Prey,Meadowlands,9.9,1.1,6.0,2.7,4.3,Striped,Medium,5,High
+1921,,Wolf,Predator,Sahara Square,5.3,3.9,7.9,3.3,3.6,Brown,Large,145,Low
+1922,Nick Hare,Gazelle,Prey,Sahara Square,5.2,2.4,8.6,2.5,5.3,Black,Extra Large,49,Low
+1924,Fuzzy Opossum,Cheetah,Predator,Downtown,9.1,1.5,7.9,4.0,1.5,Black,Extra Large,117,High
+1925,Manchas Lion,Cheetah,Predator,Savanna Central,6.2,0.7,9.9,3.7,3.5,Grey,Medium,25,Moderate
+1926,Gideon Squirrel,Jaguar,Predator,Meadowlands,6.3,2.0,6.6,1.0,8.1,Black,Extra Large,136,Moderate
+1927,Paws Beaver,Leopard,Predator,Downtown,6.3,0.1,8.5,3.0,6.1,Grey,Extra Large,70,Moderate
+1929,Gary Lynx,Panther,Predator,Rainforest District,9.5,2.9,5.4,4.9,1.3,Golden,Large,49,High
+1930,Pronk Rhino,Rabbit,Prey,Rainforest District,8.0,2.7,10.0,0.8,2.5,Spotted,Small,7,Moderate
+1931,Ranger Ocelot,Giraffe,Prey,Tundratown,8.1,,5.2,0.1,8.8,Orange,Large,107,High
+1932,Lionheart Gorilla,Yak,Prey,Tundratown,7.8,2.2,5.2,2.8,6.0,Striped,Small,1,High
+1933,Yax Jackal,Giraffe,Prey,Tundratown,9.6,1.6,8.1,3.7,1.0,Striped,Medium,56,High
+1934,Officer Hopps,Hedgehog,Prey,Downtown,9.3,1.6,9.4,0.9,2.8,,Medium,114,High
+1935,Swift Armadillo,Panther,Predator,Tundratown,6.4,0.2,9.0,2.5,5.9,Orange,Large,20,Moderate
+1936,FruFru Hyena,Moose,Prey,Rainforest District,,3.3,7.8,2.1,1.3,White,Small,86,High
+1937,Kevin Elephant,Mouse,Prey,,7.4,1.6,9.6,0.7,4.7,White,Large,19,Moderate
+1938,Dash Hedgehog,Panther,Predator,Tundratown,7.5,1.8,7.6,0.8,6.3,Black,Extra Large,14,Moderate
+1939,Lionheart Rhino,Wolf,Predator,Tundratown,7.6,1.0,5.9,0.4,9.1,Brown,Extra Large,3,High
+1940,Duke Jaguar,Rhino,Prey,Sahara Square,8.1,2.9,,2.2,2.4,Spotted,Large,147,High
+1941,Koslov Squirrel,Hamster,Prey,Rainforest District,6.9,1.5,,3.0,4.4,Golden,Large,34,Moderate
+1942,Emmitt Hedgehog,Fox,Predator,Sahara Square,8.2,1.2,5.1,5.3,4.2,Orange,Extra Large,66,High
+1943,Mayor Beaver,Pig,Prey,Savanna Central,6.1,3.7,,4.3,1.3,Orange,Extra Large,0,Moderate
+1944,Bucky Elephant,Moose,Prey,Rainforest District,7.6,0.7,6.5,1.9,7.3,Black,Medium,32,Moderate
+1945,Flash Rabbit,Tiger,Predator,Savanna Central,5.8,0.8,8.9,1.0,7.5,Spotted,Large,67,Low
+1946,Judy Opossum,Sloth,Prey,Meadowlands,9.9,1.3,5.6,3.4,3.8,Golden,Large,111,High
+1947,Officer Opossum,Leopard,Predator,Meadowlands,9.5,3.1,8.1,1.0,2.3,Spotted,Small,48,High
+1948,Larry Panther,Gazelle,Prey,Sahara Square,8.4,2.9,9.8,0.8,2.1,Brown,Medium,21,High
+1949,Pronk Leopard,Polar Bear,Predator,Meadowlands,5.1,2.2,8.5,4.7,3.5,Grey,Small,85,Low
+1950,Priscilla Armadillo,Moose,Prey,,7.6,1.3,9.3,2.7,3.1,Black,Medium,61,Moderate
+1951,Fluffy Ocelot,Gazelle,Prey,Meadowlands,9.0,2.3,8.9,1.3,2.5,,Small,44,High
+1952,Jerry Fox,Panther,Predator,Meadowlands,7.7,0.9,7.4,1.9,6.1,Grey,Medium,74,Moderate
+1953,Flash Squirrel,Sheep,Prey,Downtown,6.3,,5.8,4.7,3.3,,Small,55,High
+1954,Ranger Otter,Pig,Prey,Savanna Central,5.2,1.6,9.7,0.1,7.4,Orange,Large,24,Low
+1955,Duke Opossum,Mouse,Prey,Meadowlands,7.9,2.0,,0.4,4.3,Striped,Small,117,Moderate
+1956,Judy Hare,Sloth,Prey,Sahara Square,8.3,3.8,9.1,0.1,2.7,Grey,Large,39,High
+1957,Paws Baboon,Hedgehog,Prey,Tundratown,7.4,1.6,6.6,2.7,5.7,Golden,Medium,13,Moderate
+1958,Clawhauser Fox,Polar Bear,Predator,Meadowlands,9.9,0.4,9.6,2.0,2.1,Golden,Large,146,High
+1959,Madge Macaque,Wolf,Predator,Savanna Central,8.1,3.3,6.8,2.5,3.3,Striped,Medium,50,High
+1960,Gary Hyena,Cheetah,Predator,Sahara Square,9.6,3.3,5.5,0.6,5.0,Black,Small,3,High
+1961,,Panther,Predator,Downtown,7.1,0.4,8.1,0.9,7.5,White,Extra Large,1,Moderate
+1962,Whiskers Cat,Giraffe,Prey,Savanna Central,6.6,2.7,7.4,5.9,1.4,,Extra Large,121,Moderate
+1963,Gary Cougar,Cheetah,Predator,Tundratown,9.4,1.4,5.2,5.1,2.9,Grey,Extra Large,44,High
+1964,Sharla Bear,Hamster,Prey,Downtown,9.5,0.9,9.5,1.3,2.8,Spotted,Large,141,High
+1965,Fabienne Skunk,Gazelle,Prey,Rainforest District,9.9,,9.8,0.2,3.0,Brown,Medium,6,High
+1966,Yax Dog,Rabbit,Prey,Rainforest District,7.4,0.9,8.5,1.1,6.1,Orange,Large,74,Moderate
+1967,Paws Hyena,Leopard,Predator,Meadowlands,7.8,1.0,9.8,0.2,5.2,Striped,Extra Large,97,Moderate
+1968,Snout Hedgehog,Sheep,Prey,Tundratown,7.1,0.9,7.5,5.2,3.3,Spotted,Large,93,Moderate
+1969,Bogo Opossum,Jaguar,Predator,Savanna Central,8.6,2.3,5.4,4.2,3.5,Orange,Medium,108,High
+1970,Hooves Hyena,Zebra,Prey,Sahara Square,6.3,1.7,6.8,5.2,4.0,Orange,Small,101,Moderate
+1971,Chief Gorilla,Panther,Predator,Downtown,5.6,2.3,5.7,4.2,6.2,Brown,Medium,56,High
+1972,Madge Jaguar,Otter,Predator,Rainforest District,7.4,3.7,,2.6,2.7,Brown,Medium,9,Moderate
+1973,Emmitt Jaguar,Weasel,Predator,Meadowlands,7.9,2.8,5.5,,2.9,Striped,Extra Large,125,High
+1974,Koslov Otter,Moose,Prey,Sahara Square,8.9,1.5,5.5,3.8,4.3,Spotted,Small,105,High
+1975,Emmitt Cat,Wolf,Predator,Sahara Square,9.4,3.6,9.8,1.0,0.2,Grey,Extra Large,57,High
+1976,Doug Pig,Otter,Predator,Sahara Square,8.0,2.4,6.8,5.4,1.4,Grey,Small,62,Moderate
+1977,Koslov Hare,Hippo,Prey,Rainforest District,7.5,1.9,10.0,2.3,2.3,Orange,Small,33,Moderate
+1978,Tail Leopard,Pig,Prey,Downtown,9.1,3.1,8.9,2.1,0.8,Grey,Extra Large,94,High
+1979,Stu Ocelot,Pig,Prey,Downtown,6.3,3.4,9.5,0.9,3.9,Orange,Extra Large,101,Moderate
+1980,FruFru Cougar,Gazelle,Prey,Downtown,8.2,2.2,5.3,4.5,3.8,White,Medium,58,High
+1981,Agent Rat,Pig,Prey,Savanna Central,7.5,2.6,7.5,3.0,3.4,Brown,Large,132,Moderate
+1983,Manchas Skunk,Giraffe,Prey,Downtown,6.3,2.4,8.1,0.9,6.3,Black,Large,31,Moderate
+1984,Manchas Jaguar,Rat,Prey,,6.2,1.2,9.7,5.0,1.9,Golden,Extra Large,35,Moderate
+1985,Raymond Opossum,Fox,Predator,Savanna Central,8.5,0.3,7.1,3.4,4.7,White,Large,74,High
+1986,Swift Opossum,Hedgehog,Prey,Meadowlands,8.0,1.3,8.9,4.9,0.9,Black,Extra Large,10,Moderate
+1987,Agent Leopard,Hedgehog,Prey,Sahara Square,6.6,3.4,5.5,5.0,3.5,White,Medium,18,High
+1988,Fluffy Squirrel,Mouse,Prey,Savanna Central,9.5,1.5,6.4,3.0,3.6,Brown,Extra Large,49,High
+1989,Dash Raccoon,Hyena,Predator,Meadowlands,,1.4,8.5,4.6,2.2,Brown,Extra Large,42,Moderate
+1990,Stu Sloth,Polar Bear,Predator,Tundratown,7.0,2.7,7.4,6.0,0.9,Orange,Small,105,Moderate
+1991,Bucky Otter,Rhino,Prey,Savanna Central,8.6,3.8,9.2,2.2,0.2,Golden,Extra Large,20,High
+1992,Dash Chipmunk,Pig,Prey,Tundratown,6.3,1.5,5.1,3.1,8.0,,Extra Large,7,High
+1993,,Rhino,Prey,Meadowlands,7.5,2.1,9.9,4.1,0.4,White,Extra Large,96,Moderate
+1994,Peter Rat,Polar Bear,Predator,Meadowlands,7.1,1.4,9.0,3.1,3.4,Brown,Extra Large,15,Moderate
+1995,FruFru Porcupine,Gazelle,Prey,Downtown,7.9,3.4,,0.5,3.2,Brown,Large,102,Moderate
+1996,,Rabbit,Prey,Downtown,6.5,0.2,7.4,2.1,7.8,Golden,Large,42,Moderate
+1997,Officer Otter,Hyena,Predator,Downtown,6.3,2.8,8.8,1.5,4.6,Orange,Large,99,Moderate
+1998,Sparky Dingo,Moose,Prey,Downtown,6.2,0.0,,0.8,10.8,Brown,Large,129,Moderate
+1999,Mayor Opossum,Lion,Predator,Meadowlands,8.1,0.7,7.6,3.5,4.1,Golden,Medium,125,High
+2000,Chief Coyote,Zebra,Prey,Downtown,9.0,1.7,7.3,3.1,2.9,Black,Medium,117,High
